@@ -1,0 +1,2509 @@
+[
+  {
+    "id": "pGRDN002XFK7K18YN_aGRDNHDJ8FK89VJHP_s1.2.826.0.1.3680043.8.498.27203098707035228697184844539807478964",
+    "ground_truth_report": "A right internal jugular central venous catheter has been placed with its tip in the lower SVC. No pneumothorax. Very low lung volumes. Left lower lobe consolidation versus atelectasis. Heart is upper normal in size.",
+    "ground_truth_findings": [
+      "Very low lung volumes",
+      "Left lower lobe consolidation",
+      "Left lower lobe atelectasis",
+      "Right internal jugular central venous catheter with tip in the lower SVC"
+    ],
+    "C1_report": "The patient is a 72-year-old male. The chest X-ray shows a central venous catheter, likely a right internal jugular approach, with the tip terminating in the mid to lower superior vena cava. The cardiomediastinal silhouette is within normal limits. The lung fields are clear bilaterally without evidence of consolidation, effusion, or pneumothorax. The visualized bony structures appear intact. The abdominal aortic aneurysm is not well visualized on this chest X-ray, as it is primarily an abdominal structure.",
+    "C1_findings": [
+      "Central venous catheter via right internal jugular approach with tip in mid to lower superior vena cava",
+      "Abdominal aortic aneurysm"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Cardiomediastinal silhouette is at the upper limits of normal size. Severely reduced lung volumes are present. A central venous catheter via the left internal jugular vein has been placed, with its tip projecting in the lower SVC. At the left lung base, there is an opacity compatible with consolidation versus atelectasis. No evidence of pneumothorax.",
+    "C2_findings": [
+      "severely reduced lung volumes",
+      "left lung base opacity compatible with consolidation or atelectasis",
+      "left internal jugular central venous catheter with tip in the lower SVC"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "072Y",
+    "PatientSex": "F",
+    "Indication": "Central line placement.  Abdominal aortic aneurysm.",
+    "Comparison": "Comparison: 04/10/2017",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN004OHRNA5G23_aGRDNLHWIKX0FGYYT_s1.2.826.0.1.3680043.8.498.17703255475899565489528248987988286352",
+    "ground_truth_report": "No pneumonia is seen. There is peribronchial thickening with somewhat prominent perihilar markings which may indicate a viral process or reactive airways disease. The heart is within normal limits in size. No bony abnormality is seen.",
+    "ground_truth_findings": [
+      "peribronchial thickening",
+      "prominent perihilar markings"
+    ],
+    "C1_report": "Peribronchial thickening with mildly prominent perihilar markings, which can be seen with a viral process or reactive airways disease. Cardiac size is within normal limits. No evidence of pneumonia. No osseous abnormality identified.",
+    "C1_findings": [
+      "Peribronchial thickening",
+      "mildly prominent perihilar markings"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a frontal view of a 19-month-old male patient. The lung fields are relatively clear bilaterally, without evidence of focal consolidation, pleural effusion, or pneumothorax. The cardiac silhouette appears normal in size and configuration. The mediastinal contours are unremarkable. The visualized bony structures, including the ribs and clavicles, appear intact. There is no evidence of significant hyperinflation or air trapping.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "019M",
+    "PatientSex": "M",
+    "Indication": "Cough, wheezing, rapid heart rate",
+    "Comparison": "",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN004V5XR2LNXT_aGRDNGRX1O3FRCDLD_s1.2.826.0.1.3680043.8.498.69613226067284446491252155018838527244",
+    "ground_truth_report": "The lungs are well-expanded and clear. The heart and pulmonary vascularity are normal. The mediastinum is normal in width. There is no pleural effusion or pneumothorax. The bony thorax is unremarkable.",
+    "ground_truth_findings": [],
+    "C1_report": "Artifact from EKG leads. Normal heart size and mediastinal contours. No acute infiltrate or edema. No effusion or pneumothorax. No acute osseous findings.",
+    "C1_findings": [],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a consolidation in the right upper lobe, obscuring the right heart border and the right paratracheal stripe. There is also evidence of volume loss in the right lung, indicated by the elevation of the right hemidiaphragm and the shift of the mediastinum towards the right. The left lung appears clear. No pleural effusion or pneumothorax is identified.",
+    "C2_findings": [
+      "right upper lobe consolidation",
+      "obscuration of the right heart border",
+      "obscuration of the right paratracheal stripe",
+      "right lung volume loss",
+      "elevation of the right hemidiaphragm",
+      "mediastinal shift towards the right",
+      "right upper lobe pneumonia",
+      "likely post-obstructive atelectasis",
+      "likely bronchiectasis"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "021Y",
+    "PatientSex": "F",
+    "Indication": "One month of productive cough associated with upper chest discomfort and shortness of breath. Nonsmoker. History of childhood pneumonia.",
+    "Comparison": "None in PACs",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN007CKBZ2NIGW_aGRDN3LLPO3SHXJ1L_s1.2.826.0.1.3680043.8.498.33884694559198174166270216269574120410",
+    "ground_truth_report": "The heart size and mediastinal contours are within normal limits. Both lungs are clear. The visualized skeletal structures are unremarkable.",
+    "ground_truth_findings": [],
+    "C1_report": "The lungs are clear bilaterally. Cardiac size and mediastinal contours are within normal limits. The visualized osseous structures are unremarkable.",
+    "C1_findings": [],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a normal cardiomediastinal silhouette. The lungs are clear bilaterally without evidence of consolidation, effusion, or pneumothorax. The visualized bony structures appear intact. There is no evidence of acute cardiopulmonary pathology.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "060Y",
+    "PatientSex": "F",
+    "Indication": "Headache and chest pain.",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN00831R2YXD91_aGRDN4D6PJ17NX6MC_s1.2.826.0.1.3680043.8.498.22198066198487352579984726857219821166",
+    "ground_truth_report": "Kyphotic positioning with rotation to the RIGHT. Enlargement of cardiac silhouette post median sternotomy. Stable mediastinal contours. BILATERAL patchy pulmonary infiltrates which could represent multifocal pneumonia or pulmonary edema. No pleural effusion or pneumothorax. Bones demineralized.",
+    "ground_truth_findings": [
+      "enlargement of cardiac silhouette",
+      "status post median sternotomy",
+      "bilateral patchy pulmonary infiltrates",
+      "bones demineralized"
+    ],
+    "C1_report": "The chest X-ray shows bilateral, predominantly peripheral and basal, airspace opacities. These opacities are somewhat patchy and ill-defined, consistent with interstitial and alveolar involvement. There is no evidence of pleural effusion or pneumothorax. The cardiac silhouette appears normal in size. The mediastinal contours are unremarkable.",
+    "C1_findings": [
+      "Bilateral peripheral and basal airspace opacities",
+      "Patchy, ill-defined opacities",
+      "Interstitial and alveolar involvement",
+      "Bilateral pneumonia"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Rightward rotation with a kyphotic posture. Cardiac silhouette is enlarged, compatible with postoperative changes from prior median sternotomy, and the mediastinal contours are unchanged. No evidence of pneumothorax or pleural effusion. Osseous structures appear demineralized. A left subclavian dual-chamber pacemaker is in place, with leads projecting to the right atrium and right ventricle in expected positions.",
+    "C2_findings": [
+      "enlarged cardiac silhouette",
+      "postoperative changes from prior median sternotomy",
+      "osseous demineralization",
+      "Left subclavian dual-chamber pacemaker with leads to the right atrium and right ventricle in expected positions"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "059Y",
+    "PatientSex": "F",
+    "Indication": "Shortness of breath, weakness, COVID-19 positive",
+    "Comparison": "Portable exam F1H26-5O hours compared to 09/05/1992",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN00BJD83T3VLP_aGRDNZTPKE2CBQJ76_s1.2.826.0.1.3680043.8.498.95242709805192383548006364604404808767",
+    "ground_truth_report": "Right arm PICC has its tip either at the SVC/RA junction or just within the right atrium. Withdraw 1 cm to be definitely above the right atrium. Bilateral pulmonary infiltrates persist with improvement in aeration in the right upper lobe.",
+    "ground_truth_findings": [
+      "Right arm PICC tip at the SVC/RA junction or within the right atrium",
+      "Bilateral pulmonary infiltrates"
+    ],
+    "C1_report": "The chest X-ray shows a right-sided PICC line with its tip terminating in the mid-to-lower superior vena cava. The cardiomediastinal silhouette is within normal limits. The lung fields are clear bilaterally, without evidence of focal consolidation, pleural effusion, or pneumothorax. The visualized bony structures appear intact.",
+    "C1_findings": [
+      "Right-sided PICC line with tip in the mid-to-lower superior vena cava"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Bilateral pulmonary infiltrates remain. The right upper lobe infiltrate is more circumscribed and dense in appearance. There also are right lower and left lower lung infiltrates present. The heart size is stable. No significant component of pleural fluid identified.",
+    "C2_findings": [
+      "Bilateral pulmonary infiltrates",
+      "Right upper lobe infiltrate, more circumscribed and dense in appearance",
+      "Right lower lobe infiltrate",
+      "Left lower lobe infiltrate"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "025Y",
+    "PatientSex": "F",
+    "Indication": "PICC line placement. Pneumonia.",
+    "Comparison": "Comparison: [DATE]",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN00BYWF1S0P6W_aGRDNB4ZRH9TH3GA6_s1.2.826.0.1.3680043.8.498.17776388832901145351694011965396916857",
+    "ground_truth_report": "Prior CABG and valve replacement. Heart is borderline in size. Improving aeration in the left base with minimal residual left base atelectasis and small left effusion. Degenerative changes in the thoracic spine.",
+    "ground_truth_findings": [
+      "Heart is borderline in size",
+      "minimal residual left base atelectasis",
+      "small left pleural effusion",
+      "Degenerative changes in the thoracic spine",
+      "Prior CABG",
+      "Prior valve replacement"
+    ],
+    "C1_report": "Normal cardiac silhouette. There is small focus of atelectasis at the lateral left lung bases. No focal consolidation. Based right pleural effusion. No pneumothorax. Degenerative osteophytosis of the thoracic spine.",
+    "C1_findings": [
+      "small focus of atelectasis at the lateral left lung bases",
+      "right pleural effusion",
+      "degenerative osteophytosis of the thoracic spine"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The cardiomediastinal silhouette is present. The heart size appears within normal limits. The mediastinal contours are unremarkable. The lung fields are clear bilaterally, without evidence of consolidation, effusion, or pneumothorax. The visualized bony structures appear intact. The patient is status post coronary artery bypass grafting (CABG), as evidenced by the presence of mediastinal clips.",
+    "C2_findings": [
+      "status post coronary artery bypass grafting",
+      "mediastinal clips"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "081Y",
+    "PatientSex": "M",
+    "Indication": "Follow-up CABG.",
+    "Comparison": "Comparison: 8/15/2007",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN00EAN9F0X1TC_aGRDNO2CG6DI3CL7R_s1.2.826.0.1.3680043.8.498.83231173738438171639829922832509721222",
+    "ground_truth_report": "No active infiltrate or effusion is seen. Mediastinal contours appear normal. The heart is within normal limits in size. No bony abnormality is seen.",
+    "ground_truth_findings": [],
+    "C1_report": "Lungs are clear without focal airspace opacities, and no pleural effusion is identified. The bony thorax shows no acute abnormality. Mediastinal contours are unremarkable. The cardiac silhouette appears mildly enlarged.",
+    "C1_findings": [
+      "mildly enlarged cardiac silhouette"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a predominantly apical and posterior distribution of emphysematous changes, characterized by hyperlucency and attenuation of pulmonary vessels. There is also evidence of bullous emphysema, particularly noted in the upper lobes. The lung volumes appear relatively normal. The heart size is within normal limits. The mediastinal contours are unremarkable. No acute focal consolidation, pleural effusion, or pneumothorax is identified. There are no findings suggestive of active tuberculosis on this radiograph, such as cavitary lesions, infiltrates, or hilar adenopathy.",
+    "C2_findings": [
+      "Predominantly apical and posterior emphysematous changes",
+      "Bullous emphysema in the upper lobes",
+      "Severe emphysema"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "019Y",
+    "PatientSex": "M",
+    "Indication": "Positive TB test, former smoking history",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 1V"
+  },
+  {
+    "id": "pGRDN00EKSSAA1Y0J_aGRDNHANN744XTR97_s1.2.826.0.1.3680043.8.498.40089086953512954902978160332448649783",
+    "ground_truth_report": "Normal heart size. No pleural effusion or edema. Right lung is clear. Patchy opacities within the left mid and lower lung zone identified. The visualized osseous structures are unremarkable.",
+    "ground_truth_findings": [
+      "patchy opacities within the left mid and lower lung zones"
+    ],
+    "C1_report": "Patchy opacities are present in the left mid and lower lung zones. The right lung is clear. The cardiomediastinal silhouette is normal in size. No pleural effusion or pulmonary edema is identified. The visualized osseous structures are unremarkable.",
+    "C1_findings": [
+      "patchy opacities in the left mid and lower lung zones"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a large, well-defined, rounded opacity in the right lower lung field, consistent with a mass. The mass appears to be located peripherally. There is also evidence of volume loss in the right hemithorax, suggested by the slight elevation of the right hemidiaphragm and the shift of the mediastinum towards the right. The left lung appears clear. No pleural effusion or pneumothorax is identified. The visualized bony structures appear intact.",
+    "C2_findings": [
+      "Large peripheral right lower lobe mass",
+      "Right hemithorax volume loss",
+      "Slight elevation of the right hemidiaphragm",
+      "Mediastinal shift towards the right"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "019Y",
+    "PatientSex": "F",
+    "Indication": "Hemoptysis.",
+    "Comparison": "",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN00EV1K0ZJFXU_aGRDN9KDKK5KURMLN_s1.2.826.0.1.3680043.8.498.13470332080236713087306441044018671727",
+    "ground_truth_report": "The lungs are clear. Heart size is normal. No pneumothorax or pleural effusion. No focal bony abnormality.",
+    "ground_truth_findings": [],
+    "C1_report": "The cardiomediastinal silhouette is within normal limits. The hila are unremarkable. The lungs are clear bilaterally with no evidence of consolidation, effusion, or pneumothorax. The visualized bony structures appear intact.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "Cardiac silhouette is mildly enlarged. The lungs are clear. No pneumothorax or pleural effusion is seen. No acute or focal osseous abnormality.",
+    "C2_findings": [
+      "mildly enlarged cardiac silhouette"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "033Y",
+    "PatientSex": "M",
+    "Indication": "Unwitnessed fall and seizure like activity today. Initial encounter.",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 1V"
+  },
+  {
+    "id": "pGRDN00EWCZZRMD4B_aGRDN4NBOQ9P6VDUU_s1.2.826.0.1.3680043.8.498.55641135279161906067508706447979078817",
+    "ground_truth_report": "Diffuse reticulonodular opacity shows some improvement since the 09/09/2000 study. No new airspace disease is identified. No effusion. Heart size is normal.",
+    "ground_truth_findings": [
+      "diffuse reticulonodular opacity"
+    ],
+    "C1_report": "There has been marked interval improvement in patient’s bilateral aeration disturbance. However, there is persistent airspace disease throughout the left lung with a lesser degree of airspace disease in the right upper lobe. Cardiomegaly. No lung mass is again noted. Hiatal hernia.",
+    "C1_findings": [
+      "bilateral aeration disturbance",
+      "persistent airspace disease throughout the left lung",
+      "airspace disease in the right upper lobe",
+      "cardiomegaly",
+      "hiatal hernia"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a predominantly interstitial pattern, particularly in the lower lung fields, suggestive of interstitial lung disease. There is also evidence of bronchial wall thickening, which could indicate bronchitis or bronchiectasis. The cardiac silhouette appears normal in size. The mediastinal contours are unremarkable. No pleural effusions or pneumothorax are identified. The hila appear normal.",
+    "C2_findings": [
+      "interstitial lung disease",
+      "bronchial wall thickening"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "051Y",
+    "PatientSex": "M",
+    "Indication": "Cough, shortness of breath.",
+    "Comparison": "Plain films of the chest 09/09/2000 09/02/2005.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN00EWCZZRMD4B_aGRDNYADDL282OGON_s1.2.826.0.1.3680043.8.498.17986217945554418500195777712104047921",
+    "ground_truth_report": "Trachea is midline. Heart size normal. Diffuse micronodular pattern persists. No pleural fluid.",
+    "ground_truth_findings": [
+      "diffuse micronodular pattern"
+    ],
+    "C1_report": "Heart size within normal limits. Trachea is midline. Persistent diffuse micronodular pattern. No pleural effusion.",
+    "C1_findings": [
+      "persistent diffuse micronodular pattern"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The cardiomediastinal silhouette is within normal limits. The hila are unremarkable. The lungs are clear bilaterally without evidence of focal consolidation, pleural effusion, or pneumothorax. There is no evidence of pulmonary edema. The visualized bony structures appear intact.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "051Y",
+    "PatientSex": "M",
+    "Indication": "Cough, shortness of breath.",
+    "Comparison": "Comparison: 9/11/2017, 04/05/1993, 2/2/1996 and 2/2/1990",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN00FJS7H4KGEJ_aGRDNUINN8T4ITBEG_s1.2.826.0.1.3680043.8.498.41193577847552744158970668755065006979",
+    "ground_truth_report": "Nondisplaced fractures are seen involving the lateral portions of the left ninth, tenth and eleventh ribs. There is no evidence of pneumothorax or pleural effusion. Both lungs are clear. Heart size and mediastinal contours are within normal limits.",
+    "ground_truth_findings": [
+      "Nondisplaced fractures of the lateral portions of the left ninth, tenth, and eleventh ribs"
+    ],
+    "C1_report": "The chest radiograph demonstrates unremarkable mediastinal and hilar contours. The cardiac silhouette is within normal limits in size. The lungs are clear bilaterally without evidence of consolidation, effusion, or pneumothorax. The visualized bony structures, including the ribs, appear intact. There is no evidence of acute fracture identified on this examination.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "Nondisplaced fractures are present involving the lateral aspects of the left ninth, tenth, and eleventh ribs. The cardiomediastinal silhouette is within normal limits. The lungs are clear bilaterally. No pneumothorax or pleural effusion is identified.",
+    "C2_findings": [
+      "nondisplaced fracture of the lateral aspect of the left ninth rib",
+      "nondisplaced fracture of the lateral aspect of the left tenth rib",
+      "nondisplaced fracture of the lateral aspect of the left eleventh rib"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "066Y",
+    "PatientSex": "M",
+    "Indication": "Acute left rib pain after fall in shower several days ago. Initial encounter.",
+    "Comparison": "None.",
+    "StudyDescription": "DG RIBS W/ CHEST 3+V*L*"
+  },
+  {
+    "id": "pGRDN00FJS7H4KGEJ_aGRDNVGYONX5027IE_s1.2.826.0.1.3680043.8.498.55789904602949698737685147153669043725",
+    "ground_truth_report": "There is an acute appearing fracture of the anterior left tenth rib. There is no edema or consolidation. Heart size and pulmonary vascularity normal. No adenopathy. No pneumothorax. No effusion.",
+    "ground_truth_findings": [
+      "acute appearing fracture of the anterior left tenth rib"
+    ],
+    "C1_report": "The radiograph demonstrates a fracture of the left seventh rib, which appears displaced. There is also a fracture of the left eighth rib, which also appears displaced. The fractures are located posteriorly. The visualized lung fields are clear without evidence of pneumothorax or pleural effusion. The cardiac silhouette and mediastinal contours are within normal limits.",
+    "C1_findings": [
+      "displaced fracture of the left seventh rib",
+      "displaced fracture of the left eighth rib"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Nondisplaced fractures are seen involving the lateral portions of the left ninth, tenth and eleventh ribs. There is no evidence of pneumothorax or pleural effusion. Both lungs are clear. Heart size and mediastinal contours are within normal limits.",
+    "C2_findings": [
+      "Nondisplaced fracture of the lateral portion of the left ninth rib",
+      "Nondisplaced fracture of the lateral portion of the left tenth rib",
+      "Nondisplaced fracture of the lateral portion of the left eleventh rib"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "066Y",
+    "PatientSex": "M",
+    "Indication": "Left-sided pain following fall",
+    "Comparison": "January 08, 2022",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN00G6KOJ88WRH_aGRDN9HW29KQYPH7P_s1.2.826.0.1.3680043.8.498.38285700924038189473875664995514780847",
+    "ground_truth_report": "Small bilateral pleural effusions have not significantly changed. Changes of COPD are again noted. Right upper lobe scarring and bullous changes are again seen and stable. Healing right lateral rib fractures are also unchanged.",
+    "ground_truth_findings": [
+      "Small bilateral pleural effusions",
+      "Changes of COPD",
+      "Right upper lobe scarring",
+      "Right upper lobe bullous changes",
+      "Healing right lateral rib fractures"
+    ],
+    "C1_report": "A right internal jugular central venous catheter has been placed with its tip in the lower SVC. No pneumothorax. Very low lung volumes. Left lower lobe consolidation versus atelectasis. Heart is upper normal in size.",
+    "C1_findings": [
+      "Very low lung volumes",
+      "Left lower lobe consolidation versus atelectasis",
+      "Right internal jugular central venous catheter with tip in the lower SVC"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The cardiomediastinal silhouette is within normal limits in size and contour. The pulmonary vasculature appears normal. The lungs are clear bilaterally without evidence of focal consolidation, pleural effusion, or pneumothorax. There are no acute osseous abnormalities identified.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "063Y",
+    "PatientSex": "M",
+    "Indication": "3rd degree heart block. Shortness of breath. Lung cancer.",
+    "Comparison": "Comparison: 07/09/03.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN00HG85F3EMMO_aGRDNP3WNIWW15ME8_s1.2.826.0.1.3680043.8.498.37979537477343416684680657055110569401",
+    "ground_truth_report": "Mild interstitial prominence. No dense consolidation, effusion, or pneumothorax. Evidence of a hiatal hernia. The cardiomediastinal silhouette is unchanged. There is acromioclavicular osteoarthropathy.",
+    "ground_truth_findings": [
+      "mild interstitial prominence",
+      "hiatal hernia",
+      "acromioclavicular osteoarthropathy"
+    ],
+    "C1_report": "The cardiomediastinal silhouette is within normal limits. The hila are unremarkable. The lungs are clear without evidence of consolidation, effusion, or pneumothorax. There is no evidence of pulmonary edema. The visualized bony structures are intact.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "Mild interstitial prominence is noted. No focal airspace consolidation, pleural effusion, or pneumothorax. Degenerative changes of the acromioclavicular joint are present.",
+    "C2_findings": [
+      "mild interstitial prominence",
+      "degenerative changes of the acromioclavicular joint"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "075Y",
+    "PatientSex": "F",
+    "Indication": "Altered mental status. Sudden syncope followed by unresponsiveness. Patient now has confusion and altered mental status.",
+    "Comparison": "None.",
+    "StudyDescription": "CHEST"
+  },
+  {
+    "id": "pGRDN00IRDR7ASOE2_aGRDN20531JKEMOQ9_s1.2.826.0.1.3680043.8.498.32414128152983998481097572095171075407",
+    "ground_truth_report": "PA and lateral chest radiographs are provided. There is minimal left lower lobe linear airspace disease which likely represent atelectasis. There is no focal parenchymal opacity, pleural effusion, or pneumothorax. The heart and mediastinum are unremarkable. There is a hiatal hernia present. The osseous structures are unremarkable.",
+    "ground_truth_findings": [
+      "minimal left lower lobe atelectasis",
+      "hiatal hernia"
+    ],
+    "C1_report": "The chest X-ray shows a predominantly interstitial pattern, particularly in the lower lung fields, suggestive of interstitial lung disease. There is also evidence of mild cardiomegaly. The mediastinal contours are within normal limits. No acute osseous abnormalities are identified.",
+    "C1_findings": [
+      "Predominantly interstitial pattern in the lower lung fields",
+      "Interstitial lung disease",
+      "Mild cardiomegaly"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "There are scattered patchy and nodular air space opacities especially in the left lower lobe and to a lesser degree in the right lower lobe and right upper lobe. The appearance suggests atypical pneumonia or early bacterial pneumonia. The heart and mediastinum appear unremarkable.",
+    "C2_findings": [
+      "Scattered patchy and nodular air space opacities in the left lower lobe",
+      "Scattered patchy and nodular air space opacities in the right lower lobe",
+      "Scattered patchy and nodular air space opacities in the right upper lobe",
+      "Appearance suggests atypical pneumonia or early bacterial pneumonia"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "072Y",
+    "PatientSex": "M",
+    "Indication": "SOB",
+    "Comparison": "",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN00JPKRGH2T0V_aGRDN8ARVPVKH6HDJ_s1.2.826.0.1.3680043.8.498.70536025119798622260964731907564320741",
+    "ground_truth_report": "The cardiac silhouette is mildly enlarged. No mediastinal or hilar masses. No convincing adenopathy. There are interstitial type opacities at the base of the right middle lobe and right lower lobe. Mild thickening of bronchovascular markings are seen more diffusely. Lungs are mildly hyperexpanded. No pleural effusion. No pneumothorax. Skeletal structures are intact.",
+    "ground_truth_findings": [
+      "mildly enlarged cardiac silhouette",
+      "interstitial type opacities at the base of the right middle lobe and right lower lobe",
+      "mild diffuse thickening of bronchovascular markings",
+      "mildly hyperexpanded lungs"
+    ],
+    "C1_report": "Mild enlargement of the cardiac silhouette is present. Basal interstitial opacities are noted in the right middle lobe and right lower lobe. There is mild, diffuse thickening of the bronchovascular markings. The lungs are mildly hyperexpanded. No pleural effusion or pneumothorax is identified. No mediastinal or hilar mass is seen, and no convincing adenopathy. The osseous structures are intact.",
+    "C1_findings": [
+      "mild enlargement of the cardiac silhouette",
+      "basal interstitial opacities in the right middle lobe",
+      "basal interstitial opacities in the right lower lobe",
+      "mild, diffuse thickening of the bronchovascular markings",
+      "lungs are mildly hyperexpanded"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a predominantly right lower lobe opacity, which appears somewhat ill-defined and patchy. There is also some increased interstitial marking noted bilaterally, though more prominent on the right side. The cardiac silhouette appears normal in size. The mediastinal contours are unremarkable. No pleural effusions or pneumothorax are identified. The bony structures appear intact.",
+    "C2_findings": [
+      "ill-defined patchy right lower lobe opacity",
+      "bilateral increased interstitial markings, more prominent on the right",
+      "right lower lobe pneumonia"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "086Y",
+    "PatientSex": "F",
+    "Indication": "Cough and congestion for 2 weeks. Some chest pain with the cough.",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN00JZI457E2TA_aGRDNBFAQTJL9HLOR_s1.2.826.0.1.3680043.8.498.76216770685625368712097331109611856652",
+    "ground_truth_report": "The lungs are well-aerated and clear. There is no evidence of focal opacification, pleural effusion or pneumothorax. The cardiothymic silhouette is within normal limits. No acute osseous abnormalities are seen.",
+    "ground_truth_findings": [],
+    "C1_report": "The chest X-ray shows a predominantly interstitial pattern, most prominent in the lower lung fields, suggestive of interstitial edema or inflammation. There is also some increased opacity in the right lower lobe, which could represent consolidation or atelectasis. The cardiac silhouette appears normal in size. The mediastinal contours are unremarkable. There is no evidence of pneumothorax or large pleural effusion.",
+    "C1_findings": [
+      "predominantly interstitial pattern most prominent in the lower lung fields",
+      "interstitial edema or inflammation",
+      "increased opacity in the right lower lobe",
+      "possible right lower lobe consolidation",
+      "possible right lower lobe atelectasis"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Nondisplaced fractures are seen involving the lateral portions of the left ninth, tenth and eleventh ribs. There is no evidence of pneumothorax or pleural effusion. Both lungs are clear. Heart size and mediastinal contours are within normal limits.",
+    "C2_findings": [
+      "nondisplaced fracture of the lateral portion of the left ninth rib",
+      "nondisplaced fracture of the lateral portion of the left tenth rib",
+      "nondisplaced fracture of the lateral portion of the left eleventh rib"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "001D",
+    "PatientSex": "F",
+    "Indication": "Acute onset of respiratory distress and tachypnea. Initial encounter.",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN00PXJ1JHBNI6_aGRDNSYI8BMS5I4P0_s1.2.826.0.1.3680043.8.498.68116176042103075584171054318733448596",
+    "ground_truth_report": "Umbilical venous catheter tip now in the right atrium. This should be withdrawn approximately 3 cm in order for it to lie in the intrahepatic IVC. OG tube tip remains in the fundus of the stomach. Visualized lung bases remain clear. Bowel gas pattern remains unremarkable.",
+    "ground_truth_findings": [
+      "Umbilical venous catheter tip in the right atrium",
+      "OG tube tip in the fundus of the stomach"
+    ],
+    "C1_report": "The image shows a chest X-ray of a neonate. The catheter tip is located in the descending aorta, distal to the aortic arch. The catheter appears to be appropriately positioned within the vessel lumen. The heart size is normal. The lung fields are clear without evidence of pneumothorax, pleural effusion, or significant pulmonary edema. The mediastinal silhouette is unremarkable.",
+    "C1_findings": [
+      "Catheter present with tip in the descending aorta distal to the aortic arch"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Visualized lung bases remain clear. Bowel gas pattern is unremarkable. The orogastric tube tip continues to project over the gastric fundus. The umbilical venous catheter tip is currently in the right atrium; retract approximately 3 cm to position it within the intrahepatic inferior vena cava.",
+    "C2_findings": [
+      "umbilical venous catheter tip in the right atrium",
+      "orogastric tube tip projects over the gastric fundus"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "002D",
+    "PatientSex": "M",
+    "Indication": "Umbilical artery catheter repositioning.",
+    "Comparison": "Portable chest and abdomen x-rays earlier in the morning 4316 hours and 9377 hours.",
+    "StudyDescription": "DG CHEST PORT W/ABD NEONATE"
+  },
+  {
+    "id": "pGRDN00R58Z7HQBNO_aGRDNA63WCBK4I9JK_s1.2.826.0.1.3680043.8.498.85543453273411245848096636382424641838",
+    "ground_truth_report": "The heart size and mediastinal contours are within normal limits. No pneumothorax or pleural effusion is noted. Right lung is clear. Minimal left basilar subsegmental atelectasis. The visualized skeletal structures are unremarkable.",
+    "ground_truth_findings": [
+      "minimal left basilar subsegmental atelectasis"
+    ],
+    "C1_report": "Cardiomediastinal silhouette is within normal limits. No pleural effusion or pneumothorax is identified. The right lung is clear. Mild subsegmental atelectasis at the left lung base is noted. Visualized osseous structures are unremarkable.",
+    "C1_findings": [
+      "Mild subsegmental atelectasis at the left lung base"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The provided image is a black and white chest X-ray. The image quality is poor, with significant overexposure, making it difficult to assess fine details. The lung fields appear relatively clear, although the overexposure limits evaluation for subtle infiltrates or nodules. The cardiac silhouette is not well-defined due to the exposure. The mediastinal contours are also poorly visualized. The bony structures appear intact, although the overexposure makes detailed assessment challenging. The diaphragm is visible, and the costophrenic angles appear sharp, suggesting no large pleural effusions.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "054Y",
+    "PatientSex": "F",
+    "Indication": "Tachycardia.",
+    "Comparison": "July 19, 2023.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN00S5E2TRC4IG_aGRDNQ3T6XO6KPHRR_s1.2.826.0.1.3680043.8.498.37766206038048093657120438563556034756",
+    "ground_truth_report": "No definite free air is identified. However, study is limited by overlying leads.",
+    "ground_truth_findings": [
+      "Overlying monitoring leads present"
+    ],
+    "C1_report": "Interpretation is limited by superimposed monitoring leads. No convincing free air is identified.",
+    "C1_findings": [],
+    "C1_source": "gpt",
+    "C2_report": "The image provided is a chest X-ray of a preterm infant. The lung fields are relatively clear, without evidence of significant consolidation, effusion, or pneumothorax. The cardiac silhouette appears normal in size for the patient's age. The mediastinal structures are unremarkable. There is no visible free air under the diaphragm. The bony structures appear intact.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "001D",
+    "PatientSex": "M",
+    "Indication": "Preterm infant. Question free air.",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN00SAI88KP5YK_aGRDNQ582ANVQWUK2_s1.2.826.0.1.3680043.8.498.58791460171437325290204883782026912444",
+    "ground_truth_report": "Heart size is normal. There is no evidence of congestive heart failure or acute infiltrates. The costophrenic angles are sharp and the trachea is midline. Hila structures outline normally.",
+    "ground_truth_findings": [],
+    "C1_report": "The chest X-ray shows a normal cardiomediastinal silhouette. The lung fields are clear bilaterally without evidence of consolidation, effusion, or pneumothorax. The visualized bony structures appear intact. There is no evidence of pulmonary edema or significant atelectasis. The diaphragms are well-defined and show normal hemidiaphragmatic heights.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "Cardiomediastinal silhouette is within normal limits. The trachea is midline and the hilar contours are unremarkable. Costophrenic angles remain sharp. A right upper extremity peripherally inserted central catheter is present with its tip at the cavoatrial junction.",
+    "C2_findings": [
+      "Right upper extremity peripherally inserted central catheter with tip at the cavoatrial junction"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "",
+    "PatientSex": "M",
+    "Indication": "SOB",
+    "Comparison": "This examination is compared to prior study dated 10/1/1995.",
+    "StudyDescription": "Chest Single AP view"
+  },
+  {
+    "id": "pGRDN00T41XUGHSO7_aGRDN2W98L01891LO_s1.2.826.0.1.3680043.8.498.67684187177066903058644571961276322216",
+    "ground_truth_report": "Portable supine AP view at 6651 hours. The patient is rotated to the left. Large confluent airspace opacity in the left lung with upper and lower lung involvement. Low lung volumes. Possible mild cardiomegaly. No pneumothorax. No definite pleural effusion. The left lung is grossly clear.",
+    "ground_truth_findings": [
+      "Large confluent airspace opacity in the left lung with upper and lower lung involvement",
+      "Low lung volumes",
+      "Possible mild cardiomegaly"
+    ],
+    "C1_report": "Portable AP supine chest radiograph at 6651 hours. The patient is rotated to the left. Low lung volumes. Large confluent airspace opacity in the left lung involving both upper and lower zones. Possible mild cardiomegaly. No pneumothorax. No definite pleural effusion. The left lung is grossly clear.",
+    "C1_findings": [
+      "Low lung volumes",
+      "Large confluent airspace opacity in the left lung involving both upper and lower zones",
+      "Possible mild cardiomegaly"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a large, ill-defined opacity in the right lower lung field, obscuring the right heart border and diaphragm. This suggests significant consolidation or atelectasis, potentially involving the right middle and lower lobes. There is also some increased opacity in the left lower lung field, which could represent atelectasis or a smaller area of consolidation. The cardiac silhouette is difficult to fully assess due to the right-sided opacity but appears enlarged. The mediastinum is midline. There is no evidence of pneumothorax or large pleural effusion, although a small effusion on the right cannot be entirely excluded. The upper lung fields appear relatively clear bilaterally.",
+    "C2_findings": [
+      "large ill-defined opacity in the right lower lung field",
+      "right lower lobe pneumonia",
+      "right lower lobe atelectasis",
+      "possible right middle lobe consolidation",
+      "possible right middle lobe atelectasis",
+      "increased opacity in the left lower lung field",
+      "left lower lobe atelectasis",
+      "left lower lobe consolidation",
+      "enlarged cardiac silhouette",
+      "possible small right pleural effusion"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "074Y",
+    "PatientSex": "F",
+    "Indication": "74-year-old female with aspiration, weakness and respiratory distress.",
+    "Comparison": "None available.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN00T41XUGHSO7_aGRDNR9S24YQ31IEC_s1.2.826.0.1.3680043.8.498.40596275186517847556372184755524818276",
+    "ground_truth_report": "Trachea is midline. Heart size stable. Lungs are low in volume with improving airspace disease in the right lung. Persistent mixed interstitial and airspace disease is seen bilaterally. There may be a catheter projecting over the inferior vena cava.",
+    "ground_truth_findings": [
+      "low lung volumes",
+      "improving airspace disease in the right lung",
+      "persistent bilateral interstitial disease",
+      "persistent bilateral airspace disease",
+      "catheter projecting over the inferior vena cava"
+    ],
+    "C1_report": "Heart size is unchanged. The trachea remains midline. The lungs are low in volume with improving airspace disease in the left lung. Persistent mixed interstitial and airspace disease is present bilaterally. A catheter may project over the inferior vena cava.",
+    "C1_findings": [
+      "low lung volumes",
+      "persistent bilateral interstitial disease",
+      "persistent bilateral airspace disease",
+      "catheter projecting over the inferior vena cava"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The heart size is normal. The mediastinal and hilar contours are unremarkable. The pulmonary vasculature appears normal, without evidence of cephalization or interstitial edema. The lungs are clear bilaterally, without focal consolidation, pleural effusion, or pneumothorax. The costophrenic angles are sharp. The visualized bony structures are intact.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "074Y",
+    "PatientSex": "F",
+    "Indication": "Shortness of breath, cough. Evaluate fluid status.",
+    "Comparison": "Comparison: 11/10/2016",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN00W5YLZSUIFO_aGRDN0SQT0VYXNG14_s1.2.826.0.1.3680043.8.498.86135086372190647425032716142456934589",
+    "ground_truth_report": "Stable enlargement of the cardiac silhouette. The trachea is midline. Improved aeration at the right lung base may represent decreased right pleural fluid. Persistent densities at the left lung base are suggestive for atelectasis and probable small effusion. Patient has had a vertebral augmentation procedure in the lower thoracic spine. Upper lungs are clear without overt pulmonary edema.",
+    "ground_truth_findings": [
+      "enlargement of the cardiac silhouette",
+      "decreased right pleural effusion",
+      "left basilar atelectasis",
+      "probable small left pleural effusion",
+      "vertebral augmentation in the lower thoracic spine"
+    ],
+    "C1_report": "Cardiac silhouette remains enlarged without interval change. The trachea is midline. Upper lungs are clear with no overt pulmonary edema. Improved aeration at the right lung base likely reflects a decrease in right pleural fluid. Persistent opacities at the left lung base are suggestive of atelectasis with a probable small effusion. Evidence of prior vertebral augmentation is present in the lower thoracic spine.",
+    "C1_findings": [
+      "enlarged cardiac silhouette",
+      "decreased right pleural effusion",
+      "left basilar atelectasis",
+      "probable small left pleural effusion",
+      "evidence of prior vertebral augmentation in the lower thoracic spine"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a predominantly interstitial pattern of opacities, more pronounced in the lower lung fields, suggestive of pulmonary edema. There is also evidence of cardiomegaly, indicated by an enlarged cardiac silhouette. The costophrenic angles appear relatively sharp, without significant blunting to suggest large pleural effusions, although small effusions cannot be entirely excluded. The mediastinal contours are within normal limits.",
+    "C2_findings": [
+      "lower lung predominant interstitial opacities",
+      "pulmonary edema",
+      "cardiomegaly"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "079Y",
+    "PatientSex": "F",
+    "Indication": "Edema and CHF.",
+    "Comparison": "Comparison with studies from 4/10/2015 and 10/18/2018.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN00W71H6UOXVT_aGRDNQFZSFQUIV5RQ_s1.2.826.0.1.3680043.8.498.62299447384880017801933542460435400662",
+    "ground_truth_report": "The lungs appear hyperinflated. The heart is borderline to mildly enlarged. Atherosclerotic calcification is present in the aortic arch. There is no edema, infiltrate, effusion or pneumothorax. The bony and mediastinal structures unremarkable.",
+    "ground_truth_findings": [
+      "hyperinflated lungs",
+      "borderline to mildly enlarged heart",
+      "atherosclerotic calcification in the aortic arch"
+    ],
+    "C1_report": "The chest X-ray shows a clear lung field without any obvious consolidation, effusion, or pneumothorax. The cardiac silhouette appears normal in size. The mediastinal contours are unremarkable. The visualized bony structures are intact. There is no evidence of acute cardiopulmonary disease.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "Tracheostomy 6.5 cm above the carina. NG tube within the stomach. Monitor leads overlie the chest. Stable cardiomegaly with central vascular congestion. Improving bilateral atelectasis compared to 11/16/2018. No enlarging effusion or pneumothorax. Persistent low lung volumes.",
+    "C2_findings": [
+      "cardiomegaly",
+      "central vascular congestion",
+      "bilateral atelectasis",
+      "low lung volumes",
+      "Tracheostomy tube 6.5 cm above the carina",
+      "NG tube within the stomach",
+      "Monitor leads overlying the chest"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "083Y",
+    "PatientSex": "F",
+    "Indication": "weak",
+    "Comparison": "Comparison is made to the study of 4/10/2011.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN00WBRPBIP2N9_aGRDN2N03YFC4ULTJ_s1.2.826.0.1.3680043.8.498.95956870984553236147612118365923661602",
+    "ground_truth_report": "Endotracheal tube is 4 cm above the carina. Right dialysis catheter tip is in the right atrium. NG tube enters stomach. Moderate bilateral layering effusions. Cardiomegaly with vascular congestion. Bilateral airspace disease, right greater than left, favor asymmetric edema.",
+    "ground_truth_findings": [
+      "Moderate bilateral layering effusions",
+      "Cardiomegaly",
+      "Vascular congestion",
+      "Bilateral airspace disease, right greater than left",
+      "Asymmetric edema",
+      "Endotracheal tube 4 cm above the carina",
+      "Right dialysis catheter with tip in the right atrium",
+      "Nasogastric tube in the stomach"
+    ],
+    "C1_report": "The endotracheal tube tip is positioned approximately 5 cm above the carina, which is within the acceptable range for placement. The lungs are clear bilaterally without evidence of consolidation, pleural effusion, or pneumothorax. The cardiac silhouette is normal in size. The mediastinal contours are unremarkable. The visualized bony structures appear intact.",
+    "C1_findings": [
+      "Endotracheal tube present",
+      "Endotracheal tube tip approximately 5 cm above the carina"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "The cardiomediastinal silhouette is enlarged but unchanged in size and configuration. Median sternotomy wires noted. There is minimal bibasilar atelectasis without focal opacity, sizable pleural effusion or pneumothorax. No acute osseous abnormalities.",
+    "C2_findings": [
+      "enlarged cardiomediastinal silhouette",
+      "median sternotomy wires",
+      "minimal bibasilar atelectasis"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "049Y",
+    "PatientSex": "M",
+    "Indication": "Difficulty extubating",
+    "Comparison": "",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN00X1NYPYRKEM_aGRDNRKADB8SB2A53_s1.2.826.0.1.3680043.8.498.31719519057718195826341579045593504996",
+    "ground_truth_report": "The cardiac silhouette is enlarged. The costophrenic angles are sharp. Lungs are free of focal consolidations. Chronic interstitial changes are noted. The bony structures appear adequately mineralized.",
+    "ground_truth_findings": [
+      "enlarged cardiac silhouette",
+      "chronic interstitial changes"
+    ],
+    "C1_report": "The cardiomediastinal silhouette is within normal limits. The hila are unremarkable. The lungs are clear bilaterally with no evidence of consolidation, effusion, or pneumothorax. There is no evidence of pulmonary edema. The visualized bony structures appear intact.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "No focal air-space consolidation is identified in either lung. Chronic interstitial changes are present. The costophrenic recesses are clear bilaterally. The visualized osseous structures demonstrate mild demineralization.",
+    "C2_findings": [
+      "chronic interstitial changes",
+      "mild osseous demineralization"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "071Y",
+    "PatientSex": "M",
+    "Indication": "Loose cough.",
+    "Comparison": "Previous examination dated 03/11/2001.",
+    "StudyDescription": "CHEST"
+  },
+  {
+    "id": "pGRDN00X62WU5AFQB_aGRDN1ULM0PTL33J3_s1.2.826.0.1.3680043.8.498.19525866841330841229366814510411765968",
+    "ground_truth_report": "Cardiomegaly. Dual lead pacemaker. Less pleural fluid present on the right than was seen yesterday. No pneumothorax. Pleural effusion persists on the left, with left lower lobe volume loss.",
+    "ground_truth_findings": [
+      "Cardiomegaly",
+      "Dual lead pacemaker",
+      "Right pleural effusion",
+      "Left pleural effusion",
+      "Left lower lobe volume loss"
+    ],
+    "C1_report": "The patient is a 90-year-old female status post right-sided thoracentesis. The right pleural effusion has significantly decreased in size, with only a small residual effusion remaining, best visualized along the costophrenic angle. There is no evidence of pneumothorax. The right lung appears partially re-expanded. The left lung is clear. The cardiac silhouette is within normal limits. The mediastinum is midline. The visualized bony structures are unremarkable.",
+    "C1_findings": [
+      "Small residual right pleural effusion",
+      "Partially re-expanded right lung"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Single portable AP view of the chest shows the cardiac silhouette to be normal in size and shape. The pulmonary vascularity is within normal limits. The lungs are clear without focal consolidation. No pleural effusions or pneumothoraces are present. No acute osseous abnormality is identified.",
+    "C2_findings": [],
+    "C2_source": "gpt",
+    "PatientAge": "090Y",
+    "PatientSex": "F",
+    "Indication": "Follow-up right-sided thoracentesis.",
+    "Comparison": "4/12/2018",
+    "StudyDescription": "DG CHEST 1V"
+  },
+  {
+    "id": "pGRDN00X6E8VHVJL4_aGRDNKKA86B27DKG9_s1.2.826.0.1.3680043.8.498.75408827311194820653844399540941574837",
+    "ground_truth_report": "Single view of the chest shows normal size cardiomediastinal silhouette. There is no evidence of consolidation, mass or pleural effusion.",
+    "ground_truth_findings": [],
+    "C1_report": "The cardiomediastinal silhouette is within normal limits. The lungs are clear bilaterally without evidence of consolidation, effusion, or pneumothorax. The visualized bony structures, including the ribs and clavicles, appear intact. There is no evidence of sternal fracture or displacement on this single frontal view.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "No pleural effusion, mass, or consolidation is detected. The cardiomediastinal silhouette is normal in size on this single-view chest radiograph.",
+    "C2_findings": [],
+    "C2_source": "gpt",
+    "PatientAge": "",
+    "PatientSex": "M",
+    "Indication": "MVC with sternal pain.",
+    "Comparison": "None.",
+    "StudyDescription": "PCXR,STERUM PAIN,MVC"
+  },
+  {
+    "id": "pGRDN00X6E8VHVJL4_aGRDNLA7MQVF23QLD_s1.2.826.0.1.3680043.8.498.67044911046548984695713077508677064461",
+    "ground_truth_report": "Two views of the chest show a normal size cardiomediastinal silhouette. There is no evidence of consolidation, mass or pleural effusion. Mild kyphotic curvature of the spine is seen with anterior wedging of the vertebral bodies. This is likely congenital. The sternum cannot be completely seen on this limited exam secondary to the patient's body habitus.",
+    "ground_truth_findings": [
+      "mild kyphotic curvature of the spine",
+      "anterior wedging of the vertebral bodies"
+    ],
+    "C1_report": "The cardiomediastinal silhouette is within normal limits. The hila are unremarkable. The lungs are clear without evidence of consolidation, effusion, or pneumothorax. The visualized bony structures, including the ribs and clavicles, appear intact. There is no evidence of sternal fracture or significant displacement.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "Two-view chest radiographs demonstrate a normal-sized cardiomediastinal silhouette. No evidence of pulmonary consolidation, mass, or pleural effusion is seen. The examination is limited by patient body habitus, resulting in incomplete visualization of the sternum. Mild thoracic kyphosis with anterior vertebral body wedging is noted, most likely congenital.",
+    "C2_findings": [
+      "mild thoracic kyphosis",
+      "anterior vertebral body wedging"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "",
+    "PatientSex": "M",
+    "Indication": "Sternal pain, status post MVC.",
+    "Comparison": "None.",
+    "StudyDescription": "CHEST,STERNAL PAIN,S/P MVC"
+  },
+  {
+    "id": "pGRDN00YL3NJ5EZ5Z_aGRDNMG7XAAB0JGGL_s1.2.826.0.1.3680043.8.498.52529408849908003554416489283157658927",
+    "ground_truth_report": "Three nodular opacities are seen in the left mid lung measuring up to 3.7 cm. There are linear bibasilar opacities are most consistent with atelectasis. Heart size normal. Elevation of the right hemidiaphragm is noted.",
+    "ground_truth_findings": [
+      "Three nodular opacities in the left mid lung measuring up to 3.7 cm",
+      "Bibasilar atelectasis",
+      "Elevation of the right hemidiaphragm"
+    ],
+    "C1_report": "Cardiomediastinal silhouette is normal in size. Three nodular opacities are present in the left mid lung, the largest measuring up to 3.0 cm. Linear bibasilar opacities likely reflect atelectasis. The right hemidiaphragm is elevated.",
+    "C1_findings": [
+      "three nodular opacities in the left mid lung, largest 3.0 cm",
+      "linear bibasilar opacities likely reflecting atelectasis",
+      "elevated right hemidiaphragm"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a large, dense opacity in the right lower lung field, consistent with a pleural effusion. There is also evidence of pulmonary edema, characterized by increased interstitial markings and Kerley B lines, particularly in the left lung. The cardiac silhouette appears enlarged. The mediastinum is midline. The patient's age is 88 years, and the clinical presentation includes shortness of breath, respiratory distress, and unresponsiveness.",
+    "C2_findings": [
+      "large right pleural effusion",
+      "pulmonary edema, particularly in the left lung",
+      "increased interstitial markings in the left lung",
+      "Kerley B lines in the left lung",
+      "enlarged cardiac silhouette"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "088Y",
+    "PatientSex": "M",
+    "Indication": "Shortness of breath. Respiratory distress. Patient unresponsive.",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN022J6GDU797T_aGRDNT0GOBC97KIJZ_s1.2.826.0.1.3680043.8.498.43257285923708824857087750638396462346",
+    "ground_truth_report": "Stable cardiomegaly and mediastinal contours. Aortic atherosclerosis. Probable retrocardiac hiatal hernia. No consolidation, pleural effusion or pneumothorax. No acute osseous abnormalities are seen.",
+    "ground_truth_findings": [
+      "cardiomegaly",
+      "aortic atherosclerosis",
+      "probable retrocardiac hiatal hernia"
+    ],
+    "C1_report": "The cardiomediastinal silhouette is within normal limits. The hila are unremarkable. The lungs are clear without evidence of consolidation, effusion, or pneumothorax. There is no evidence of acute osseous injury.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "Mediastinal contours appear unchanged. Aortic atherosclerotic calcifications are noted. Probable retrocardiac hiatal hernia. Lungs are clear of focal consolidation, and no pleural effusion or pneumothorax is identified. No acute osseous abnormality detected. A left subclavian dual-lead pacemaker is in place with leads projecting to the right atrium and right ventricle.",
+    "C2_findings": [
+      "Aortic atherosclerotic calcifications",
+      "Probable retrocardiac hiatal hernia",
+      "Left subclavian dual-lead pacemaker in place with leads projecting to the right atrium and right ventricle"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "090Y",
+    "PatientSex": "M",
+    "Indication": "Fall. Preop.",
+    "Comparison": "Radiograph 09/30/2000",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN02BBCVNGZB6U_aGRDN72ARBXBDBT2A_s1.2.826.0.1.3680043.8.498.36834773281183604518540174519216468057",
+    "ground_truth_report": "Lungs are hyperexpanded. The basilar airspace disease seen on the previous chest x-ray has essentially resolved. There is some minimal scarring seen in the right lung base which may be related to the cleared process or more chronic interstitial change. Multiple nonacute right rib fractures are evident. The cardiopericardial silhouette is within normal limits for size.",
+    "ground_truth_findings": [
+      "hyperexpanded lungs",
+      "minimal scarring in the right lung base",
+      "multiple nonacute right rib fractures"
+    ],
+    "C1_report": "The chest X-ray shows a large opacity in the right upper lobe, consistent with a mass. There is also evidence of volume loss in the right hemithorax, with elevation of the right hemidiaphragm and rightward shift of the mediastinum. The left lung appears relatively clear, although there may be subtle interstitial changes. The cardiac silhouette is not well visualized due to the mediastinal shift. The bony structures appear intact.",
+    "C1_findings": [
+      "large right upper lobe mass",
+      "volume loss in the right hemithorax",
+      "elevation of the right hemidiaphragm",
+      "rightward mediastinal shift",
+      "subtle interstitial changes in the left lung"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Cardiomediastinal silhouette is normal in size. The lungs are hyperinflated. Minimal scarring is present at the right lung base, which could relate to a previously cleared process or reflect more chronic interstitial change. The basilar airspace abnormality noted on the prior exam has largely resolved.",
+    "C2_findings": [
+      "hyperinflated lungs",
+      "minimal scarring at the right lung base"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "081Y",
+    "PatientSex": "M",
+    "Indication": "Abnormal chest x-ray. Smoking history.",
+    "Comparison": "Comparison: Chest x-ray 7/20/2018. Chest CT 10/05/2002.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN02BYM83DBKHD_aGRDNP3JYUG56KWHU_s1.2.826.0.1.3680043.8.498.81352811874821856216852872451209139537",
+    "ground_truth_report": "There is no edema or consolidation. The heart size and pulmonary vascularity are normal. No adenopathy. No pneumothorax. No bone lesions.",
+    "ground_truth_findings": [],
+    "C1_report": "The provided image is a silhouette of a person, not a chest X-ray. Therefore, no specific radiographic findings related to the lungs, heart, mediastinum, or bony structures can be assessed. The image lacks the necessary detail and contrast to evaluate for pathologies such as pneumonia, pneumothorax, cardiomegaly, pleural effusion, fractures, or masses.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "Cardiac size and pulmonary vascularity are within normal limits. No pulmonary edema or consolidation. No adenopathy. No pneumothorax. No bony lesions.",
+    "C2_findings": [],
+    "C2_source": "gpt",
+    "PatientAge": "055Y",
+    "PatientSex": "F",
+    "Indication": "Chest pain",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN03L4PMG9SLIN_aGRDNDRFPGV8ZWHKA_s1.2.826.0.1.3680043.8.498.21202423781740391157179749396439862438",
+    "ground_truth_report": "The lungs are clear and negative for focal airspace consolidation, pulmonary edema or suspicious pulmonary nodule. No pleural effusion or pneumothorax. Cardiac and mediastinal contours are within normal limits. No acute fracture or lytic or blastic osseous lesions. The visualized upper abdominal bowel gas pattern is unremarkable.",
+    "ground_truth_findings": [],
+    "C1_report": "The chest X-ray shows a predominantly interstitial pattern, particularly in the lower lung fields, suggestive of an inflammatory or infectious process. There is also evidence of peribronchial thickening, which can be seen in conditions like bronchitis or atypical pneumonia. The cardiac silhouette appears normal in size, and there is no evidence of pleural effusion or pneumothorax. The mediastinal structures are unremarkable.",
+    "C1_findings": [
+      "predominantly interstitial pattern in the lower lung fields",
+      "peribronchial thickening"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Cardiomediastinal silhouette is within normal limits. The lungs are clear without focal airspace consolidation or pulmonary edema, and no suspicious pulmonary nodule is identified. There is no pleural effusion or pneumothorax. No acute fracture is seen, and there are no lytic or blastic osseous lesions. The visualized upper abdominal bowel gas pattern is unremarkable. A left subclavian dual-lead pacemaker is present, with leads projecting to the right atrium and right ventricle.",
+    "C2_findings": [
+      "left subclavian dual-lead pacemaker",
+      "pacing lead projecting to the right atrium",
+      "pacing lead projecting to the right ventricle"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "041Y",
+    "PatientSex": "M",
+    "Indication": "Two week history of cough and shortness of breath",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN04MRIYWRHCRL_aGRDNEE7V3Y6E4RWS_s1.2.826.0.1.3680043.8.498.43669667643321935851631760190090829602",
+    "ground_truth_report": "Limitation from exclusion of the lateral left costophrenic sulcus. Small right pleural effusion with streaky right basilar opacity, most consistent with atelectasis. Superimposed scarring also likely based on chest CT 10/25/1990. No cardiomegaly when accounting for a fat pad around the apex seen on previous CT. Background of hyperinflation and bronchitic changes.",
+    "ground_truth_findings": [
+      "small right pleural effusion",
+      "right basilar atelectasis",
+      "superimposed pulmonary scarring",
+      "hyperinflation",
+      "bronchitic changes"
+    ],
+    "C1_report": "The heart size is normal. The mediastinal and hilar contours are unremarkable. The pulmonary vasculature is normal. The lungs are clear without evidence of consolidation, effusion, or pneumothorax. There is no evidence of pulmonary edema. The visualized bony structures appear intact.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "Lateral left costophrenic angle is excluded, limiting assessment. Cardiomediastinal silhouette is not enlarged after accounting for the apical fat pad described on prior CT. Background hyperinflation with bronchitic-type changes. Small right pleural effusion with streaky opacity in the right base favors atelectasis. Superimposed scarring is also suspected, concordant with chest CT from 10/25/1990. A right subclavian central venous catheter is present with the tip at the cavoatrial junction.",
+    "C2_findings": [
+      "background hyperinflation",
+      "bronchitic-type changes",
+      "small right pleural effusion",
+      "right basilar atelectasis",
+      "superimposed scarring",
+      "right subclavian central venous catheter with tip at the cavoatrial junction"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "068Y",
+    "PatientSex": "M",
+    "Indication": "Shortness of breath",
+    "Comparison": "Comparison is made with the exams on 02/28/1998 and chest CT on 10/25/1990.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN04MRIYWRHCRL_aGRDNSKNTSASBXQ8T_s1.2.826.0.1.3680043.8.498.31137082570929584079092157138519250117",
+    "ground_truth_report": "There is stable mild scarring in the right base. Central peribronchial thickening remains. There is no frank edema or consolidation. Heart size and pulmonary vascularity are normal. No adenopathy. There is degenerative change in the thoracic spine.",
+    "ground_truth_findings": [
+      "stable mild scarring in the right base",
+      "central peribronchial thickening",
+      "degenerative change in the thoracic spine"
+    ],
+    "C1_report": "Right IJ central catheter terminates over the mid to distal SVC. No pneumothorax. Lungs remain clear. No change.",
+    "C1_findings": [
+      "Right internal jugular (IJ) central venous catheter with tip terminating in the mid to distal superior vena cava (SVC)"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The cardiomediastinal silhouette is within normal limits. The hila are unremarkable. The lungs are clear bilaterally without evidence of focal consolidation, pleural effusion, or pneumothorax. There is no evidence of pulmonary edema. The visualized bony structures are intact.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "068Y",
+    "PatientSex": "M",
+    "Indication": "Wheezing",
+    "Comparison": "Comparison: Chest radiograph and chest CT June 13, 2018.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN05CBGBK2AACK_aGRDNY1FFSHL5VADY_s1.2.826.0.1.3680043.8.498.60535523691584017815618967610488420461",
+    "ground_truth_report": "Shallow inspiration. Cardiac pacemaker and postoperative changes in the mediastinum are stable since previous study. Normal heart size and pulmonary vascularity. New linear atelectasis in the lung bases. No blunting of costophrenic angles. No focal consolidation. No pneumothorax. Mediastinal contours appear intact. Calcification of the aorta.",
+    "ground_truth_findings": [
+      "cardiac pacemaker",
+      "postoperative changes in the mediastinum",
+      "new linear atelectasis in the lung bases",
+      "calcification of the aorta"
+    ],
+    "C1_report": "There is no edema or consolidation. The heart size and pulmonary vascularity are normal. No adenopathy. No pneumothorax. No bone lesions.",
+    "C1_findings": [],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a normal cardiomediastinal silhouette. The lung fields are clear bilaterally without evidence of consolidation, effusion, or pneumothorax. The visualized bony structures appear intact. There is no evidence of acute cardiopulmonary pathology.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "082Y",
+    "PatientSex": "M",
+    "Indication": "Chest pain",
+    "Comparison": "Comparison: 11/10/1997",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN05W3MA1P8GGI_aGRDNCN4XHBY05Q5Y_s1.2.826.0.1.3680043.8.498.93907098502048828524580260805753634744",
+    "ground_truth_report": "Left lower lobe airspace disease/consolidation is compatible with pneumonia. Mild diffuse peribronchial thickening is noted bilaterally. The cardiomediastinal silhouette is unremarkable. There is no evidence of right pleural effusion or pneumothorax. The bony thorax and upper abdomen are within normal limits.",
+    "ground_truth_findings": [
+      "Left lower lobe airspace disease/consolidation compatible with pneumonia",
+      "Mild diffuse peribronchial thickening bilaterally"
+    ],
+    "C1_report": "Cardiomediastinal contours are within normal limits. No right-sided pleural effusion or pneumothorax is detected. The visualized bony thorax and upper abdomen show no acute abnormality. There is airspace consolidation in the left lower lobe, compatible with pneumonia. Mild, diffuse peribronchial thickening is present bilaterally.",
+    "C1_findings": [
+      "airspace consolidation in the left lower lobe",
+      "pneumonia",
+      "mild diffuse bilateral peribronchial thickening"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a retrocardiac opacity in the left lower lobe, consistent with pneumonia. The right lung is clear. The cardiac silhouette is normal in size. The mediastinal contours are unremarkable. There is no evidence of pleural effusion or pneumothorax.",
+    "C2_findings": [
+      "retrocardiac opacity in the left lower lobe",
+      "left lower lobe pneumonia"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "006Y",
+    "PatientSex": "F",
+    "Indication": "Cough and fever.",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN069X5E176VYX_aGRDN3Y62AZ1S4N8J_s1.2.826.0.1.3680043.8.498.80133538333123662853971303458759818227",
+    "ground_truth_report": "The cardiomediastinal silhouette is enlarged but unchanged in size and configuration. Median sternotomy wires noted. There is minimal bibasilar atelectasis without focal opacity, sizable pleural effusion or pneumothorax. No acute osseous abnormalities.",
+    "ground_truth_findings": [
+      "enlarged cardiomediastinal silhouette",
+      "minimal bibasilar atelectasis",
+      "median sternotomy wires"
+    ],
+    "C1_report": "Median sternotomy wires are present. The cardiomediastinal silhouette is enlarged and remains unchanged in size and configuration. Minimal bibasilar atelectasis is noted. No focal airspace opacity, no sizable pleural effusion, and no pneumothorax. No acute osseous abnormality.",
+    "C1_findings": [
+      "enlarged cardiomediastinal silhouette",
+      "minimal bibasilar atelectasis",
+      "median sternotomy wires present"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a predominantly white image, likely due to significant overexposure, making detailed evaluation difficult. However, the mediastinal silhouette appears within normal limits, and the cardiac size is not grossly enlarged. The lung fields are obscured by the overexposure, but no obvious large consolidation, pneumothorax, or pleural effusion is clearly identifiable. The visualized bony structures appear intact.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "081Y",
+    "PatientSex": "M",
+    "Indication": "81-year-old male with altered mental status.",
+    "Comparison": "Comparison: 7/17/2006",
+    "StudyDescription": "DG CHEST 1V"
+  },
+  {
+    "id": "pGRDN06XR0NAU1Q5S_aGRDN1S0SF2TR8GL2_s1.2.826.0.1.3680043.8.498.99170984399636749988928359666324220528",
+    "ground_truth_report": "There is stable volume loss on the right. There is a new meniscus-type effect due to the presence of fluid and possibly pleural space air on the right. The meniscus type contour is more conspicuous now with there having been earlier evidence of pleural fluid on the right whose interface with aerated lung was not as crisply defined. There is a small amount of fluid noted on the left which appears stable. There is a right subclavian venous catheter whose tip lies in the region of the mid to distal portion of the SVC.",
+    "ground_truth_findings": [
+      "right lung volume loss",
+      "right pleural effusion",
+      "possible right pneumothorax",
+      "small left pleural effusion",
+      "Right subclavian venous catheter with tip in the mid to distal SVC"
+    ],
+    "C1_report": "Right subclavian central venous catheter is present with the tip projecting over the mid to distal superior vena cava. Unchanged right-sided volume loss persists. On the right, a newly evident meniscus-like contour is seen, consistent with pleural fluid with possible pleural space air; the interface with aerated lung is sharper and more conspicuous than on prior imaging. A small left pleural effusion is again noted and appears stable.",
+    "C1_findings": [
+      "right-sided volume loss",
+      "right pleural fluid",
+      "possible right pleural space air",
+      "small left pleural effusion",
+      "Right subclavian central venous catheter with tip in the mid to distal superior vena cava"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The patient is a 73-year-old female who underwent central line placement. The chest X-ray shows a right internal jugular central venous catheter. The tip of the catheter projects over the expected location of the superior vena cava, approximately at the level of the cavoatrial junction. The course of the catheter appears unremarkable. The lungs are clear without evidence of focal consolidation, pleural effusion, or pneumothorax. The cardiac silhouette is within normal limits in size. The mediastinal contours are normal. There is no evidence of pulmonary edema.",
+    "C2_findings": [
+      "Right internal jugular central venous catheter present",
+      "Catheter tip projects over the superior vena cava at the cavoatrial junction"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "073Y",
+    "PatientSex": "F",
+    "Indication": "central line placement",
+    "Comparison": "The degree of volume loss is not greatly changed since the study of earlier the same day.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN06XR0NAU1Q5S_aGRDNS0A5TTR684W5_s1.2.826.0.1.3680043.8.498.15854153990133742318390939542925050598",
+    "ground_truth_report": "The lungs are hyperinflated with hemidiaphragm flattening. Atelectasis versus fibrotic change in the posterolateral aspect of the LEFT lower lobe is noted. The cardiac silhouette is top normal in size. The pulmonary vascularity is not engorged. The bones are osteopenic.",
+    "ground_truth_findings": [
+      "hyperinflated lungs",
+      "hemidiaphragm flattening",
+      "atelectasis versus fibrotic change in the posterolateral aspect of the left lower lobe",
+      "osteopenia"
+    ],
+    "C1_report": "Bone mineralization is decreased. The cardiac silhouette appears mildly enlarged. Pulmonary vascular markings are mildly prominent. The lungs are markedly hyperinflated with flattening of the diaphragms. A patchy consolidation is seen in the posterolateral right lower lobe, possibly representing pneumonia versus scarring. A small left pleural effusion is also present.",
+    "C1_findings": [
+      "decreased bone mineralization",
+      "mildly enlarged cardiac silhouette",
+      "mildly prominent pulmonary vascular markings",
+      "markedly hyperinflated lungs",
+      "flattening of the diaphragms",
+      "patchy consolidation in the posterolateral right lower lobe",
+      "small left pleural effusion"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a predominantly interstitial pattern, particularly in the lower lung fields, suggestive of chronic lung disease. There is evidence of hyperinflation, indicated by flattened diaphragms and increased retrosternal space. The cardiac silhouette appears normal in size. The mediastinal contours are unremarkable. There are no acute focal consolidations, pleural effusions, or pneumothorax identified.",
+    "C2_findings": [
+      "predominantly interstitial pattern in the lower lung fields",
+      "hyperinflation",
+      "flattened diaphragms",
+      "increased retrosternal space",
+      "suggestive of chronic lung disease",
+      "findings consistent with chronic obstructive pulmonary disease (COPD)"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "073Y",
+    "PatientSex": "F",
+    "Indication": "COPD SOB",
+    "Comparison": "No previous films are indicated for comparison.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN0719EBIAENSG_aGRDNXPMZ89ZU25KA_s1.2.826.0.1.3680043.8.498.29672153186170362089082076684689824761",
+    "ground_truth_report": "The heart size and mediastinal contours are within normal limits. Both lungs are clear. The visualized skeletal structures are unremarkable.",
+    "ground_truth_findings": [],
+    "C1_report": "Both lungs are clear without focal airspace disease. The visualized osseous structures show no acute abnormality. A right subclavian central venous catheter is present with its tip projecting over the superior vena cava.",
+    "C1_findings": [
+      "Right subclavian central venous catheter with tip projecting over the superior vena cava"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a right lower lobe opacity, which appears somewhat ill-defined and patchy. There is also a smaller, less distinct opacity in the left lower lobe. The cardiomediastinal silhouette is within normal limits. No pleural effusion or pneumothorax is identified. The visualized bony structures appear intact.",
+    "C2_findings": [
+      "ill-defined, patchy right lower lobe opacity",
+      "smaller, less distinct left lower lobe opacity",
+      "bilateral lower lobe infiltrates, most prominent on the right"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "030M",
+    "PatientSex": "F",
+    "Indication": "Cough and fever",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN08JUIX27HZDH_aGRDN72127B8DVKHT_s1.2.826.0.1.3680043.8.498.93863447040088832917942949360937566586",
+    "ground_truth_report": "Heart and mediastinal contours are within normal limits. No focal opacities or effusions. No acute bony abnormality.",
+    "ground_truth_findings": [],
+    "C1_report": "The provided image is a black and white silhouette of a chest, lacking the detailed anatomical structures typically visible in a chest X-ray. Therefore, a detailed assessment of the lungs, heart, mediastinum, pleura, and bony structures is impossible. No specific findings such as infiltrates, effusions, pneumothorax, cardiomegaly, or fractures can be identified.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "No active infiltrate or effusion is seen. Mediastinal contours appear normal. The heart is within normal limits in size. No bony abnormality is seen.",
+    "C2_findings": [],
+    "C2_source": "gpt",
+    "PatientAge": "052Y",
+    "PatientSex": "M",
+    "Indication": "Chest pain",
+    "Comparison": "Comparison: None.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN09AGYQRIRMC6_aGRDNIN59NFMGTBX5_s1.2.826.0.1.3680043.8.498.95323170060438656940477213463820041014",
+    "ground_truth_report": "Trachea is midline. Heart size normal. Lungs are clear. No pleural fluid.",
+    "ground_truth_findings": [],
+    "C1_report": "Trachea is midline. Heart size normal. Diffuse micronodular pattern persists. No pleural fluid.",
+    "C1_findings": [
+      "diffuse micronodular pattern"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a normal cardiomediastinal silhouette. The lung fields are clear bilaterally, without evidence of consolidation, effusion, or pneumothorax. The visualized bony structures appear intact. There are no acute findings suggestive of pneumonia or other significant pathology that would explain the patient's cough.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "052Y",
+    "PatientSex": "F",
+    "Indication": "Cough.",
+    "Comparison": "",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN0AGUGVHDBJ82_aGRDNGANJDB2HQSCH_s1.2.826.0.1.3680043.8.498.38352485918536697486410149148437767390",
+    "ground_truth_report": "Enlarged cardiac silhouette. Endotracheal tube tip 5 mm above the carina. It is recommended that this be retracted 4 cm. Prominence of the pulmonary vasculature and interstitial markings with minimal Kerley lines. No pleural fluid. No pneumothorax or rib fracture seen. Thoracolumbar spine degenerative changes.",
+    "ground_truth_findings": [
+      "Enlarged cardiac silhouette",
+      "Endotracheal tube tip 5 mm above the carina",
+      "Prominence of the pulmonary vasculature",
+      "Prominent interstitial markings",
+      "Minimal Kerley lines",
+      "Thoracolumbar spine degenerative changes"
+    ],
+    "C1_report": "The endotracheal tube is 6 cm from the carina. Enteric tube is present with redundant loop in the stomach. Right IJ central line is unchanged with the tip in the mid SVC. Increasing basilar atelectasis is present. Cardiopericardial silhouette appears similar to prior. No focal consolidation.",
+    "C1_findings": [
+      "increasing basilar atelectasis",
+      "redundant loop of enteric tube in the stomach",
+      "Endotracheal tube positioned 6 cm from the carina",
+      "Right internal jugular central venous catheter with tip in the mid SVC"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The endotracheal tube terminates approximately 5 cm above the carina. The cardiac silhouette appears enlarged. There is evidence of pulmonary vascular congestion and interstitial edema, particularly prominent in the lower lung fields. Azygous vein distension is noted. There are no large pleural effusions or pneumothorax identified. The visualized bony structures appear intact.",
+    "C2_findings": [
+      "enlarged cardiac silhouette",
+      "pulmonary vascular congestion",
+      "interstitial edema, particularly prominent in the lower lung fields",
+      "azygous vein distension",
+      "congestive heart failure",
+      "endotracheal tube with tip approximately 5 cm above the carina"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "083Y",
+    "PatientSex": "M",
+    "Indication": "Intubated. Status post cardiac arrest.",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0AIXVBO0JBDU_aGRDNW191LRC4UCU4_s1.2.826.0.1.3680043.8.498.56521005179595136483659058234366672915",
+    "ground_truth_report": "No active infiltrate or effusion is seen. Mediastinal and hilar contours are unremarkable. The heart is within normal limits size. No bony abnormality is seen.",
+    "ground_truth_findings": [],
+    "C1_report": "The cardiac silhouette is mildly enlarged. No mediastinal or hilar masses. No convincing adenopathy. There are interstitial type opacities at the base of the right middle lobe and right lower lobe. Mild thickening of bronchovascular markings are seen more diffusely. Lungs are mildly hyperexpanded. No pleural effusion. No pneumothorax. Skeletal structures are intact.",
+    "C1_findings": [
+      "mildly enlarged cardiac silhouette",
+      "interstitial type opacities at the base of the right middle lobe and right lower lobe",
+      "mild diffuse thickening of bronchovascular markings",
+      "mild hyperexpansion of the lungs"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The cardiomediastinal silhouette is within normal limits. The hila are unremarkable. The lungs are clear bilaterally without evidence of focal consolidation, pleural effusion, or pneumothorax. There is no evidence of pulmonary edema. The visualized bony structures appear intact.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "048Y",
+    "PatientSex": "F",
+    "Indication": "Preop for left thyroidectomy, history of asthma",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN0BUMV3BZQCJ5_aGRDNCVSZ5LA00740_s1.2.826.0.1.3680043.8.498.74806915160385793286787746976493104293",
+    "ground_truth_report": "The lungs are clear. No pleural abnormality is seen. The heart and mediastinum are unremarkable. There is mild thoracic kyphosis. No rib fracture is seen on this study.",
+    "ground_truth_findings": [
+      "mild thoracic kyphosis"
+    ],
+    "C1_report": "Cardiomediastinal silhouette is unremarkable. The lungs are clear. No pleural abnormality is identified. There is moderate thoracic kyphosis. No rib fractures are seen.",
+    "C1_findings": [
+      "moderate thoracic kyphosis"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The image is a chest radiograph. The clinical indication is right rib fracture. The image shows the right hemithorax. There is a visible fracture of the right seventh rib, appearing as a sharp discontinuity in the bony cortex. The fracture appears transverse. There is associated soft tissue swelling adjacent to the fracture site. The lung fields appear clear bilaterally, without evidence of pneumothorax or significant pleural effusion. The cardiac silhouette and mediastinal contours are unremarkable.",
+    "C2_findings": [
+      "acute transverse fracture of the right seventh rib",
+      "soft tissue swelling adjacent to the fracture site"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "",
+    "PatientSex": "F",
+    "Indication": "Rt. Rib FX;",
+    "Comparison": "No previous examinations are available for review.",
+    "StudyDescription": "Ribs-Right"
+  },
+  {
+    "id": "pGRDN0C1IKD69K8EO_aGRDNKSNYC6ZOWX51_s1.2.826.0.1.3680043.8.498.80365107392314994497044195425040619079",
+    "ground_truth_report": "AP film at 6592 hours shows focal opacity in the left mid lung. This probably corresponds to the same density seen in the previous study more peripherally when taking into account the differential rotation on today’s study. No focal abnormality in the right lung. Cardiopericardial silhouette is stable with evidence of a hiatal hernia. Patient has had prior lower thoracic vertebroplasty or kyphoplasty. The patient is status post left shoulder replacement.",
+    "ground_truth_findings": [
+      "focal opacity in the left mid lung",
+      "hiatal hernia",
+      "prior lower thoracic vertebroplasty or kyphoplasty",
+      "status post left shoulder replacement"
+    ],
+    "C1_report": "The chest X-ray shows a large, ill-defined opacity in the right upper lobe, consistent with the known lung cancer. There is associated volume loss in the right hemithorax, evidenced by elevation of the right hemidiaphragm and rightward shift of the mediastinum. The opacity obscures the right heart border and right hemidiaphragm. The left lung appears relatively clear, although there might be subtle interstitial changes. The cardiac silhouette is not well visualized on the right side due to the opacity. No large pleural effusion or pneumothorax is identified. The bony structures appear grossly intact, although detailed assessment of the spine is limited by the lung opacity.",
+    "C1_findings": [
+      "large, ill-defined right upper lobe mass consistent with lung cancer",
+      "significant volume loss in the right hemithorax",
+      "elevation of the right hemidiaphragm",
+      "rightward mediastinal shift",
+      "obscuration of the right heart border",
+      "obscuration of the right hemidiaphragm",
+      "possible subtle interstitial changes in the left lung"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Portable AP chest radiograph obtained at 6592 hours. Cardiopericardial silhouette is within normal limits, and a hiatal hernia is noted. A right-sided peripherally inserted central catheter is present with the tip projecting over the superior vena cava. Evidence of prior lower thoracic vertebroplasty/kyphoplasty. Status post left shoulder arthroplasty. No focal abnormality in the right lung.",
+    "C2_findings": [
+      "hiatal hernia",
+      "right-sided peripherally inserted central catheter with tip projecting over the superior vena cava",
+      "prior lower thoracic vertebroplasty/kyphoplasty",
+      "status post left shoulder arthroplasty"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "070Y",
+    "PatientSex": "F",
+    "Indication": "Lung cancer. Back pain. Pneumonia.",
+    "Comparison": "Comparison: 01/03/03.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0C1IKD69K8EO_aGRDNZT7CHGQC0J2R_s1.2.826.0.1.3680043.8.498.85415760350305697118180614441477613946",
+    "ground_truth_report": "There has been marked interval improvement in patient’s bilateral aeration disturbance. However, there is persistent airspace disease throughout the left lung with a lesser degree of airspace disease in the right upper lobe. Cardiomegaly. No lung mass is again noted. Hiatal hernia.",
+    "ground_truth_findings": [
+      "airspace disease throughout the left lung",
+      "airspace disease in the right upper lobe",
+      "cardiomegaly",
+      "hiatal hernia"
+    ],
+    "C1_report": "The chest X-ray shows a predominantly white image, which is likely due to overexposure or technical issues with the image acquisition, making detailed assessment of lung parenchyma, mediastinum, and bony structures difficult. There is a suggestion of increased opacity in the lower lung fields bilaterally, but this is nonspecific and could be artifactual. The cardiac silhouette is not well defined. The mediastinal contours are obscured. No definite pleural effusion or pneumothorax is identified, although visualization is limited.",
+    "C1_findings": [
+      "increased opacity in the lower lung fields bilaterally"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Marked interval improvement in bilateral aeration compared with prior imaging. Persistent airspace disease throughout the left lung, with lesser involvement confined to the right upper lobe. A hiatal hernia is present. No pulmonary mass is again identified. A small left pleural effusion is newly seen.",
+    "C2_findings": [
+      "persistent airspace disease throughout the left lung",
+      "airspace disease in the right upper lobe",
+      "hiatal hernia",
+      "small left pleural effusion"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "070Y",
+    "PatientSex": "F",
+    "Indication": "Pneumonia. Lung cancer. Pulmonary embolism.",
+    "Comparison": "Comparison: 9/13/8.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0C7DFHGLBFL3_aGRDNFMLF6126D7HP_s1.2.826.0.1.3680043.8.498.24212280162589616669223177909359278723",
+    "ground_truth_report": "Borderline cardiomegaly. No acute infiltrate or pulmonary edema. Central mild airways thickening suspicious for viral infection or reactive airway disease. Best seen on lateral view.",
+    "ground_truth_findings": [
+      "Borderline cardiomegaly",
+      "Central mild airways thickening"
+    ],
+    "C1_report": "The chest X-ray shows a predominantly white image, which is likely due to significant underexposure or technical issues with the image acquisition, making detailed evaluation of the lung parenchyma, mediastinum, and bony structures extremely difficult. There is a vague suggestion of increased density in the lower lung fields bilaterally, but this is highly uncertain due to the poor image quality. The cardiac silhouette is not well defined. The hilar regions are obscured. No definite consolidation, effusion, or pneumothorax can be reliably identified.",
+    "C1_findings": [
+      "Vague suggestion of increased density in the lower lung fields bilaterally"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Midline trachea. Mild cardiomegaly. Right paraspinous soft tissue prominence likely related to a prominent osteophyte. No pleural effusion or pneumothorax. No congestive failure. Clear lungs.",
+    "C2_findings": [
+      "mild cardiomegaly",
+      "right paraspinous soft tissue prominence",
+      "prominent osteophyte"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "015M",
+    "PatientSex": "F",
+    "Indication": "Fever, upper respiratory infection",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN0CYLZ0UKU9A5_aGRDN9189Y6YWVIF2_s1.2.826.0.1.3680043.8.498.86777156796461005932461254057543615296",
+    "ground_truth_report": "There is airspace opacity in each mid and lower lung region. Heart size and pulmonary vascularity are normal. No adenopathy. No bone lesions.",
+    "ground_truth_findings": [
+      "airspace opacity in each mid and lower lung region"
+    ],
+    "C1_report": "Cardiac size is within normal limits with unremarkable pulmonary vascularity. No adenopathy is present. No osseous lesions are seen.",
+    "C1_findings": [],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a predominantly interstitial pattern, characterized by fine reticular opacities and ground-glass opacities, most prominent in the lower lung fields bilaterally. There is no evidence of pleural effusion, pneumothorax, or significant cardiomegaly. The mediastinal silhouette appears normal.",
+    "C2_findings": [
+      "Predominantly interstitial pattern",
+      "Fine reticular opacities in the lower lung fields bilaterally",
+      "Ground-glass opacities in the lower lung fields bilaterally",
+      "Findings consistent with interstitial lung disease"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "034Y",
+    "PatientSex": "M",
+    "Indication": "Shortness of breath. History of COVID-19 positive status",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0D8HQ917QU8V_aGRDNTEU4AW3GXKBS_s1.2.826.0.1.3680043.8.498.44464637600888974351978583564318029036",
+    "ground_truth_report": "The heart size and mediastinal contours are within normal limits. Both lungs are clear. No pneumothorax or pleural effusion is noted. The visualized skeletal structures are unremarkable.",
+    "ground_truth_findings": [],
+    "C1_report": "Midline trachea. Mild cardiomegaly. Right paraspinous soft tissue prominence likely related to a prominent osteophyte. No pleural effusion or pneumothorax. No congestive failure. Clear lungs.",
+    "C1_findings": [
+      "mild cardiomegaly",
+      "right paraspinous soft tissue prominence",
+      "prominent osteophyte"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a predominantly white image, likely due to significant underexposure, making detailed evaluation difficult. However, the mediastinal silhouette appears grossly normal in size and contour. The cardiac silhouette is also difficult to assess due to the poor exposure. The lung fields are obscured, but no obvious large pneumothorax or pleural effusion is clearly visible. The visualized bony structures, including the ribs, appear intact, although subtle fractures might be missed due to the poor image quality.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "077Y",
+    "PatientSex": "M",
+    "Indication": "Chest pain after fall.",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0EIGNUQU70OW_aGRDNAJDR560SGKFM_s1.2.826.0.1.3680043.8.498.20607376622603725244867202503089207484",
+    "ground_truth_report": "Normal cardiac silhouette and mediastinal contours. No focal parenchymal opacities. No pleural effusion or pneumothorax. No evidence of edema. No acute osseous abnormalities. Specifically, no definite displaced right-sided rib fractures. Regional soft tissues appear normal. No radiopaque foreign body.",
+    "ground_truth_findings": [],
+    "C1_report": "The chest X-ray shows a normal cardiomediastinal silhouette and well-aerated lungs without evidence of focal consolidation, pleural effusion, or pneumothorax. The visualized bony structures, including the ribs, appear intact. There are no obvious fractures or significant abnormalities identified in the ribs on this single view.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "Cardiomediastinal contours are normal. Lungs are clear without focal parenchymal opacities. No pleural effusion or pneumothorax. No evidence of pulmonary edema. No acute osseous abnormality detected; specifically, no definite displaced right-sided rib fractures. Regional soft tissues are unremarkable. No radiopaque foreign body is present.",
+    "C2_findings": [],
+    "C2_source": "gpt",
+    "PatientAge": "032Y",
+    "PatientSex": "M",
+    "Indication": "Right-sided rib pain. No known injury.",
+    "Comparison": "None.",
+    "StudyDescription": "DG RIBS W/ CHEST 3+V*R*"
+  },
+  {
+    "id": "pGRDN0F1Y2SMQN4E4_aGRDNE1B7EO2WSVJI_s1.2.826.0.1.3680043.8.498.68127578780572527782144394062236154320",
+    "ground_truth_report": "Cardiac silhouette is upper limits of normal size. No mediastinal or hilar abnormality is evident. Lungs are free of infiltrates or nodules. No pleural abnormality is evident. There is minimal degenerative spondylosis.",
+    "ground_truth_findings": [
+      "minimal degenerative spondylosis"
+    ],
+    "C1_report": "The cardiomediastinal silhouette is within normal limits in size and contour. The pulmonary vasculature appears normal. The lungs are clear bilaterally without evidence of focal consolidation, pleural effusion, or pneumothorax. The visualized bony structures are unremarkable.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "The heart size and mediastinal contours are within normal limits. Both lungs are clear. The visualized skeletal structures are unremarkable.",
+    "C2_findings": [],
+    "C2_source": "gpt",
+    "PatientAge": "047Y",
+    "PatientSex": "M",
+    "Indication": "Essential hypertension.",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN0FMZIYBLFN1L_aGRDNVAYWMVVN18KQ_s1.2.826.0.1.3680043.8.498.34965876975560455659639356960753467202",
+    "ground_truth_report": "VP shunt tubing is partly noted coursing over the left hemithorax and midline. It is contiguous in its course. Lungs are clear. Heart size is normal. No pleural effusion.",
+    "ground_truth_findings": [
+      "VP shunt tubing coursing over the left hemithorax and midline"
+    ],
+    "C1_report": "The chest X-ray shows a normal cardiomediastinal silhouette. The lungs are clear bilaterally without evidence of consolidation, effusion, or pneumothorax. The visualized bony structures appear intact. There is no evidence of acute cardiopulmonary pathology.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "Heart size is within normal limits allowing for low lung volumes. Both lungs are clear. There is no evidence of pleural effusion. No mass or adenopathy identified.",
+    "C2_findings": [
+      "low lung volumes"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "049Y",
+    "PatientSex": "F",
+    "Indication": "Syncope, collapse",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN0FXV8KUVKKK8_aGRDNG905MZI00VBW_s1.2.826.0.1.3680043.8.498.97386908735800022677724956010911456678",
+    "ground_truth_report": "Lungs are hypoinflated with persistent diffuse bilateral mixed interstitial airspace process likely multifocal pneumonia. No effusion. Cardiomediastinal silhouette and remainder of the exam is unchanged.",
+    "ground_truth_findings": [
+      "hypoinflated lungs",
+      "persistent diffuse bilateral mixed interstitial and airspace opacities",
+      "multifocal pneumonia"
+    ],
+    "C1_report": "The chest X-ray shows bilateral, predominantly peripheral and basal, airspace opacities. These opacities appear somewhat patchy and ill-defined, consistent with ground-glass opacities and/or consolidation. There is no evidence of pleural effusion or pneumothorax. The cardiac silhouette appears normal in size. The mediastinal contours are unremarkable.",
+    "C1_findings": [
+      "bilateral predominantly peripheral and basal airspace opacities",
+      "ground-glass opacities and/or consolidation",
+      "bilateral pneumonia",
+      "COVID-19 pneumonia"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Cardiomediastinal silhouette is stable. The lungs appear mildly hyperinflated. A small right pleural effusion is present.",
+    "C2_findings": [
+      "mildly hyperinflated lungs",
+      "small right pleural effusion"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "077Y",
+    "PatientSex": "M",
+    "Indication": "Hypoxia. COVID-19 positive.",
+    "Comparison": "11/18/2008",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0FXV8KUVKKK8_aGRDNJK428MSKGS80_s1.2.826.0.1.3680043.8.498.62249988644827245945045603928446827843",
+    "ground_truth_report": "Prior sternotomy for CABG. Cardiac silhouette mildly to moderately enlarged. Suboptimal inspiration. Ground-glass opacities throughout both lungs, RIGHT greater than LEFT, increased since the examination 4 days ago.",
+    "ground_truth_findings": [
+      "Cardiac silhouette mildly to moderately enlarged",
+      "Ground-glass opacities throughout both lungs, right greater than left, increased since the examination 4 days ago",
+      "Prior sternotomy for CABG"
+    ],
+    "C1_report": "The chest X-ray shows a predominantly bibasilar distribution of opacities, which appear somewhat less extensive compared to what might be expected in acute COVID-19 pneumonia/ARDS. There is some residual reticular pattern noted, particularly in the lower lung fields. The cardiac silhouette is within normal limits in size. The mediastinal contours are unremarkable. No large pleural effusions or pneumothorax are identified.",
+    "C1_findings": [
+      "bibasilar opacities",
+      "residual reticular pattern in the lower lung fields",
+      "residual parenchymal changes"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Limited inspiratory effort. Evidence of prior CABG with median sternotomy wires. Mild to moderate enlargement of the cardiac silhouette. Diffuse ground-glass attenuation throughout both lungs, more pronounced on the right. A small left pleural effusion is present.",
+    "C2_findings": [
+      "limited inspiratory effort",
+      "evidence of prior CABG with median sternotomy wires",
+      "mild to moderate enlargement of the cardiac silhouette",
+      "diffuse ground-glass attenuation throughout both lungs, more pronounced on the right",
+      "small left pleural effusion"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "077Y",
+    "PatientSex": "M",
+    "Indication": "Follow-up COVID-19 pneumonia/ARDS.",
+    "Comparison": "02/01/2007 and earlier.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0HTYNLXE4QQK_aGRDN4CTHVZWWVVSU_s1.2.826.0.1.3680043.8.498.54784908805001270029264346777254509225",
+    "ground_truth_report": "Cardiac shadow is stable. New right jugular central line is noted in the proximal superior vena cava. No pneumothorax is seen. Postsurgical changes are noted in the left anterior chest wall. Surgical drain is noted in place. The lungs are clear bilaterally.",
+    "ground_truth_findings": [
+      "postsurgical changes in the left anterior chest wall",
+      "surgical drain in place",
+      "right jugular central line with tip in the proximal superior vena cava"
+    ],
+    "C1_report": "The patient is status post chest wall resection, evidenced by surgical clips and likely rib defects in the right hemithorax. There is a moderate-sized right apical pneumothorax, with a visible pleural line separating the lung from the air-filled pleural space. The right lung appears partially collapsed, particularly in the upper lobe. There is also evidence of subcutaneous emphysema along the right chest wall, extending into the neck. The left lung is clear, and the heart size appears normal. No significant pleural effusion is noted.",
+    "C1_findings": [
+      "status post chest wall resection",
+      "surgical clips in the right hemithorax",
+      "likely right-sided rib defects",
+      "moderate-sized right apical pneumothorax",
+      "partial right lung collapse, particularly in the upper lobe",
+      "subcutaneous emphysema along the right chest wall extending into the neck"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Heart size is within normal limits allowing for low lung volumes. Both lungs are clear. There is no evidence of pleural effusion. No mass or adenopathy identified.",
+    "C2_findings": [
+      "low lung volumes"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "061Y",
+    "PatientSex": "M",
+    "Indication": "Status post chest wall resection",
+    "Comparison": "Comparison: 1/3/1997",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0I6KQ4K4UIGR_aGRDNC63YZJSUHD8G_s1.2.826.0.1.3680043.8.498.48294702482458685201744539104205543063",
+    "ground_truth_report": "Cardiomediastinal silhouette unremarkable. Lungs clear. Bronchovascular markings normal. Pulmonary vascularity normal. No pneumothorax. No pleural effusions. Visualized bony thorax intact.",
+    "ground_truth_findings": [],
+    "C1_report": "Cardiomediastinal contours within normal limits. No pleural effusion or pneumothorax identified. Bronchovascular pattern appears normal with unremarkable pulmonary vasculature. Lungs show no focal consolidation. Visualized osseous structures are intact. Suboptimal inspiratory effort.",
+    "C1_findings": [
+      "suboptimal inspiratory effort"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a predominantly right-sided opacity, most prominent in the right lower lobe, consistent with consolidation. There is also some increased opacity in the left lower lobe, possibly representing a smaller area of consolidation or atelectasis. The cardiac silhouette is normal in size. The mediastinal contours are unremarkable. The pulmonary vasculature appears normal. No pleural effusion or pneumothorax is identified.",
+    "C2_findings": [
+      "Right lower lobe consolidation",
+      "Left lower lobe increased opacity, possibly a small area of consolidation or atelectasis",
+      "Pneumonia predominantly involving the right lower lobe",
+      "Possible left lower lobe involvement by pneumonia"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "019Y",
+    "PatientSex": "F",
+    "Indication": "Two-day history of mid and right-sided chest pain, shortness of breath and productive cough. Current history of asthma.",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN0IGVBEUVRLVZ_aGRDN8EKK8WNLE6M2_s1.2.826.0.1.3680043.8.498.85386754707794609014489852561443872333",
+    "ground_truth_report": "Borderline cardiomegaly. Central vascular congestion without convincing pulmonary edema. Study is limited by poor inspiration. No segmental infiltrate.",
+    "ground_truth_findings": [
+      "Borderline cardiomegaly",
+      "Central vascular congestion"
+    ],
+    "C1_report": "Single view of the chest shows normal size cardiomediastinal silhouette. There is no evidence of consolidation, mass or pleural effusion.",
+    "C1_findings": [],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a predominantly white image, likely due to significant overexposure, making detailed evaluation difficult. However, the mediastinal silhouette appears within normal limits, and the cardiac size is not grossly enlarged. The lung fields are obscured by the overexposure, but no obvious large consolidation, pneumothorax, or pleural effusion can be confidently identified. The visualized bony structures appear intact.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "066Y",
+    "PatientSex": "M",
+    "Indication": "Fall, stroke",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 1V"
+  },
+  {
+    "id": "pGRDN0INSFKP87VBD_aGRDNNF6XJLWHO9E1_s1.2.826.0.1.3680043.8.498.36718788597288494251583097359735026737",
+    "ground_truth_report": "Normal cardiac silhouette. There is small focus of atelectasis at the lateral left lung bases. No focal consolidation. Based right pleural effusion. No pneumothorax. Degenerative osteophytosis of the thoracic spine.",
+    "ground_truth_findings": [
+      "small focus of atelectasis at the lateral left lung bases",
+      "right pleural effusion",
+      "degenerative osteophytosis of the thoracic spine"
+    ],
+    "C1_report": "Normal heart size. No pleural effusion or edema. Right lung is clear. Patchy opacities within the left mid and lower lung zone identified. The visualized osseous structures are unremarkable.",
+    "C1_findings": [
+      "patchy opacities within the left mid and lower lung zone"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The cardiomediastinal silhouette is within normal limits. The hila are unremarkable. The lungs are clear bilaterally without evidence of focal consolidation, pleural effusion, or pneumothorax. There is no evidence of pulmonary edema. The visualized bony structures appear intact.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "073Y",
+    "PatientSex": "F",
+    "Indication": "Fever, 1 week post lumbar surgery",
+    "Comparison": "Comparison: 3/8/1991",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN0JN3OT2Z0HQC_aGRDNMIXN36CE7R1F_s1.2.826.0.1.3680043.8.498.49146873219012208757437568711622207680",
+    "ground_truth_report": "Single portable AP view of the chest shows the cardiac silhouette to be normal in size and shape. The pulmonary vascularity is within normal limits. The lungs are clear without focal consolidation. No pleural effusions or pneumothoraces are present. No acute osseous abnormality is identified.",
+    "ground_truth_findings": [],
+    "C1_report": "Cardiomediastinal silhouette is normal. The lungs are clear. The vascularity is normal. No pneumothorax. No bony abnormality.",
+    "C1_findings": [],
+    "C1_source": "gpt",
+    "C2_report": "The provided image is a black and white chest X-ray. The image quality is poor, with significant overexposure, making it difficult to assess fine details. The lung fields appear relatively clear, although the overexposure limits evaluation for subtle infiltrates or nodules. The cardiac silhouette is not well-defined due to the exposure. The mediastinal contours are also poorly visualized. The bony structures appear intact, although the overexposure makes detailed assessment challenging. There is no obvious pneumothorax or large pleural effusion visible.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "023Y",
+    "PatientSex": "M",
+    "Indication": "Chest pain",
+    "Comparison": "None.",
+    "StudyDescription": "XR chest 1V"
+  },
+  {
+    "id": "pGRDN0KE2XHI9FB4A_aGRDNDGABY4MXCF75_s1.2.826.0.1.3680043.8.498.11733047642881464489304187586149923449",
+    "ground_truth_report": "Unchanged cardiomediastinal silhouette. There is no new focal airspace disease. No pleural effusion or pneumothorax. Right lateral fifth and sixth rib fractures, mildly displaced. There are additional bilateral rib fractures previously reported on comparison chest CT, which are not as well visualized radiographically. Known T9 compression fracture.",
+    "ground_truth_findings": [
+      "mildly displaced right lateral fifth and sixth rib fractures",
+      "additional bilateral rib fractures",
+      "T9 compression fracture"
+    ],
+    "C1_report": "Cardiomediastinal contours are unchanged. No new focal airspace disease. No pleural effusion or pneumothorax. Mildly displaced fractures of the right lateral fifth and sixth ribs. Additional bilateral rib fractures previously described on comparison chest CT are not well visualized radiographically. Known T9 compression fracture.",
+    "C1_findings": [
+      "mildly displaced fractures of the right lateral fifth and sixth ribs",
+      "additional bilateral rib fractures",
+      "T9 compression fracture"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a large, opaque area in the upper right lung field, consistent with a large pleural effusion or potentially consolidation/atelectasis. The left lung appears relatively clear, although there might be subtle increased interstitial markings. The cardiac silhouette is not well visualized due to the opacity on the right. The mediastinum appears midline. The bony structures appear intact, although the image quality is suboptimal, particularly at the periphery, which might obscure subtle fractures. Given the patient's age and clinical indication of a fall, underlying pathology like malignancy or infection should be considered, in addition to trauma-related causes.",
+    "C2_findings": [
+      "Large right-sided pleural effusion or consolidation/atelectasis",
+      "Subtle increased interstitial markings in the left lung"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "083Y",
+    "PatientSex": "F",
+    "Indication": "fall",
+    "Comparison": "Radiograph 8/26/2008, chest CT report from 8/26/2008, images not retrievable at the time of dictation.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0MFOZ93QXA97_aGRDND0L8ZQAZY9RI_s1.2.826.0.1.3680043.8.498.53276251028587860090787407351686213567",
+    "ground_truth_report": "The heart size and mediastinal contours are within normal limits. Both lungs are clear. The visualized skeletal structures are unremarkable.",
+    "ground_truth_findings": [],
+    "C1_report": "The chest X-ray shows a predominantly white image, likely due to significant overexposure, making detailed evaluation difficult. However, the mediastinal silhouette appears within normal limits in size and contour, although obscured by the overexposure. The cardiac silhouette is also poorly visualized but seems grossly normal in size. The lung fields are diffusely opacified, making it impossible to assess for infiltrates, effusions, or pneumothorax. The bony structures, including the ribs and clavicles, are also poorly defined due to the overexposure. The diaphragm is not well visualized.",
+    "C1_findings": [
+      "diffusely opacified lung fields"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Unchanged cardiomediastinal silhouette. There is no new focal airspace disease. No pleural effusion or pneumothorax. Right lateral fifth and sixth rib fractures, mildly displaced. There are additional bilateral rib fractures previously reported on comparison chest CT, which are not as well visualized radiographically. Known T9 compression fracture.",
+    "C2_findings": [
+      "mildly displaced right lateral fifth and sixth rib fractures",
+      "additional bilateral rib fractures",
+      "T9 compression fracture"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "073Y",
+    "PatientSex": "M",
+    "Indication": "Midsternal pain.",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0NMWEAYUODSW_aGRDN1FKWSQGBMRHR_s1.2.826.0.1.3680043.8.498.32929686305847446473186203628732273946",
+    "ground_truth_report": "Pacer pack overlies left chest wall with well seated leads terminating at the right atrium and cardiac apex. An additional battery pack is seen overlying the anterior abdominal wall on frontal radiograph, not well localized on lateral. No consolidation, features of edema, pneumothorax, or effusion. Pulmonary vascularity is normally distributed. The cardiomediastinal contours are unremarkable. No acute osseous or soft tissue abnormality. Degenerative changes are present in the imaged spine and shoulders.",
+    "ground_truth_findings": [
+      "degenerative changes in the spine",
+      "degenerative changes in the shoulders",
+      "Pacemaker generator overlying the left chest wall",
+      "Pacemaker leads terminating in the right atrium and right ventricular apex",
+      "Additional battery pack overlying the anterior abdominal wall"
+    ],
+    "C1_report": "Left subclavicular pacemaker generator in place with leads coursing to the right atrium and right ventricular apex in expected position. A second generator projects over the anterior abdominal wall on the frontal view, not well delineated on the lateral. A right internal jugular central venous catheter is present with the tip over the lower SVC. The cardiomediastinal silhouette is within normal limits, and pulmonary vascular markings are normal. No focal airspace consolidation, pleural effusion, pneumothorax, or radiographic pulmonary edema is identified. No acute osseous or soft tissue abnormality is seen. Degenerative changes are noted in the thoracic spine and both shoulders. Atherosclerotic calcification of the aortic arch is present.",
+    "C1_findings": [
+      "degenerative changes of the thoracic spine",
+      "degenerative changes of both shoulders",
+      "atherosclerotic calcification of the aortic arch",
+      "Left subclavicular pacemaker generator with leads to the right atrium and right ventricular apex",
+      "Second device generator projecting over the anterior abdominal wall",
+      "Right internal jugular central venous catheter with tip in the lower superior vena cava"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a large, well-defined, rounded opacity in the right lower lung field, measuring approximately 8 cm in diameter. The opacity appears to be located within the right lower lobe, possibly extending to the hilum. The borders are smooth and sharp, suggesting a benign process or a slow-growing malignancy. There is associated volume loss in the right hemithorax, indicated by the elevation of the right hemidiaphragm and the shift of the mediastinum towards the right. The left lung appears clear without any focal consolidation, pleural effusion, or pneumothorax. The visualized bony structures appear intact.",
+    "C2_findings": [
+      "large approximately 8 cm rounded mass in the right lower lobe",
+      "possible extension to the right hilum",
+      "volume loss in the right hemithorax",
+      "elevation of the right hemidiaphragm",
+      "rightward mediastinal shift"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "078Y",
+    "PatientSex": "M",
+    "Indication": "Dry cough for 2 weeks",
+    "Comparison": "",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN0NZPLOFFR2Q8_aGRDN6J3XJDRBRF2Z_s1.2.826.0.1.3680043.8.498.22629599682300013867148331144694565539",
+    "ground_truth_report": "Some residual loculated left pleural fluid remains after the procedure. No evidence of pneumothorax. Atelectasis of the left lower lung. No edema.",
+    "ground_truth_findings": [
+      "residual loculated left pleural fluid",
+      "atelectasis of the left lower lung"
+    ],
+    "C1_report": "The chest X-ray shows a persistent small left pleural effusion, evidenced by blunting of the left costophrenic angle and a meniscus sign. There is also evidence of atelectasis in the left lower lobe, likely related to the effusion or underlying malignancy. The right lung appears clear. The cardiac silhouette is normal in size. The mediastinal contours are unremarkable. There is no evidence of pneumothorax.",
+    "C1_findings": [
+      "persistent small left pleural effusion",
+      "blunting of the left costophrenic angle",
+      "meniscus sign",
+      "left lower lobe atelectasis"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Stable enlargement of the cardiac silhouette. The trachea is midline. Improved aeration at the right lung base may represent decreased right pleural fluid. Persistent densities at the left lung base are suggestive for atelectasis and probable small effusion. Patient has had a vertebral augmentation procedure in the lower thoracic spine. Upper lungs are clear without overt pulmonary edema.",
+    "C2_findings": [
+      "enlargement of the cardiac silhouette",
+      "decreased right pleural effusion",
+      "left basilar atelectasis",
+      "probable small left pleural effusion",
+      "vertebral augmentation in the lower thoracic spine"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "078Y",
+    "PatientSex": "M",
+    "Indication": "Status post left thoracentesis. History of metastatic pancreatic carcinoma.",
+    "Comparison": "Comparison: 03/01/2019",
+    "StudyDescription": "DG CHEST 1V"
+  },
+  {
+    "id": "pGRDN0NZPLOFFR2Q8_aGRDNQJ1BKBFRD6Q2_s1.2.826.0.1.3680043.8.498.79364682053376012465886607267451125757",
+    "ground_truth_report": "Left pleural effusion has decreased in volume. There is improved aeration of the left lung base. No pneumothorax is demonstrated. The right lung and visualized mediastinal contours are stable.",
+    "ground_truth_findings": [
+      "left pleural effusion"
+    ],
+    "C1_report": "Some residual loculated left pleural fluid remains after the procedure. No evidence of pneumothorax. Atelectasis of the left lower lung. No edema.",
+    "C1_findings": [
+      "residual loculated left pleural fluid",
+      "atelectasis of the left lower lung"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a significant decrease in the right pleural effusion compared to prior imaging (if available, though not provided). There is a small residual effusion or pleural thickening remaining on the right side. The left lung is clear. The cardiac silhouette appears normal in size. The mediastinum is midline. There is no evidence of pneumothorax. The visualized bony structures are unremarkable.",
+    "C2_findings": [
+      "small residual right pleural effusion",
+      "right pleural thickening"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "078Y",
+    "PatientSex": "M",
+    "Indication": "Status post thoracentesis.",
+    "Comparison": "Comparison: 10/11/2018 radiographs. CT 06/04/2013.",
+    "StudyDescription": "DG CHEST 1V"
+  },
+  {
+    "id": "pGRDN0O85081899DL_aGRDNOBMIKJCW8HUG_s1.2.826.0.1.3680043.8.498.22955079680553325329637368107654915198",
+    "ground_truth_report": "Right-sided chest wall generator/stimulator device with leads extending into the right neck again noted. Cardiomediastinal silhouette appears grossly unremarkable. Right CP angle is clipped/excluded off the inferior edge of the film. No dense consolidation or definite acute infiltrate. No pneumothorax. No definite significant effusion seen. Unchanged thoracic scoliosis and spondylosis. Bones are demineralized. Visualized upper abdomen is grossly unremarkable.",
+    "ground_truth_findings": [
+      "right-sided chest wall generator/stimulator device with leads extending into the right neck",
+      "thoracic scoliosis",
+      "thoracic spondylosis",
+      "bone demineralization"
+    ],
+    "C1_report": "The chest X-ray shows a single view, likely posteroanterior (PA). The lung fields are clear bilaterally without evidence of consolidation, effusion, or pneumothorax. The cardiac silhouette appears within normal limits in size. The mediastinal contours are unremarkable. The visualized bony structures are intact. There is a small, rectangular opacity in the lower right lung field, which is likely an artifact or external object, given its sharp borders and lack of corresponding findings on a lateral view (if available) or clinical correlation suggesting a pulmonary nodule.",
+    "C1_findings": [
+      "small rectangular opacity in the lower right lung field"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Pacer pack overlies left chest wall with well seated leads terminating at the right atrium and cardiac apex. An additional battery pack is seen overlying the anterior abdominal wall on frontal radiograph, not well localized on lateral. No consolidation, features of edema, pneumothorax, or effusion. Pulmonary vascularity is normally distributed. The cardiomediastinal contours are unremarkable. No acute osseous or soft tissue abnormality. Degenerative changes are present in the imaged spine and shoulders.",
+    "C2_findings": [
+      "degenerative changes in the spine",
+      "degenerative changes in the shoulders",
+      "Pacemaker generator overlying the left chest wall with well-seated leads terminating at the right atrium and cardiac apex",
+      "Additional battery pack overlying the anterior abdominal wall"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "065Y",
+    "PatientSex": "M",
+    "Indication": "Diaphoresis; altered mental status",
+    "Comparison": "07/02/2009",
+    "StudyDescription": "XR chest 1V portable"
+  },
+  {
+    "id": "pGRDN0OW660U07FQ6_aGRDNM9AZ6QDGAO6D_s1.2.826.0.1.3680043.8.498.93060635670503950690465491576554965116",
+    "ground_truth_report": "Monitoring leads overlie the patient. Enlarged cardiac and mediastinal contours. No consolidative pulmonary opacities. No pleural effusion or pneumothorax.",
+    "ground_truth_findings": [
+      "enlarged cardiac contours",
+      "enlarged mediastinal contours",
+      "monitoring leads present"
+    ],
+    "C1_report": "External monitoring leads project over the chest. The cardiomediastinal silhouette is enlarged. No focal airspace consolidation is identified. No pleural effusion or pneumothorax.",
+    "C1_findings": [
+      "enlarged cardiomediastinal silhouette",
+      "external monitoring leads project over the chest"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The cardiomediastinal silhouette is within normal limits. The hila are unremarkable. The lungs are clear bilaterally without evidence of focal consolidation, pleural effusion, or pneumothorax. There is no evidence of pulmonary edema. The visualized bony structures appear intact.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "056Y",
+    "PatientSex": "M",
+    "Indication": "Patient with chest pain for multiple days.",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0PNJ63IUSLU7_aGRDNOWQA6SUASLTY_s1.2.826.0.1.3680043.8.498.80719923787182722264804357301130407251",
+    "ground_truth_report": "Cardiac shadow is at the upper limits of normal but accentuated by the portable technique. Patchy bibasilar infiltrates are noted right greater than left consistent with the given clinical history. No bony abnormality is noted.",
+    "ground_truth_findings": [
+      "patchy bibasilar infiltrates, right greater than left"
+    ],
+    "C1_report": "Cardiac shadow is stable. New right jugular central line is noted in the proximal superior vena cava. No pneumothorax is seen. Postsurgical changes are noted in the left anterior chest wall. Surgical drain is noted in place. The lungs are clear bilaterally.",
+    "C1_findings": [
+      "Right jugular central line with tip in the proximal superior vena cava",
+      "Postsurgical changes in the left anterior chest wall",
+      "Surgical drain in place"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows bilateral, predominantly peripheral and basal ground-glass opacities and reticular patterns, consistent with interstitial lung disease. There is also evidence of mild cardiomegaly and possible small bilateral pleural effusions. The lung volumes appear normal. No pneumothorax is identified.",
+    "C2_findings": [
+      "bilateral predominantly peripheral and basal ground-glass opacities",
+      "bilateral predominantly peripheral and basal reticular patterns",
+      "mild cardiomegaly",
+      "possible small bilateral pleural effusions"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "078Y",
+    "PatientSex": "F",
+    "Indication": "COVID-19 positivity with dyspnea",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0PTZR9YF3AE1_aGRDN281FZ79IZNZE_s1.2.826.0.1.3680043.8.498.92030056221836955230802183725381624334",
+    "ground_truth_report": "Enlargement of cardiac silhouette. Mediastinal contours and pulmonary vascularity normal. Mild LEFT basilar atelectasis. Lungs otherwise clear. No pleural effusion or pneumothorax. Multilevel endplate spur formation thoracic spine.",
+    "ground_truth_findings": [
+      "enlargement of cardiac silhouette",
+      "mild left basilar atelectasis",
+      "multilevel endplate spur formation thoracic spine"
+    ],
+    "C1_report": "Cardiomegaly. Mediastinal silhouette and pulmonary vasculature are within normal limits. Mild atelectasis at the left lung base; the lungs are otherwise clear. No pleural effusion or pneumothorax. Multilevel thoracic spine endplate osteophyte formation.",
+    "C1_findings": [
+      "Cardiomegaly",
+      "Mild atelectasis at the left lung base",
+      "Multilevel thoracic spine endplate osteophyte formation"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The cardiomediastinal silhouette is within normal limits. The hila are unremarkable. The lungs are hyperinflated, consistent with the patient's history of COPD. There is no evidence of focal consolidation, pleural effusion, or pneumothorax. No acute osseous abnormalities are identified.",
+    "C2_findings": [
+      "hyperinflation consistent with COPD"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "076Y",
+    "PatientSex": "M",
+    "Indication": "Shortness of breath today, history hypertension, COPD",
+    "Comparison": "Portable exam 9438 hr compared to 10/13/2017",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0PTZR9YF3AE1_aGRDNH43OKNFJ01LX_s1.2.826.0.1.3680043.8.498.95996328390010328067335151456039231138",
+    "ground_truth_report": "Heart size appears mildly prominent for portable technique. Mediastinal and hilar contours are normal. There is mild pulmonary vascular congestion. Focal atelectasis or scarring at the lateral left lung base. No airspace disease appreciated. Negative for pulmonary edema or pneumothorax. No acute or suspicious bony abnormality. Degenerative changes noted in the thoracic spine.",
+    "ground_truth_findings": [
+      "mildly prominent heart size",
+      "mild pulmonary vascular congestion",
+      "focal atelectasis or scarring at the lateral left lung base",
+      "degenerative changes in the thoracic spine"
+    ],
+    "C1_report": "The chest X-ray shows a predominantly right lower lobe opacity, which appears somewhat ill-defined and patchy. There is also a smaller opacity noted in the left lower lobe. The cardiac silhouette is within normal limits in size. The mediastinal contours are unremarkable. The pulmonary vasculature appears normal. No pleural effusion or pneumothorax is identified. The bony structures appear intact.",
+    "C1_findings": [
+      "right lower lobe ill-defined patchy opacity",
+      "left lower lobe opacity",
+      "bilateral lower lobe infiltrates, more prominent on the right"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "The mediastinal and hilar contours are within normal limits. The cardiac silhouette appears mildly enlarged, likely related to the portable technique. Mild pulmonary vascular congestion is present, without evidence of pulmonary edema or pneumothorax. No focal airspace disease is identified. A small focus of atelectasis or scarring is noted along the lateral left lung base. No acute or suspicious osseous abnormality is seen. Degenerative changes are present in the thoracic spine.",
+    "C2_findings": [
+      "mildly enlarged cardiac silhouette",
+      "mild pulmonary vascular congestion",
+      "small focus of atelectasis or scarring along the lateral left lung base",
+      "degenerative changes in the thoracic spine"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "076Y",
+    "PatientSex": "M",
+    "Indication": "Fever. Occasional shortness of breath.",
+    "Comparison": "No prior imaging",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0QEC9FYWA8W9_aGRDNNZ31UP11C4AF_s1.2.826.0.1.3680043.8.498.21799949574472486588793541959752431485",
+    "ground_truth_report": "Frontal view of the chest is obtained. There is thickening of the interstitial markings and peribronchial cuffing. The cardiac silhouette is enlarged indicative of cardiomegaly. Areas of increased density project within the perihilar regions and lung bases. The visualized bony skeleton is unremarkable.",
+    "ground_truth_findings": [
+      "interstitial thickening",
+      "peribronchial cuffing",
+      "cardiomegaly",
+      "increased density in the perihilar regions",
+      "increased density in the lung bases"
+    ],
+    "C1_report": "The lungs are clear. Heart size is normal. No pneumothorax or pleural effusion. No focal bony abnormality.",
+    "C1_findings": [],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a predominantly white image, likely due to significant overexposure, making detailed evaluation difficult. However, the mediastinal silhouette appears within normal limits in size and contour, although obscured by the overexposure. The cardiac silhouette is also poorly visualized but seems grossly unremarkable. The lung fields are diffusely opacified, making it impossible to assess for infiltrates, effusions, or pneumothorax. The bony structures are not well visualized due to the overexposure. There are some dark horizontal lines at the top of the image, possibly related to the exposure technique or processing.",
+    "C2_findings": [
+      "Diffuse opacification of the lung fields"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "082Y",
+    "PatientSex": "O",
+    "Indication": "Chest pain",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0QEC9FYWA8W9_aGRDNPPSX1C2VXPSN_s1.2.826.0.1.3680043.8.498.80937821121355907777203646539493141807",
+    "ground_truth_report": "Portable chest is obtained. Endotracheal tube is noted in good anatomic position. Cardiomegaly is noted. The pulmonary vascularity is normal. There is no evidence of pulmonary infiltrate.",
+    "ground_truth_findings": [
+      "cardiomegaly",
+      "endotracheal tube in good anatomic position"
+    ],
+    "C1_report": "The endotracheal tube tip is approximately 5 cm above the carina, positioned appropriately. The cardiac silhouette is within normal limits in size. The mediastinal contours are unremarkable. The lung fields are clear bilaterally, without evidence of focal consolidation, pleural effusion, or pneumothorax. The visualized bony structures appear intact.",
+    "C1_findings": [
+      "Endotracheal tube present with tip approximately 5 cm above the carina (appropriate position)"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Portable chest radiograph was performed. The endotracheal tube is appropriately positioned. The cardiac silhouette is enlarged. Pulmonary vascularity is within normal limits. No pulmonary infiltrates are identified.",
+    "C2_findings": [
+      "enlarged cardiac silhouette",
+      "endotracheal tube appropriately positioned"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "082Y",
+    "PatientSex": "O",
+    "Indication": "post intubation",
+    "Comparison": "The previously identified pulmonary edema on 8/25/1999 has cleared.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0QOV804VLTAT_aGRDNRAHKGD9M2258_s1.2.826.0.1.3680043.8.498.92049969095473203888322843798611699986",
+    "ground_truth_report": "Midline trachea. Mild cardiomegaly. Right paraspinous soft tissue prominence likely related to a prominent osteophyte. No pleural effusion or pneumothorax. No congestive failure. Clear lungs.",
+    "ground_truth_findings": [
+      "Mild cardiomegaly",
+      "Right paraspinous soft tissue prominence",
+      "Prominent osteophyte"
+    ],
+    "C1_report": "The cardiomediastinal silhouette is within normal limits in size and contour. The pulmonary vasculature appears normal. The lungs are clear bilaterally without evidence of focal consolidation, pleural effusion, or pneumothorax. The visualized osseous structures are unremarkable. A cardiac stent is noted in the region of the left anterior descending artery, consistent with the patient's history.",
+    "C1_findings": [
+      "cardiac stent in the region of the left anterior descending artery"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Trachea is midline. Lungs are clear. No pleural effusion or pneumothorax. No evidence of congestive failure. Right paraspinal soft-tissue prominence, likely related to a prominent osteophyte.",
+    "C2_findings": [
+      "right paraspinal soft-tissue prominence",
+      "prominent osteophyte"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "045Y",
+    "PatientSex": "M",
+    "Indication": "Chest pain. History of cardiac stent. Hypertension. Nonsmoker.",
+    "Comparison": "Comparison: 10/07/2003",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0QOV804VLTAT_aGRDNWTTNH5JON3KG_s1.2.826.0.1.3680043.8.498.66923851724447257149013534950223278358",
+    "ground_truth_report": "Heart size is within normal limits allowing for low lung volumes. Both lungs are clear. There is no evidence of pleural effusion. No mass or adenopathy identified.",
+    "ground_truth_findings": [
+      "low lung volumes"
+    ],
+    "C1_report": "The lungs are clear bilaterally. Cardiac silhouette size is normal, taking into account reduced inspiratory effort. No pleural effusion is present. No mass or lymphadenopathy is identified.",
+    "C1_findings": [
+      "reduced inspiratory effort"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a normal cardiomediastinal silhouette. The lung fields are clear bilaterally without evidence of consolidation, effusion, or pneumothorax. The visualized bony structures appear intact. There is no evidence of free air under the diaphragm.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "045Y",
+    "PatientSex": "M",
+    "Indication": "Chest pain and short of breath. Nausea.",
+    "Comparison": "",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0QOY9LZAK0VT_aGRDN5IQ5Y00J3CXP_s1.2.826.0.1.3680043.8.498.72952165354291060005703305303952802534",
+    "ground_truth_report": "Pulmonary insufflation remain stable since prior examination. Patchy mid and lower lung zone pulmonary opacities, more prevalent within the left lung, appear stable since prior examination. No pneumothorax or pleural effusion. Cardiac size within normal limits. No acute bone abnormality.",
+    "ground_truth_findings": [
+      "patchy mid and lower lung zone pulmonary opacities, more prevalent within the left lung"
+    ],
+    "C1_report": "Cardiac silhouette is normal in size. Lung volumes are stable compared to the prior study. Patchy opacities in the mid and lower lung zones, more pronounced on the left, are unchanged from the previous examination. No pleural effusion or pneumothorax is identified. No acute osseous abnormality is seen.",
+    "C1_findings": [
+      "patchy opacities in the mid and lower lung zones, more pronounced on the left"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a predominantly white-out appearance of the right hemithorax, suggesting a large pleural effusion or potentially complete lung collapse. The left lung appears relatively clear, although subtle opacities might be present. The mediastinum appears shifted towards the left, further supporting the presence of a significant volume loss or effusion on the right side. The cardiac silhouette is not well visualized due to the opacification on the right. The visualized portion of the left hemidiaphragm appears unremarkable.",
+    "C2_findings": [
+      "opacification (white-out) of the right hemithorax",
+      "large right-sided pleural effusion",
+      "complete right lung collapse",
+      "mediastinal shift to the left",
+      "subtle opacities in the left lung"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "050Y",
+    "PatientSex": "F",
+    "Indication": "Sepsis",
+    "Comparison": "Comparison: 02/13/2023",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN0R2WGN9SEZTC_aGRDN2VL46TFNBY89_s1.2.826.0.1.3680043.8.498.13014467899934696604242646305231247431",
+    "ground_truth_report": "Right IJ central catheter terminates over the mid to distal SVC. No pneumothorax. Lungs remain clear. No change.",
+    "ground_truth_findings": [
+      "Right internal jugular central venous catheter terminating in the mid to distal superior vena cava"
+    ],
+    "C1_report": "The patient is a 43-year-old male. The chest X-ray shows a right-sided central venous catheter. The tip of the catheter appears to be positioned in the lower superior vena cava (SVC). The course of the catheter appears unremarkable. The lungs are clear without evidence of focal consolidation, pleural effusion, or pneumothorax. The heart size is within normal limits. The mediastinal silhouette is unremarkable. The bony structures appear intact.",
+    "C1_findings": [
+      "Right-sided central venous catheter with tip in the lower superior vena cava (SVC)"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Cardiac shadow is stable. New right jugular central line is noted in the proximal superior vena cava. No pneumothorax is seen. Postsurgical changes are noted in the left anterior chest wall. Surgical drain is noted in place. The lungs are clear bilaterally.",
+    "C2_findings": [
+      "postsurgical changes in the left anterior chest wall",
+      "surgical drain in place",
+      "Right jugular central line with tip in the proximal superior vena cava"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "043Y",
+    "PatientSex": "M",
+    "Indication": "Line placement",
+    "Comparison": "Comparison: 06/26/1990",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0R2WGN9SEZTC_aGRDNSPYTUYTH78GT_s1.2.826.0.1.3680043.8.498.74665364351153202679338897730069930083",
+    "ground_truth_report": "Right central line tip proximal superior vena cava. No gross pneumothorax. No infiltrate. No congestive heart failure. Heart appears slightly more prominent in size than on the prior exam. Mediastinum does not appear widened. Good definition of the aorta.",
+    "ground_truth_findings": [
+      "heart appears slightly more prominent in size than on the prior exam",
+      "Right central venous catheter with tip in proximal superior vena cava"
+    ],
+    "C1_report": "The lungs are clear bilaterally without evidence of focal consolidation, pleural effusion, or pneumothorax. The cardiac silhouette is within normal limits in size and configuration. The mediastinal contours are unremarkable. The visualized bony structures, including the ribs and clavicles, appear intact. There is no evidence of acute fracture or dislocation.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "Cardiac silhouette is slightly larger compared with the prior study. The mediastinum is not widened, and the aortic contour is well delineated. The tip of a right-sided central venous catheter is in the proximal superior vena cava. No definite pneumothorax. No pulmonary infiltrates. No radiographic evidence of congestive heart failure.",
+    "C2_findings": [
+      "cardiac silhouette slightly larger compared with prior study",
+      "Right-sided central venous catheter with tip in the proximal superior vena cava"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "043Y",
+    "PatientSex": "M",
+    "Indication": "Motor vehicle accident. Follow-up.",
+    "Comparison": "03/08/2009.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0RBYVR6JOL8G_aGRDNXMSVZYP2BSBR_s1.2.826.0.1.3680043.8.498.53188285010429430834673628409512964796",
+    "ground_truth_report": "Cardiomegaly and evidence of prior cardiac surgery again noted. The lungs are clear. There is no evidence of pleural effusion, focal airspace disease, or pneumothorax. Postoperative changes of the right lower neck are identified.",
+    "ground_truth_findings": [
+      "cardiomegaly",
+      "evidence of prior cardiac surgery",
+      "postoperative changes of the right lower neck"
+    ],
+    "C1_report": "Enlargement of the cardiac silhouette with sequelae of prior cardiac surgery is again seen. The lungs are clear. No pleural effusion, pneumothorax, or focal airspace process is identified. Postsurgical changes are present in the right lower neck.",
+    "C1_findings": [
+      "Enlargement of the cardiac silhouette",
+      "Sequelae of prior cardiac surgery",
+      "Postsurgical changes in the right lower neck"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a bypass graft extending from the region of the right carotid artery, coursing superiorly and laterally, and anastomosing to the right subclavian artery. The graft appears patent, with a visible lumen. The heart size is within normal limits. The mediastinal contours are unremarkable. The lungs are clear bilaterally, without evidence of consolidation, effusion, or pneumothorax. The bony structures appear intact.",
+    "C2_findings": [
+      "right carotid to subclavian bypass graft"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "074Y",
+    "PatientSex": "M",
+    "Indication": "Right subclavian steal - bypass graft from right carotid to subclavian.",
+    "Comparison": "Comparison: 11/24/2010",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0RF5LZW8HANL_aGRDNJUGGPEQ9IZAE_s1.2.826.0.1.3680043.8.498.97890678914578134372446848889650412402",
+    "ground_truth_report": "Heart: Heart size upper limits of normal. Lungs: Right basilar airspace opacities. No pneumothorax or significant pleural effusion. Mediastinum: Normal. Bones: No acute cardiopulmonary findings. Visualized upper abdomen: Normal.",
+    "ground_truth_findings": [
+      "Right basilar airspace opacities"
+    ],
+    "C1_report": "Lungs: Right basilar airspace opacities are present. No evidence of pneumothorax or significant pleural effusion.\nHeart: Cardiomediastinal silhouette at the upper limits of normal in size.\nMediastinum: Unremarkable.\nBones: No acute cardiopulmonary findings.\nVisualized upper abdomen: Normal.",
+    "C1_findings": [
+      "right basilar airspace opacities",
+      "cardiomediastinal silhouette at the upper limits of normal in size"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a predominantly interstitial pattern, characterized by fine reticular opacities and increased lung markings, most prominent in the lower lung fields. There is also evidence of mild cardiomegaly. The costophrenic angles are sharp, indicating no pleural effusions. No focal consolidation or pneumothorax is identified. The mediastinal silhouette appears normal in width.",
+    "C2_findings": [
+      "fine reticular opacities in the lower lung fields",
+      "increased lung markings in the lower lung fields",
+      "mild cardiomegaly",
+      "findings suggest interstitial lung disease, possibly idiopathic pulmonary fibrosis or other chronic interstitial pneumonias"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "073Y",
+    "PatientSex": "F",
+    "Indication": "Hypoxia",
+    "Comparison": "",
+    "StudyDescription": "XR chest 1V portable"
+  },
+  {
+    "id": "pGRDN0RXYNOKR3FWP_aGRDNEFIA0BN3T04V_s1.2.826.0.1.3680043.8.498.88623863225174343058434417501954795467",
+    "ground_truth_report": "Artifact from EKG leads. Normal heart size and mediastinal contours. No acute infiltrate or edema. No effusion or pneumothorax. No acute osseous findings.",
+    "ground_truth_findings": [],
+    "C1_report": "Normal cardiac silhouette and mediastinal contours. No focal parenchymal opacities. No pleural effusion or pneumothorax. No evidence of edema. No acute osseous abnormalities. Specifically, no definite displaced right-sided rib fractures. Regional soft tissues appear normal. No radiopaque foreign body.",
+    "C1_findings": [],
+    "C1_source": "gpt",
+    "C2_report": "The cardiomediastinal silhouette is within normal limits in size and contour. The pulmonary vasculature appears normal. The lungs are clear without evidence of consolidation, effusion, or pneumothorax. The visualized bony structures are unremarkable.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "030Y",
+    "PatientSex": "F",
+    "Indication": "Rapid heart rate",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN0STZXAHUXN17_aGRDNBSF356JUI5JJ_s1.2.826.0.1.3680043.8.498.18451369849366203658702039990074179271",
+    "ground_truth_report": "There are scattered patchy and nodular air space opacities especially in the left lower lobe and to a lesser degree in the right lower lobe and right upper lobe. The appearance suggests atypical pneumonia or early bacterial pneumonia. The heart and mediastinum appear unremarkable.",
+    "ground_truth_findings": [
+      "patchy and nodular air space opacities in the left lower lobe",
+      "patchy and nodular air space opacities in the right lower lobe",
+      "patchy and nodular air space opacities in the right upper lobe",
+      "appearance suggests atypical pneumonia or early bacterial pneumonia"
+    ],
+    "C1_report": "The chest X-ray shows a predominantly interstitial pattern, most prominent in the lower lung fields, suggestive of interstitial lung disease. There is no evidence of acute consolidation, pleural effusion, or pneumothorax. The cardiac silhouette appears normal in size. The mediastinal contours are unremarkable.",
+    "C1_findings": [
+      "Predominantly interstitial pattern in the lower lung fields suggestive of interstitial lung disease"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Cardiomediastinal silhouette is within normal limits. Scattered patchy and nodular airspace opacities are present, most prominent in the right lower lobe, with lesser involvement of the left lower lobe and the right upper lobe. Overall appearance raises concern for atypical pneumonia or early bacterial pneumonia.",
+    "C2_findings": [
+      "scattered patchy and nodular airspace opacities in the right lower lobe",
+      "scattered patchy and nodular airspace opacities in the left lower lobe",
+      "scattered patchy and nodular airspace opacities in the right upper lobe",
+      "appearance raises concern for atypical pneumonia or early bacterial pneumonia"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "051Y",
+    "PatientSex": "M",
+    "Indication": "Cough.",
+    "Comparison": "No prior studies.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN0SXOON7NT3Z5_aGRDN1PQTYYL2HJ4W_s1.2.826.0.1.3680043.8.498.33000550889864238331778380971134695454",
+    "ground_truth_report": "No complication post bronchoscopy. No pneumothorax. Heart size upper normal. Negative for heart failure. Mild atelectasis in the bases.",
+    "ground_truth_findings": [
+      "mild atelectasis in the bases"
+    ],
+    "C1_report": "The chest X-ray shows a large, ill-defined opacity in the right upper lobe, consistent with the patient's history of pulmonary nodules post-bronchoscopy. There is associated volume loss in the right hemithorax, suggested by the elevation of the right hemidiaphragm and rightward shift of the mediastinum. The left lung appears clear. No pleural effusion or pneumothorax is identified. The cardiac silhouette is normal in size.",
+    "C1_findings": [
+      "large, ill-defined right upper lobe opacity",
+      "right hemithorax volume loss",
+      "elevation of the right hemidiaphragm",
+      "rightward shift of the mediastinum"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "The lungs are clear. Heart size is normal. No pneumothorax or pleural effusion. No focal bony abnormality.",
+    "C2_findings": [],
+    "C2_source": "gpt",
+    "PatientAge": "067Y",
+    "PatientSex": "M",
+    "Indication": "Pulmonary nodules post bronchoscopy",
+    "Comparison": "Comparison made with CT chest from 07/19/2002.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0SXOON7NT3Z5_aGRDNO34ALONNMBQ5_s1.2.826.0.1.3680043.8.498.58454522844862367685918731147937457430",
+    "ground_truth_report": "The heart size is mildly enlarged. There are postsurgical changes of the left upper lung zone related to partial lobectomy. There is a left-sided chest tube in place. There is no significant pneumothorax. There is postoperative atelectasis at the lung bases.",
+    "ground_truth_findings": [
+      "mildly enlarged heart size",
+      "postsurgical changes of the left upper lung zone related to partial lobectomy",
+      "left-sided chest tube in place",
+      "postoperative atelectasis at the lung bases"
+    ],
+    "C1_report": "There are postsurgical changes in the left upper lung compatible with prior partial lobectomy, and a left-sided chest tube remains in place. The cardiomediastinal silhouette is mildly enlarged. Postoperative atelectasis is present at the lung bases. No significant pneumothorax is identified. Additionally, a small right pleural effusion is observed.",
+    "C1_findings": [
+      "postsurgical changes in the left upper lung compatible with prior partial lobectomy",
+      "left-sided chest tube in place",
+      "mildly enlarged cardiomediastinal silhouette",
+      "postoperative atelectasis at the lung bases",
+      "small right pleural effusion"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a postoperative state following a partial lobectomy, likely a right upper lobectomy given the expected changes. There is evidence of volume loss in the right hemithorax, indicated by the elevation of the right hemidiaphragm and the shift of the mediastinum towards the right. A right-sided chest tube is in place, with its tip positioned near the apex. There is a small right apical pneumothorax visible, with a pleural line separating the lung from the chest wall. There is also subcutaneous emphysema noted along the right chest wall. The left lung appears clear, without evidence of consolidation or effusion. The heart size appears within normal limits.",
+    "C2_findings": [
+      "postoperative state following partial right upper lobectomy",
+      "volume loss in the right hemithorax",
+      "elevation of the right hemidiaphragm",
+      "mediastinal shift towards the right",
+      "right-sided chest tube in place",
+      "small right apical pneumothorax",
+      "subcutaneous emphysema along the right chest wall",
+      "right chest tube tip positioned near the right apex"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "067Y",
+    "PatientSex": "M",
+    "Indication": "Status post partial lobectomy.",
+    "Comparison": "Comparison: February 09, 2023",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0T1EGH850XQY_aGRDN1ELPOWATPC2K_s1.2.826.0.1.3680043.8.498.63988719516416667725478664819829693893",
+    "ground_truth_report": "The lungs are well-aerated. Mild left basilar airspace opacity could reflect mild pneumonia. There is no evidence of pleural effusion or pneumothorax. The heart is normal in size; the mediastinal contour is within normal limits. No acute osseous abnormalities are seen. Chronic left-sided rib deformities are again noted.",
+    "ground_truth_findings": [
+      "mild left basilar airspace opacity",
+      "chronic left-sided rib deformities"
+    ],
+    "C1_report": "Cardiomediastinal silhouette is within normal limits with a normal heart size. The lungs are well expanded and clear of focal airspace consolidation. No pleural effusion or pneumothorax is identified. A dual-lead left subclavian pacemaker is present, with leads terminating in the right atrium and right ventricle. No acute osseous abnormalities are seen. Chronic deformities of the left ribs are again noted.",
+    "C1_findings": [
+      "Dual-lead left subclavian pacemaker in place with leads terminating in the right atrium and right ventricle",
+      "Chronic deformities of the left ribs"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a predominantly right lower lobe opacity, which appears somewhat ill-defined and patchy. There is also a smaller, less distinct opacity in the left lower lobe. The cardiomediastinal silhouette is within normal limits. No pleural effusion or pneumothorax is identified. The visualized bony structures appear intact.",
+    "C2_findings": [
+      "Right lower lobe opacity",
+      "Left lower lobe opacity",
+      "Bilateral lower lobe infiltrates, more prominent on the right"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "039Y",
+    "PatientSex": "F",
+    "Indication": "Acute onset of fever and cough. Initial encounter.",
+    "Comparison": "Chest radiograph performed 4/26/2005",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN0T45AA72VT0F_aGRDN0RUTC52KYOR0_s1.2.826.0.1.3680043.8.498.41667322095810377973412329405451217033",
+    "ground_truth_report": "Tracheostomy 6.5 cm above the carina. NG tube within the stomach. Monitor leads overlie the chest. Stable cardiomegaly with central vascular congestion. Improving bilateral atelectasis compared to 11/16/2018. No enlarging effusion or pneumothorax. Persistent low lung volumes.",
+    "ground_truth_findings": [
+      "cardiomegaly",
+      "central vascular congestion",
+      "bilateral atelectasis",
+      "low lung volumes",
+      "Tracheostomy tube positioned 6.5 cm above the carina",
+      "Nasogastric tube within the stomach",
+      "Monitor leads overlying the chest"
+    ],
+    "C1_report": "Monitoring leads project over the thorax. Tracheostomy tube tip is approximately 6.5 cm above the carina. The nasogastric tube courses into the stomach. The cardiac silhouette is stably enlarged with central pulmonary vascular congestion. Compared with 11/16/2018, bilateral atelectasis has improved. No pneumothorax and no enlarging pleural effusion are identified. Lung volumes remain low.",
+    "C1_findings": [
+      "enlarged cardiac silhouette",
+      "central pulmonary vascular congestion",
+      "bilateral atelectasis",
+      "low lung volumes",
+      "Monitoring leads over the thorax",
+      "Tracheostomy tube with tip approximately 6.5 cm above the carina",
+      "Nasogastric tube courses into the stomach"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The lungs are clear bilaterally without evidence of focal consolidation, pleural effusion, or pneumothorax. The cardiac silhouette is within normal limits in size. The mediastinal contours are unremarkable. The visualized bony structures appear intact. There is no evidence of pulmonary edema.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "038Y",
+    "PatientSex": "M",
+    "Indication": "Fever",
+    "Comparison": "Comparison: 11/16/2018",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0T4S223KM713_aGRDNMEJIR7QDQP3U_s1.2.826.0.1.3680043.8.498.91582765124365046874616829877878509002",
+    "ground_truth_report": "Similar mass in the left upper lobe, better characterized on recent CT chest. Low lung volumes without new consolidation. No visible pleural effusions or pneumothorax. Similar cardiomediastinal contour. Aortic atherosclerosis. No acute osseous abnormality.",
+    "ground_truth_findings": [
+      "left upper lobe mass",
+      "low lung volumes",
+      "aortic atherosclerosis"
+    ],
+    "C1_report": "The provided image is a chest X-ray. The patient is 72 years old. The clinical indication is a CT chest performed on June 3, 1993. The image shows the standard anatomical structures of the chest, including the lungs, heart, mediastinum, and bony thorax. The lung fields appear relatively clear bilaterally, without obvious consolidation, large effusions, or pneumothorax. The cardiac silhouette is present. The mediastinal contours are unremarkable. The bony structures appear intact. However, the image quality is poor, making detailed assessment difficult. The date of the CT scan (June 3, 1993) is noted, but the X-ray itself is not dated.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "There is no edema or consolidation. The heart size and pulmonary vascularity are normal. No adenopathy. No pneumothorax. No bone lesions.",
+    "C2_findings": [],
+    "C2_source": "gpt",
+    "PatientAge": "072Y",
+    "PatientSex": "M",
+    "Indication": "CT chest 6/3/1993",
+    "Comparison": "Comparison: CT chest 6/3/1993, chest radiograph 4/8/1993.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0TPV8QPLCE3K_aGRDN4634XT3YJN6I_s1.2.826.0.1.3680043.8.498.12706233396442034037544038861867657936",
+    "ground_truth_report": "Shallow inspiration. Normal heart size and pulmonary vascularity. No focal airspace consolidation in the lungs. No blunting of costophrenic angles. No pneumothorax.",
+    "ground_truth_findings": [
+      "shallow inspiration"
+    ],
+    "C1_report": "The chest X-ray shows a large, well-defined, homogeneous opacity in the right lower lung field, consistent with a mass. The mass appears to be located in the right lower lobe, possibly involving the hilum. The left lung is clear. The heart size appears normal. The mediastinal silhouette is unremarkable. There is no evidence of pleural effusion or pneumothorax.",
+    "C1_findings": [
+      "large right lower lobe mass",
+      "possible right hilar involvement"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "No focal pulmonary consolidation is evident. No pneumothorax is seen. The costophrenic sulci are sharp without blunting. Inspiratory effort is shallow.",
+    "C2_findings": [
+      "shallow inspiratory effort"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "035Y",
+    "PatientSex": "F",
+    "Indication": "Cough, congestion, and headaches since 1/8/1992. Vomiting today.",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 2V"
+  },
+  {
+    "id": "pGRDN0V7QH21B7L0A_aGRDN6UE5LNN8QTM7_s1.2.826.0.1.3680043.8.498.19874077600989850285172840853235491255",
+    "ground_truth_report": "The tip of the endotracheal tube is approximately 8.4 cm above the carina. The right IJ central venous line tip overlies the region of the mid SVC. The lungs are clear. No pneumothorax is seen. The heart is within normal limits in size.",
+    "ground_truth_findings": [
+      "Endotracheal tube tip approximately 8.4 cm above the carina",
+      "Right internal jugular central venous line with tip in the mid superior vena cava"
+    ],
+    "C1_report": "The endotracheal tube terminates approximately 5 cm above the carina, in appropriate position. A right internal jugular central venous catheter is present, with the tip positioned in the mid-to-lower superior vena cava. The cardiac silhouette is within normal limits in size. The mediastinal contours are unremarkable. The pulmonary vasculature appears normal. The lungs are clear without evidence of focal consolidation, pleural effusion, or pneumothorax. There is mild elevation of the right hemidiaphragm.",
+    "C1_findings": [
+      "mild elevation of the right hemidiaphragm",
+      "Endotracheal tube terminates approximately 5 cm above the carina (appropriate position).",
+      "Right internal jugular central venous catheter present with tip in the mid-to-lower superior vena cava."
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Cardiac silhouette is within normal size limits. The endotracheal tube tip is approximately 5.0 cm above the carina. A left internal jugular central venous catheter projects to the mid superior vena cava. The lungs are clear without focal consolidation, and no pneumothorax is identified. A tiny left pleural effusion is present, possibly new compared with prior imaging.",
+    "C2_findings": [
+      "tiny left pleural effusion",
+      "Endotracheal tube with tip approximately 5.0 cm above the carina",
+      "Left internal jugular central venous catheter with tip in the mid superior vena cava"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "053Y",
+    "PatientSex": "M",
+    "Indication": "Intubation, central line placement.",
+    "Comparison": "Portable chest x-ray of 01/03/2005",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0V7QH21B7L0A_aGRDNAKWR97W7N1UN_s1.2.826.0.1.3680043.8.498.69934972518550767230365974161945131699",
+    "ground_truth_report": "The endotracheal tube is 6 cm from the carina. Enteric tube is present with redundant loop in the stomach. Right IJ central line is unchanged with the tip in the mid SVC. Increasing basilar atelectasis is present. Cardiopericardial silhouette appears similar to prior. No focal consolidation.",
+    "ground_truth_findings": [
+      "increasing basilar atelectasis",
+      "redundant loop of the enteric tube in the stomach",
+      "Endotracheal tube 6 cm from the carina",
+      "Right internal jugular central venous catheter with tip in the mid SVC"
+    ],
+    "C1_report": "The endotracheal tube tip is located approximately 5 cm above the carina, which is in an appropriate position. The lungs are clear without evidence of focal consolidation, pleural effusion, or pneumothorax. The cardiac silhouette is within normal limits in size. The mediastinal contours are unremarkable.",
+    "C1_findings": [
+      "Endotracheal tube with tip approximately 5 cm above the carina (appropriate position)"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Cardiopericardial silhouette remains unchanged from prior. No focal airspace consolidation. Basilar atelectasis has increased. The endotracheal tube tip is approximately 6 cm proximal to the carina. An enteric tube is in place with a redundant loop within the stomach. The right internal jugular central venous catheter is unchanged, with the tip in the mid superior vena cava.",
+    "C2_findings": [
+      "increased basilar atelectasis",
+      "endotracheal tube with tip approximately 6 cm proximal to the carina",
+      "enteric tube in place with a redundant loop within the stomach",
+      "right internal jugular central venous catheter with tip in the mid superior vena cava"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "053Y",
+    "PatientSex": "M",
+    "Indication": "Evaluate endotracheal tube.",
+    "Comparison": "Comparison: 2/3/2007.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0W2B2VD3T9XP_aGRDN9Z7PXZPONA67_s1.2.826.0.1.3680043.8.498.22285307627507552093058909063735728040",
+    "ground_truth_report": "ET tube terminates in the distal trachea. Monitoring leads overlie the patient. Stable cardiac and mediastinal contours given differences in technique. Low lung volumes. Bibasilar opacities. No pleural effusion or pneumothorax.",
+    "ground_truth_findings": [
+      "low lung volumes",
+      "bibasilar opacities",
+      "endotracheal tube terminates in the distal trachea",
+      "monitoring leads present"
+    ],
+    "C1_report": "Low inspiratory effort with decreased lung volumes. The endotracheal tube terminates in the distal trachea. External monitoring leads project over the chest. Patchy bibasilar opacities are present. The cardiomediastinal silhouette appears stable when accounting for technical differences. No pleural effusion or pneumothorax is identified.",
+    "C1_findings": [
+      "low inspiratory effort",
+      "decreased lung volumes",
+      "patchy bibasilar opacities",
+      "Endotracheal tube terminating in the distal trachea",
+      "External monitoring leads projecting over the chest"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows a portable upright view. The heart size appears normal. The mediastinal contours are unremarkable. The pulmonary vasculature is within normal limits. The lungs are clear bilaterally without evidence of consolidation, pleural effusion, or pneumothorax. There is no evidence of pulmonary edema. The visualized bony structures appear intact.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "061Y",
+    "PatientSex": "F",
+    "Indication": "Patient status post cardiac arrest.",
+    "Comparison": "Chest radiograph 11/26/1997",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0WVSP1DSRC2A_aGRDN44ZA3AONUIE2_s1.2.826.0.1.3680043.8.498.84307951139024973893418009826641861567",
+    "ground_truth_report": "Cardiac shadow is stable. Aortic calcifications are again seen. Right chest wall port is again noted. Increase in size in the left suprahilar mass lesion is noted consistent with progressive disease. The right lung is clear. No acute bony abnormality is seen.",
+    "ground_truth_findings": [
+      "aortic calcifications",
+      "increased size of left suprahilar mass lesion",
+      "right chest wall port"
+    ],
+    "C1_report": "The cardiomediastinal silhouette is within normal limits. The hila are unremarkable. The lungs are clear bilaterally without evidence of focal consolidation, pleural effusion, or pneumothorax. There is no evidence of pulmonary edema. The visualized bony structures are intact.",
+    "C1_findings": [],
+    "C1_source": "medgemma",
+    "C2_report": "Cardiomediastinal contours are unchanged. Aortic atherosclerotic calcifications are again present. A right chest wall infusion port remains in place. Additionally, a left-sided PICC catheter is present with the tip at the cavoatrial junction. Compared with prior imaging, there is further enlargement of a left infrahilar mass, compatible with progressive disease. The right lung appears clear. A small left pleural effusion is identified. No acute osseous abnormality is detected.",
+    "C2_findings": [
+      "aortic atherosclerotic calcifications",
+      "further enlargement of a left infrahilar mass",
+      "small left pleural effusion",
+      "right chest wall infusion port in place",
+      "left-sided PICC catheter with tip at the cavoatrial junction"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "069Y",
+    "PatientSex": "F",
+    "Indication": "Shortness of breath for 4 days, initial encounter",
+    "Comparison": "Comparison to the examination on 03/03/2016.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0WVSP1DSRC2A_aGRDN6RGKMAMJJ6Y2_s1.2.826.0.1.3680043.8.498.94321684018081489401668787835927982024",
+    "ground_truth_report": "There is a large left suprahilar mass measuring approximately 8 cm similar in appearance to 08/02/1994. No other focal parenchymal opacity. There is no pleural effusion or pneumothorax. There is stable cardiomegaly. There is a right-sided Port-A-Cath with the tip projecting over the cavoatrial junction. The osseous structures are unremarkable.",
+    "ground_truth_findings": [
+      "large left suprahilar mass measuring approximately 8 cm",
+      "cardiomegaly",
+      "right-sided Port-A-Cath with tip projecting over the cavoatrial junction"
+    ],
+    "C1_report": "The chest X-ray shows a large, ill-defined opacity in the right upper lobe, consistent with a mass. There is also evidence of mediastinal lymphadenopathy, particularly on the right side, indicated by widening of the mediastinum and prominence of the paratracheal stripe. The left lung appears relatively clear, although subtle interstitial changes might be present. The cardiac silhouette is within normal limits in size. No significant pleural effusion or pneumothorax is identified. The bony structures appear intact, although subtle lytic or blastic lesions might be difficult to appreciate on a plain radiograph.",
+    "C1_findings": [
+      "Large ill-defined right upper lobe mass",
+      "Mediastinal lymphadenopathy, right-sided",
+      "Widening of the mediastinum",
+      "Prominence of the paratracheal stripe",
+      "Subtle interstitial changes"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Mild interstitial prominence. No dense consolidation, effusion, or pneumothorax. Evidence of a hiatal hernia. The cardiomediastinal silhouette is unchanged. There is acromioclavicular osteoarthropathy.",
+    "C2_findings": [
+      "mild interstitial prominence",
+      "hiatal hernia",
+      "acromioclavicular osteoarthropathy"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "069Y",
+    "PatientSex": "F",
+    "Indication": "Bone cancer, lung cancer, altered mental status",
+    "Comparison": "COMPARISON: 08/02/1994",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0XDMTK61PG5Y_aGRDNQXHKFLISD819_s1.2.826.0.1.3680043.8.498.95270419339399577868910542555975844466",
+    "ground_truth_report": "Endotracheal tube tip between the clavicular heads and carina. An orogastric tube reaches the stomach. Right upper extremity PICC with tip at the upper cavoatrial junction. Worsening hazy opacification of the bilateral chest, suspect layering pleural fluid. The superimposed lung is also opacified. No Kerley lines or pneumothorax.",
+    "ground_truth_findings": [
+      "Worsening hazy opacification of the bilateral chest",
+      "Suspected layering pleural fluid",
+      "Superimposed lung opacification",
+      "Endotracheal tube with tip between the clavicular heads and carina",
+      "Orogastric tube with tip in the stomach",
+      "Right upper extremity PICC line with tip at the upper cavoatrial junction"
+    ],
+    "C1_report": "Umbilical venous catheter tip now in the right atrium. This should be withdrawn approximately 3 cm in order for it to lie in the intrahepatic IVC. OG tube tip remains in the fundus of the stomach. Visualized lung bases remain clear. Bowel gas pattern remains unremarkable.",
+    "C1_findings": [
+      "Umbilical venous catheter tip in the right atrium",
+      "OG tube tip in the fundus of the stomach"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The endotracheal tube terminates approximately 5 cm above the carina, which is in appropriate position. The lung volumes are low. There is increased opacity in the right lower lung field, which could represent atelectasis, consolidation, or pleural effusion. The left lung appears relatively clear, although lung volumes are low. The cardiac silhouette is normal in size. The mediastinal contours are unremarkable. No pneumothorax is identified.",
+    "C2_findings": [
+      "low lung volumes",
+      "increased opacity in the right lower lung field",
+      "Endotracheal tube with tip approximately 5 cm above the carina"
+    ],
+    "C2_source": "medgemma",
+    "PatientAge": "057Y",
+    "PatientSex": "M",
+    "Indication": "Respiratory failure with endotracheal tube",
+    "Comparison": "Yesterday",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0XDMTK61PG5Y_aGRDNXKGLWE6FXRK6_s1.2.826.0.1.3680043.8.498.84809950909076185948233401029393303821",
+    "ground_truth_report": "The lungs are reasonably well inflated. The interstitial markings are increased diffusely and more conspicuous overall today. Areas of patchy airspace opacity have developed bilaterally. The heart is top-normal in size. The pulmonary vascularity is prominent centrally. There is no pleural effusion or pneumothorax. The endotracheal tube tip projects approximately 1.8 cm above the carina. The esophagogastric tube tip and proximal port project in the gastric cardia.",
+    "ground_truth_findings": [
+      "diffuse increased interstitial markings",
+      "bilateral patchy airspace opacities",
+      "prominent central pulmonary vascularity",
+      "Endotracheal tube with tip approximately 1.8 cm above the carina",
+      "Esophagogastric tube with tip and proximal port in the gastric cardia"
+    ],
+    "C1_report": "The chest X-ray shows a predominantly right-sided opacity, involving the right lower lobe and potentially the right middle lobe, consistent with pneumonia. The opacity appears somewhat patchy and ill-defined. The left lung appears relatively clear, although subtle opacities cannot be entirely excluded. The cardiac silhouette is not well evaluated due to the overlying opacity but appears within normal limits. The endotracheal tube is present, with its tip positioned approximately 5 cm above the carina. A nasogastric tube is also visualized, coursing into the stomach and out of view. The mediastinal structures appear midline. No large pleural effusion or pneumothorax is identified. The bony structures appear intact.",
+    "C1_findings": [
+      "Right-sided pneumonia involving the right lower lobe and possibly the right middle lobe",
+      "Endotracheal tube present with tip approximately 5 cm above the carina",
+      "Nasogastric tube coursing into the stomach (tip out of view)"
+    ],
+    "C1_source": "medgemma",
+    "C2_report": "Lung inflation is satisfactory. Diffuse interstitial markings are increased and more noticeable today, and patchy airspace opacities have developed in both lungs. The cardiac silhouette is at the upper limit of normal size. Central pulmonary vascularity is prominent. No pleural effusion or pneumothorax is seen. The endotracheal tube tip lies approximately 1.8 cm above the carina. The esophagogastric tube tip and proximal port project within the gastric cardia.",
+    "C2_findings": [
+      "increased diffuse interstitial markings",
+      "patchy airspace opacities in both lungs",
+      "prominent central pulmonary vascularity",
+      "Endotracheal tube tip approximately 1.8 cm above the carina",
+      "Esophagogastric tube tip and proximal port within the gastric cardia"
+    ],
+    "C2_source": "gpt",
+    "PatientAge": "057Y",
+    "PatientSex": "M",
+    "Indication": "Intubated patient, cardiac arrest, pneumonia. Current smoker.",
+    "Comparison": "Portable chest x-ray of November 9, 2000.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  },
+  {
+    "id": "pGRDN0XJBLEP5NIK6_aGRDN8L63Z66S903R_s1.2.826.0.1.3680043.8.498.83479817339536330916870951752009394844",
+    "ground_truth_report": "Endotracheal tube tip 4.2 cm from the carina at the thoracic inlet. Tip and side port of the enteric tube below the diaphragm in the stomach. Low lung volumes. Patchy opacities at the left lung base. Heart is normal in size. Normal mediastinal contours. No pulmonary edema, pleural effusion or pneumothorax. No acute osseous abnormalities are seen.",
+    "ground_truth_findings": [
+      "Low lung volumes",
+      "Patchy opacities at the left lung base",
+      "Endotracheal tube with tip 4.2 cm above the carina at the thoracic inlet",
+      "Enteric tube with tip and side port in the stomach below the diaphragm"
+    ],
+    "C1_report": "Endotracheal tube tip is approximately 4.2 cm above the carina at the level of the thoracic inlet. The enteric tube passes below the diaphragm with both the tip and side port within the stomach. Lung volumes are low, with patchy opacities noted at the left lung base. The cardiac silhouette is normal in size, and mediastinal contours are within normal limits. No evidence of pulmonary edema, pleural effusion, or pneumothorax. No acute osseous abnormalities are identified.",
+    "C1_findings": [
+      "low lung volumes",
+      "patchy opacities at the left lung base",
+      "Endotracheal tube with tip approximately 4.2 cm above the carina at the thoracic inlet",
+      "Enteric tube with tip and side port within the stomach (below diaphragm)"
+    ],
+    "C1_source": "gpt",
+    "C2_report": "The chest X-ray shows clear lung fields bilaterally without evidence of focal consolidation, pleural effusion, or pneumothorax. The cardiac silhouette appears within normal limits in size. The mediastinal contours are unremarkable. The visualized bony structures appear intact. There is no evidence of pulmonary edema or aspiration pneumonia.",
+    "C2_findings": [],
+    "C2_source": "medgemma",
+    "PatientAge": "090Y",
+    "PatientSex": "F",
+    "Indication": "Altered mental status. Collapsed doing meth. Overdose.",
+    "Comparison": "None.",
+    "StudyDescription": "DG CHEST 1V PORT"
+  }
+]

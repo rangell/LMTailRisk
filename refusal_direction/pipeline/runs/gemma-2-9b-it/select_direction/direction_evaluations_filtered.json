@@ -1,0 +1,79 @@
+[
+    {
+        "position": -1,
+        "layer": 31,
+        "refusal_score": -9.694272994995117,
+        "steering_score": 2.974473237991333,
+        "kl_div_score": 0.0457168183342427
+    },
+    {
+        "position": -1,
+        "layer": 30,
+        "refusal_score": -9.333754539489746,
+        "steering_score": 3.139087200164795,
+        "kl_div_score": 0.05520453620758033
+    },
+    {
+        "position": -1,
+        "layer": 29,
+        "refusal_score": -8.655965805053711,
+        "steering_score": 3.2703161239624023,
+        "kl_div_score": 0.07645665951522178
+    },
+    {
+        "position": -1,
+        "layer": 23,
+        "refusal_score": -7.500709533691406,
+        "steering_score": 4.713898658752441,
+        "kl_div_score": 0.01323467681937294
+    },
+    {
+        "position": -1,
+        "layer": 22,
+        "refusal_score": -6.718366622924805,
+        "steering_score": 4.7557373046875,
+        "kl_div_score": 0.008932422079154421
+    },
+    {
+        "position": -1,
+        "layer": 32,
+        "refusal_score": -6.429638862609863,
+        "steering_score": 2.6795244216918945,
+        "kl_div_score": 0.07161271962524443
+    },
+    {
+        "position": -1,
+        "layer": 26,
+        "refusal_score": -4.181642532348633,
+        "steering_score": 4.060604095458984,
+        "kl_div_score": 0.06514153969552477
+    },
+    {
+        "position": -2,
+        "layer": 26,
+        "refusal_score": -1.750370740890503,
+        "steering_score": 3.839540481567383,
+        "kl_div_score": 0.08684368293467093
+    },
+    {
+        "position": -2,
+        "layer": 24,
+        "refusal_score": -1.08096182346344,
+        "steering_score": 4.5715718269348145,
+        "kl_div_score": 0.07796003039472563
+    },
+    {
+        "position": -2,
+        "layer": 23,
+        "refusal_score": -0.7787566184997559,
+        "steering_score": 4.673802375793457,
+        "kl_div_score": 0.06572409787578515
+    },
+    {
+        "position": -2,
+        "layer": 22,
+        "refusal_score": 0.8597102165222168,
+        "steering_score": 4.309651851654053,
+        "kl_div_score": 0.08107149687368073
+    }
+]

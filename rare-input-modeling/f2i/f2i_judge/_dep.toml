@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "crimson-score"
+version = "0.1.0"
+description = "CRIMSON: A Clinically-Grounded LLM-Based Metric for Generative Radiology Report Evaluation"
+readme = "README.md"
+license = "MIT"
+authors = [
+    { name = "Mohammed Baharoon" },
+    { name = "Thibault Heintz" },
+    { name = "Siavash Raissi" },
+    { name = "Mahmoud Alabbad" },
+    { name = "Mona Alhammad" },
+    { name = "Hassan AlOmaish" },
+    { name = "Sung Eun Kim" },
+    { name = "Oishi Banerjee" },
+    { name = "Pranav Rajpurkar" },
+]
+keywords = ["radiology", "report evaluation", "medical AI", "NLP", "LLM"]
+dependencies = [
+    "openai>=2.26.0",
+    "transformers>=5.3.0",
+    "torch>=2.10.0",
+    "peft>=0.18.1",
+    "accelerate>=1.13.0",
+    "numpy>=2.4.3",
+    "scipy>=1.17.1",
+    "tqdm>=4.67.3",
+    "pyyaml>=6.0.3",
+    "pydantic>=2.12.5",
+    "sentence-transformers>=5.2.3",
+    "scikit-learn>=1.8.0",
+    "openpyxl>=3.1.5",
+    "Pillow>=12.1.1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "twine"]
+
+[tool.setuptools.packages.find]
+include = ["CRIMSON*"]
+
+[project.urls]
+Homepage = "https://github.com/rajpurkarlab/CRIMSON"
+Repository = "https://github.com/rajpurkarlab/CRIMSON"
+Paper = "https://arxiv.org/abs/2603.06183"
+"Model (HuggingFace)" = "https://huggingface.co/CRIMSONScore/medgemma-4b-it-crimson"

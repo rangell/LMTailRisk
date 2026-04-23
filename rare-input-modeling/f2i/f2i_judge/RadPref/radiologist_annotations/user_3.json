@@ -1,0 +1,3752 @@
+{
+  "user_id": "3",
+  "annotations": {
+    "pGRDN002XFK7K18YN_aGRDNHDJ8FK89VJHP_s1.2.826.0.1.3680043.8.498.27203098707035228697184844539807478964": {
+      "C1": {
+        "finding_errors": {
+          "1": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "rating": 2,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {
+          "2": {
+            "attributes": {
+              "location": "significant"
+            },
+            "error_type": "attribute"
+          }
+        },
+        "missing_findings": {},
+        "rating": 3,
+        "rating_explanation": ""
+      },
+      "new_finding_indices": {
+        "C1": [
+          0,
+          1
+        ],
+        "C2": [
+          2
+        ],
+        "GT": [
+          3
+        ]
+      }
+    },
+    "pGRDN004OHRNA5G23_aGRDNLHWIKX0FGYYT_s1.2.826.0.1.3680043.8.498.17703255475899565489528248987988286352": {
+      "C1": {
+        "finding_errors": {},
+        "missing_findings": {},
+        "rating": 5,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "rating": 2,
+        "rating_explanation": ""
+      }
+    },
+    "pGRDN004V5XR2LNXT_aGRDNGRX1O3FRCDLD_s1.2.826.0.1.3680043.8.498.69613226067284446491252155018838527244": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "5": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "6": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "7": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "8": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN007CKBZ2NIGW_aGRDN3LLPO3SHXJ1L_s1.2.826.0.1.3680043.8.498.33884694559198174166270216269574120410": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN00831R2YXD91_aGRDN4D6PJ17NX6MC_s1.2.826.0.1.3680043.8.498.22198066198487352579984726857219821166": {
+      "C1": {
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "rating": 3,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {
+          "3": {
+            "clinical_significance": "not_actionable_not_urgent",
+            "error_type": "false"
+          }
+        },
+        "missing_findings": {
+          "2": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "rating": 3,
+        "rating_explanation": ""
+      },
+      "new_finding_indices": {
+        "C1": [],
+        "C2": [
+          3
+        ],
+        "GT": []
+      }
+    },
+    "pGRDN00BJD83T3VLP_aGRDNZTPKE2CBQJ76_s1.2.826.0.1.3680043.8.498.95242709805192383548006364604404808767": {
+      "C1": {
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "location": "negligible"
+            }
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "rating": 2,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {
+          "1": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          },
+          "2": {
+            "error_type": "attribute",
+            "attributes": {
+              "location": "negligible"
+            }
+          },
+          "3": {
+            "error_type": "attribute",
+            "attributes": {
+              "location": "negligible"
+            }
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "rating": 3,
+        "rating_explanation": ""
+      },
+      "new_finding_indices": {
+        "C1": [
+          0
+        ],
+        "C2": [],
+        "GT": []
+      }
+    },
+    "pGRDN00BYWF1S0P6W_aGRDNB4ZRH9TH3GA6_s1.2.826.0.1.3680043.8.498.17776388832901145351694011965396916857": {
+      "C1": {
+        "finding_errors": {
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent",
+            "error_type": "false"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "4": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "5": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "rating": 3,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "benign_expected"
+          },
+          "4": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "5": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "rating": 3,
+        "rating_explanation": ""
+      },
+      "new_finding_indices": {
+        "C1": [],
+        "C2": [],
+        "GT": [
+          4,
+          5
+        ]
+      }
+    },
+    "pGRDN00EAN9F0X1TC_aGRDNO2CG6DI3CL7R_s1.2.826.0.1.3680043.8.498.83231173738438171639829922832509721222": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN00EKSSAA1Y0J_aGRDNHANN744XTR97_s1.2.826.0.1.3680043.8.498.40089086953512954902978160332448649783": {
+      "C1": {
+        "finding_errors": {},
+        "missing_findings": {},
+        "rating": 5,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent",
+            "error_type": "false"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "rating": 1,
+        "rating_explanation": ""
+      }
+    },
+    "pGRDN00EV1K0ZJFXU_aGRDN9KDKK5KURMLN_s1.2.826.0.1.3680043.8.498.13470332080236713087306441044018671727": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN00EWCZZRMD4B_aGRDN4NBOQ9P6VDUU_s1.2.826.0.1.3680043.8.498.55641135279161906067508706447979078817": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN00EWCZZRMD4B_aGRDNYADDL282OGON_s1.2.826.0.1.3680043.8.498.17986217945554418500195777712104047921": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN00FJS7H4KGEJ_aGRDNUINN8T4ITBEG_s1.2.826.0.1.3680043.8.498.41193577847552744158970668755065006979": {
+      "C1": {
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "rating": 2,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {},
+        "missing_findings": {},
+        "rating": 5,
+        "rating_explanation": ""
+      }
+    },
+    "pGRDN00FJS7H4KGEJ_aGRDNVGYONX5027IE_s1.2.826.0.1.3680043.8.498.55789904602949698737685147153669043725": {
+      "C1": {
+        "finding_errors": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "rating": 1,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          },
+          "2": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          }
+        },
+        "missing_findings": {},
+        "rating": 4,
+        "rating_explanation": ""
+      }
+    },
+    "pGRDN00G6KOJ88WRH_aGRDN9HW29KQYPH7P_s1.2.826.0.1.3680043.8.498.38285700924038189473875664995514780847": {
+      "C1": {
+        "finding_errors": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "benign_expected"
+          },
+          "3": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "4": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "rating": 1,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "benign_expected"
+          },
+          "3": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "4": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "rating": 2,
+        "rating_explanation": ""
+      },
+      "new_finding_indices": {
+        "C1": [
+          2
+        ],
+        "C2": [],
+        "GT": []
+      }
+    },
+    "pGRDN00HG85F3EMMO_aGRDNP3WNIWW15ME8_s1.2.826.0.1.3680043.8.498.37979537477343416684680657055110569401": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "benign_expected"
+          }
+        }
+      },
+      "C2": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN00IRDR7ASOE2_aGRDN20531JKEMOQ9_s1.2.826.0.1.3680043.8.498.32414128152983998481097572095171075407": {
+      "C1": {
+        "finding_errors": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          },
+          "2": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "rating": 1,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          },
+          "2": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "rating": 1,
+        "rating_explanation": ""
+      },
+      "new_finding_indices": {
+        "C1": [],
+        "C2": [
+          3
+        ],
+        "GT": []
+      }
+    },
+    "pGRDN00JPKRGH2T0V_aGRDN8ARVPVKH6HDJ_s1.2.826.0.1.3680043.8.498.70536025119798622260964731907564320741": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN00JZI457E2TA_aGRDNBFAQTJL9HLOR_s1.2.826.0.1.3680043.8.498.76216770685625368712097331109611856652": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN00PXJ1JHBNI6_aGRDNSYI8BMS5I4P0_s1.2.826.0.1.3680043.8.498.68116176042103075584171054318733448596": {
+      "C1": {
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "rating": 1,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {},
+        "missing_findings": {},
+        "rating": 5,
+        "rating_explanation": ""
+      },
+      "new_finding_indices": {
+        "C1": [
+          0
+        ],
+        "C2": [
+          1
+        ],
+        "GT": [
+          1
+        ]
+      }
+    },
+    "pGRDN00R58Z7HQBNO_aGRDNA63WCBK4I9JK_s1.2.826.0.1.3680043.8.498.85543453273411245848096636382424641838": {
+      "C1": {
+        "finding_errors": {},
+        "missing_findings": {},
+        "rating": 5,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "rating": 4,
+        "rating_explanation": ""
+      }
+    },
+    "pGRDN00S5E2TRC4IG_aGRDNQ3T6XO6KPHRR_s1.2.826.0.1.3680043.8.498.37766206038048093657120438563556034756": {
+      "C1": {
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "rating": 4,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "rating": 4,
+        "rating_explanation": ""
+      },
+      "new_finding_indices": {
+        "C1": [],
+        "C2": [],
+        "GT": [
+          0
+        ]
+      }
+    },
+    "pGRDN00SAI88KP5YK_aGRDNQ582ANVQWUK2_s1.2.826.0.1.3680043.8.498.58791460171437325290204883782026912444": {
+      "C1": {
+        "finding_errors": {},
+        "missing_findings": {},
+        "rating": 5,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {},
+        "rating": 4,
+        "rating_explanation": ""
+      },
+      "new_finding_indices": {
+        "C1": [],
+        "C2": [
+          0
+        ],
+        "GT": []
+      }
+    },
+    "pGRDN00T41XUGHSO7_aGRDN2W98L01891LO_s1.2.826.0.1.3680043.8.498.67684187177066903058644571961276322216": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "6": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "9": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN00T41XUGHSO7_aGRDNR9S24YQ31IEC_s1.2.826.0.1.3680043.8.498.40596275186517847556372184755524818276": {
+      "C1": {
+        "finding_errors": {},
+        "missing_findings": {
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "rating": 4,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "rating": 2,
+        "rating_explanation": ""
+      },
+      "new_finding_indices": {
+        "C1": [
+          3
+        ],
+        "C2": [],
+        "GT": [
+          4
+        ]
+      }
+    },
+    "pGRDN00W5YLZSUIFO_aGRDN0SQT0VYXNG14_s1.2.826.0.1.3680043.8.498.86135086372190647425032716142456934589": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "4": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN00W71H6UOXVT_aGRDNQFZSFQUIV5RQ_s1.2.826.0.1.3680043.8.498.62299447384880017801933542460435400662": {
+      "C1": {
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "benign_expected"
+          }
+        },
+        "rating": 2,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {
+          "1": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent",
+            "error_type": "false"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent",
+            "error_type": "false"
+          },
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "5": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "6": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "benign_expected"
+          }
+        },
+        "rating": 2,
+        "rating_explanation": ""
+      },
+      "new_finding_indices": {
+        "C1": [],
+        "C2": [
+          4,
+          5,
+          6
+        ],
+        "GT": []
+      }
+    },
+    "pGRDN00WBRPBIP2N9_aGRDN2N03YFC4ULTJ_s1.2.826.0.1.3680043.8.498.95956870984553236147612118365923661602": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "unspecific": "significant"
+            }
+          },
+          "1": {
+            "error_type": "attribute",
+            "attributes": {
+              "measurement": "negligible"
+            }
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "6": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "7": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "5": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "6": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "7": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN00X1NYPYRKEM_aGRDNRKADB8SB2A53_s1.2.826.0.1.3680043.8.498.31719519057718195826341579045593504996": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN00X62WU5AFQB_aGRDN1ULM0PTL33J3_s1.2.826.0.1.3680043.8.498.19525866841330841229366814510411765968": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "overinterpretation": "negligible"
+            },
+            "explanation": "added small residual"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN00X6E8VHVJL4_aGRDNKKA86B27DKG9_s1.2.826.0.1.3680043.8.498.75408827311194820653844399540941574837": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN00X6E8VHVJL4_aGRDNLA7MQVF23QLD_s1.2.826.0.1.3680043.8.498.67044911046548984695713077508677064461": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN00YL3NJ5EZ5Z_aGRDNMG7XAAB0JGGL_s1.2.826.0.1.3680043.8.498.52529408849908003554416489283157658927": {
+      "C1": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "measurement": "significant"
+            }
+          },
+          "1": {
+            "error_type": "attribute",
+            "attributes": {
+              "certainty": "negligible"
+            }
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "5": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "6": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "7": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN022J6GDU797T_aGRDNT0GOBC97KIJZ_s1.2.826.0.1.3680043.8.498.43257285923708824857087750638396462346": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "benign_expected"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN02BBCVNGZB6U_aGRDN72ARBXBDBT2A_s1.2.826.0.1.3680043.8.498.36834773281183604518540174519216468057": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN02BYM83DBKHD_aGRDNP3JYUG56KWHU_s1.2.826.0.1.3680043.8.498.81352811874821856216852872451209139537": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN03L4PMG9SLIN_aGRDNDRFPGV8ZWHKA_s1.2.826.0.1.3680043.8.498.21202423781740391157179749396439862438": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN04MRIYWRHCRL_aGRDNEE7V3Y6E4RWS_s1.2.826.0.1.3680043.8.498.43669667643321935851631760190090829602": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {
+          "5": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN04MRIYWRHCRL_aGRDNSKNTSASBXQ8T_s1.2.826.0.1.3680043.8.498.31137082570929584079092157138519250117": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "benign_expected"
+          }
+        }
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "benign_expected"
+          }
+        }
+      }
+    },
+    "pGRDN05CBGBK2AACK_aGRDNY1FFSHL5VADY_s1.2.826.0.1.3680043.8.498.60535523691584017815618967610488420461": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN05W3MA1P8GGI_aGRDNCN4XHBY05Q5Y_s1.2.826.0.1.3680043.8.498.93907098502048828524580260805753634744": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "overinterpretation": "negligible"
+            }
+          },
+          "1": {
+            "error_type": "attribute",
+            "attributes": {
+              "unspecific": "significant"
+            },
+            "explanation": "lack of localization"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "location": "negligible",
+              "unspecific": "negligible"
+            }
+          }
+        },
+        "missing_findings": {
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN069X5E176VYX_aGRDN3Y62AZ1S4N8J_s1.2.826.0.1.3680043.8.498.80133538333123662853971303458759818227": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN06XR0NAU1Q5S_aGRDN1S0SF2TR8GL2_s1.2.826.0.1.3680043.8.498.99170984399636749988928359666324220528": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "4": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN06XR0NAU1Q5S_aGRDNS0A5TTR684W5_s1.2.826.0.1.3680043.8.498.15854153990133742318390939542925050598": {
+      "C1": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "attribute",
+            "attributes": {
+              "severity": "significant"
+            }
+          },
+          "5": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "6": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0719EBIAENSG_aGRDNXPMZ89ZU25KA_s1.2.826.0.1.3680043.8.498.29672153186170362089082076684689824761": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN08JUIX27HZDH_aGRDN72127B8DVKHT_s1.2.826.0.1.3680043.8.498.93863447040088832917942949360937566586": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN09AGYQRIRMC6_aGRDNIN59NFMGTBX5_s1.2.826.0.1.3680043.8.498.95323170060438656940477213463820041014": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0AGUGVHDBJ82_aGRDNGANJDB2HQSCH_s1.2.826.0.1.3680043.8.498.38352485918536697486410149148437767390": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "attribute",
+            "attributes": {
+              "measurement": "negligible"
+            }
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "5": {
+            "clinical_significance": "benign_expected"
+          }
+        }
+      },
+      "C2": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "5": {
+            "clinical_significance": "benign_expected"
+          }
+        }
+      }
+    },
+    "pGRDN0AIXVBO0JBDU_aGRDNW191LRC4UCU4_s1.2.826.0.1.3680043.8.498.56521005179595136483659058234366672915": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0BUMV3BZQCJ5_aGRDNCVSZ5LA00740_s1.2.826.0.1.3680043.8.498.74806915160385793286787746976493104293": {
+      "C1": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "severity": "negligible"
+            }
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0C7DFHGLBFL3_aGRDNFMLF6126D7HP_s1.2.826.0.1.3680043.8.498.24212280162589616669223177909359278723": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "unspecific": "negligible"
+            }
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0CYLZ0UKU9A5_aGRDN9189Y6YWVIF2_s1.2.826.0.1.3680043.8.498.86777156796461005932461254057543615296": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "attribute",
+            "attributes": {
+              "descriptor": "negligible"
+            }
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0D8HQ917QU8V_aGRDNTEU4AW3GXKBS_s1.2.826.0.1.3680043.8.498.44464637600888974351978583564318029036": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "benign_expected"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0EIGNUQU70OW_aGRDNAJDR560SGKFM_s1.2.826.0.1.3680043.8.498.20607376622603725244867202503089207484": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0F1Y2SMQN4E4_aGRDNE1B7EO2WSVJI_s1.2.826.0.1.3680043.8.498.68127578780572527782144394062236154320": {
+      "C1": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "benign_expected"
+          }
+        }
+      },
+      "C2": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "benign_expected"
+          }
+        }
+      }
+    },
+    "pGRDN0FMZIYBLFN1L_aGRDNVAYWMVVN18KQ_s1.2.826.0.1.3680043.8.498.34965876975560455659639356960753467202": {
+      "C1": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0I6KQ4K4UIGR_aGRDNC63YZJSUHD8G_s1.2.826.0.1.3680043.8.498.48294702482458685201744539104205543063": {
+      "C1": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0IGVBEUVRLVZ_aGRDN8EKK8WNLE6M2_s1.2.826.0.1.3680043.8.498.85386754707794609014489852561443872333": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0JN3OT2Z0HQC_aGRDNMIXN36CE7R1F_s1.2.826.0.1.3680043.8.498.49146873219012208757437568711622207680": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0MFOZ93QXA97_aGRDND0L8ZQAZY9RI_s1.2.826.0.1.3680043.8.498.53276251028587860090787407351686213567": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0NZPLOFFR2Q8_aGRDNQJ1BKBFRD6Q2_s1.2.826.0.1.3680043.8.498.79364682053376012465886607267451125757": {
+      "C1": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "temporal": "negligible",
+              "descriptor": "negligible"
+            }
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "location": "significant",
+              "temporal": "negligible",
+              "severity": "negligible"
+            }
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0RXYNOKR3FWP_aGRDNEFIA0BN3T04V_s1.2.826.0.1.3680043.8.498.88623863225174343058434417501954795467": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0T4S223KM713_aGRDNMEJIR7QDQP3U_s1.2.826.0.1.3680043.8.498.91582765124365046874616829877878509002": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "benign_expected"
+          }
+        }
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "benign_expected"
+          }
+        }
+      }
+    },
+    "pGRDN0C1IKD69K8EO_aGRDNKSNYC6ZOWX51_s1.2.826.0.1.3680043.8.498.80365107392314994497044195425040619079": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "5": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "6": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0C1IKD69K8EO_aGRDNZT7CHGQC0J2R_s1.2.826.0.1.3680043.8.498.85415760350305697118180614441477613946": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "temporal": "negligible"
+            }
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "2": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0FXV8KUVKKK8_aGRDNG905MZI00VBW_s1.2.826.0.1.3680043.8.498.97386908735800022677724956010911456678": {
+      "C1": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "attribute",
+            "attributes": {
+              "overinterpretation": "negligible"
+            }
+          },
+          "3": {
+            "error_type": "attribute",
+            "attributes": {
+              "overinterpretation": "negligible"
+            }
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "severity": "negligible"
+            }
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0FXV8KUVKKK8_aGRDNJK428MSKGS80_s1.2.826.0.1.3680043.8.498.62249988644827245945045603928446827843": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "location": "negligible"
+            }
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0HTYNLXE4QQK_aGRDN4CTHVZWWVVSU_s1.2.826.0.1.3680043.8.498.54784908805001270029264346777254509225": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "location": "negligible"
+            }
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "5": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0INSFKP87VBD_aGRDNNF6XJLWHO9E1_s1.2.826.0.1.3680043.8.498.36718788597288494251583097359735026737": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "benign_expected"
+          }
+        }
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "benign_expected"
+          }
+        }
+      }
+    },
+    "pGRDN0KE2XHI9FB4A_aGRDNDGABY4MXCF75_s1.2.826.0.1.3680043.8.498.11733047642881464489304187586149923449": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0NMWEAYUODSW_aGRDN1FKWSQGBMRHR_s1.2.826.0.1.3680043.8.498.32929686305847446473186203628732273946": {
+      "C1": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "benign_expected"
+          },
+          "5": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "benign_expected"
+          },
+          "1": {
+            "clinical_significance": "benign_expected"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "4": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0NZPLOFFR2Q8_aGRDN6J3XJDRBRF2Z_s1.2.826.0.1.3680043.8.498.22629599682300013867148331144694565539": {
+      "C1": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "severity": "negligible"
+            }
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "attribute",
+            "attributes": {
+              "certainty": "negligible"
+            }
+          },
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0O85081899DL_aGRDNOBMIKJCW8HUG_s1.2.826.0.1.3680043.8.498.22955079680553325329637368107654915198": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0OW660U07FQ6_aGRDNM9AZ6QDGAO6D_s1.2.826.0.1.3680043.8.498.93060635670503950690465491576554965116": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0PNJ63IUSLU7_aGRDNOWQA6SUASLTY_s1.2.826.0.1.3680043.8.498.80719923787182722264804357301130407251": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "descriptor": "negligible"
+            }
+          },
+          "1": {
+            "error_type": "attribute",
+            "attributes": {
+              "descriptor": "negligible"
+            }
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0PTZR9YF3AE1_aGRDN281FZ79IZNZE_s1.2.826.0.1.3680043.8.498.92030056221836955230802183725381624334": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "benign_expected"
+          }
+        }
+      }
+    },
+    "pGRDN0PTZR9YF3AE1_aGRDNH43OKNFJ01LX_s1.2.826.0.1.3680043.8.498.95996328390010328067335151456039231138": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "attribute",
+            "attributes": {
+              "unspecific": "significant"
+            }
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "benign_expected"
+          }
+        }
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0QEC9FYWA8W9_aGRDNNZ31UP11C4AF_s1.2.826.0.1.3680043.8.498.21799949574472486588793541959752431485": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0QEC9FYWA8W9_aGRDNPPSX1C2VXPSN_s1.2.826.0.1.3680043.8.498.80937821121355907777203646539493141807": {
+      "C1": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0QOV804VLTAT_aGRDNRAHKGD9M2258_s1.2.826.0.1.3680043.8.498.92049969095473203888322843798611699986": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "benign_expected"
+          }
+        }
+      },
+      "C2": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0QOV804VLTAT_aGRDNWTTNH5JON3KG_s1.2.826.0.1.3680043.8.498.66923851724447257149013534950223278358": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0QOY9LZAK0VT_aGRDN5IQ5Y00J3CXP_s1.2.826.0.1.3680043.8.498.72952165354291060005703305303952802534": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0R2WGN9SEZTC_aGRDN2VL46TFNBY89_s1.2.826.0.1.3680043.8.498.13014467899934696604242646305231247431": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "attribute",
+            "attributes": {
+              "location": "negligible"
+            }
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0R2WGN9SEZTC_aGRDNSPYTUYTH78GT_s1.2.826.0.1.3680043.8.498.74665364351153202679338897730069930083": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0RBYVR6JOL8G_aGRDNXMSVZYP2BSBR_s1.2.826.0.1.3680043.8.498.53188285010429430834673628409512964796": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0RF5LZW8HANL_aGRDNJUGGPEQ9IZAE_s1.2.826.0.1.3680043.8.498.97890678914578134372446848889650412402": {
+      "C1": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0STZXAHUXN17_aGRDNBSF356JUI5JJ_s1.2.826.0.1.3680043.8.498.18451369849366203658702039990074179271": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0SXOON7NT3Z5_aGRDN1PQTYYL2HJ4W_s1.2.826.0.1.3680043.8.498.33000550889864238331778380971134695454": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0SXOON7NT3Z5_aGRDNO34ALONNMBQ5_s1.2.826.0.1.3680043.8.498.58454522844862367685918731147937457430": {
+      "C1": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "location": "significant"
+            }
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "4": {
+            "error_type": "attribute",
+            "attributes": {
+              "location": "significant"
+            }
+          },
+          "5": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "6": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "7": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0T1EGH850XQY_aGRDN1ELPOWATPC2K_s1.2.826.0.1.3680043.8.498.63988719516416667725478664819829693893": {
+      "C1": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0T45AA72VT0F_aGRDN0RUTC52KYOR0_s1.2.826.0.1.3680043.8.498.41667322095810377973412329405451217033": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "5": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "6": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0TPV8QPLCE3K_aGRDN4634XT3YJN6I_s1.2.826.0.1.3680043.8.498.12706233396442034037544038861867657936": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0V7QH21B7L0A_aGRDN6UE5LNN8QTM7_s1.2.826.0.1.3680043.8.498.19874077600989850285172840853235491255": {
+      "C1": {
+        "finding_errors": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent",
+            "error_type": "false"
+          },
+          "1": {
+            "attributes": {
+              "measurement": "significant"
+            },
+            "error_type": "attribute"
+          },
+          "2": {
+            "attributes": {
+              "location": "negligible"
+            },
+            "error_type": "attribute"
+          }
+        },
+        "missing_findings": {},
+        "rating": 3,
+        "rating_explanation": ""
+      },
+      "C2": {
+        "finding_errors": {
+          "0": {
+            "clinical_significance": "not_actionable_not_urgent",
+            "error_type": "false"
+          },
+          "1": {
+            "attributes": {
+              "measurement": "significant"
+            },
+            "error_type": "attribute"
+          }
+        },
+        "missing_findings": {},
+        "rating": 3,
+        "rating_explanation": ""
+      }
+    },
+    "pGRDN0V7QH21B7L0A_aGRDNAKWR97W7N1UN_s1.2.826.0.1.3680043.8.498.69934972518550767230365974161945131699": {
+      "C1": {
+        "rating": 3,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "attribute",
+            "attributes": {
+              "measurement": "negligible"
+            }
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0W2B2VD3T9XP_aGRDN9Z7PXZPONA67_s1.2.826.0.1.3680043.8.498.22285307627507552093058909063735728040": {
+      "C1": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0WVSP1DSRC2A_aGRDN44ZA3AONUIE2_s1.2.826.0.1.3680043.8.498.84307951139024973893418009826641861567": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "benign_expected"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 4,
+        "rating_explanation": "",
+        "finding_errors": {
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0WVSP1DSRC2A_aGRDN6RGKMAMJJ6Y2_s1.2.826.0.1.3680043.8.498.94321684018081489401668787835927982024": {
+      "C1": {
+        "rating": 1,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "4": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "false",
+            "clinical_significance": "benign_expected"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    },
+    "pGRDN0XDMTK61PG5Y_aGRDNQXHKFLISD819_s1.2.826.0.1.3680043.8.498.95270419339399577868910542555975844466": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        },
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "5": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "error_type": "attribute",
+            "attributes": {
+              "descriptor": "negligible"
+            }
+          }
+        },
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0XDMTK61PG5Y_aGRDNXKGLWE6FXRK6_s1.2.826.0.1.3680043.8.498.84809950909076185948233401029393303821": {
+      "C1": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {
+          "0": {
+            "error_type": "false",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "error_type": "attribute",
+            "attributes": {
+              "measurement": "significant"
+            }
+          }
+        },
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      }
+    },
+    "pGRDN0XJBLEP5NIK6_aGRDN8L63Z66S903R_s1.2.826.0.1.3680043.8.498.83479817339536330916870951752009394844": {
+      "C1": {
+        "rating": 5,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {}
+      },
+      "C2": {
+        "rating": 2,
+        "rating_explanation": "",
+        "finding_errors": {},
+        "missing_findings": {
+          "0": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "1": {
+            "clinical_significance": "actionable_not_urgent"
+          },
+          "2": {
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          "3": {
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        }
+      }
+    }
+  }
+}

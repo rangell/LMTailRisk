@@ -1,0 +1,607 @@
+{
+  "average": {
+    "crimson_score": 0.869
+  },
+  "results": [
+    {
+      "id": 1,
+      "ground_truth": "Heart size is normal. The lungs are clear bilaterally. No pleural effusion or pneumothorax is identified. The mediastinal contour is within normal limits. No acute osseous abnormality.",
+      "predicted": "Heart size is normal. The lungs are clear. No pleural effusion or pneumothorax. The mediastinal contour is unremarkable.",
+      "crimson_score": 1.0,
+      "raw_evaluation": {
+        "reference_findings": [],
+        "predicted_findings": [],
+        "matched_findings": [],
+        "errors": {
+          "false_findings": [],
+          "missing_findings": [],
+          "attribute_errors": []
+        }
+      },
+      "crimson_total_errors": 0,
+      "crimson_weighted_errors": 0,
+      "crimson_false_findings": 0,
+      "crimson_missing_findings": 0,
+      "crimson_attribute_errors": 0
+    },
+    {
+      "id": 2,
+      "ground_truth": "Moderate cardiomegaly is present. There is a large left pleural effusion with associated compressive atelectasis at the left lung base. Mild pulmonary vascular congestion is noted. No pneumothorax. The mediastinum is midline.",
+      "predicted": "The heart is enlarged. There is a left pleural effusion. The left lung base shows atelectasis. Mild vascular congestion. No pneumothorax.",
+      "crimson_score": 0.8571,
+      "raw_evaluation": {
+        "reference_findings": [
+          {
+            "id": "R1",
+            "finding": "Moderate cardiomegaly is present.",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          {
+            "id": "R2",
+            "finding": "There is a large left pleural effusion",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          {
+            "id": "R3",
+            "finding": "associated compressive atelectasis at the left lung base",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          {
+            "id": "R4",
+            "finding": "Mild pulmonary vascular congestion is noted.",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        ],
+        "predicted_findings": [
+          {
+            "id": "P1",
+            "finding": "The heart is enlarged.",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          {
+            "id": "P2",
+            "finding": "There is a left pleural effusion.",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          {
+            "id": "P3",
+            "finding": "The left lung base shows atelectasis.",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          {
+            "id": "P4",
+            "finding": "Mild vascular congestion.",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        ],
+        "matched_findings": [
+          {
+            "ref_id": "R1",
+            "pred_id": "P1"
+          },
+          {
+            "ref_id": "R2",
+            "pred_id": "P2"
+          },
+          {
+            "ref_id": "R3",
+            "pred_id": "P3"
+          },
+          {
+            "ref_id": "R4",
+            "pred_id": "P4"
+          }
+        ],
+        "errors": {
+          "false_findings": [],
+          "missing_findings": [],
+          "attribute_errors": [
+            {
+              "ref_id": "R1",
+              "pred_id": "P1",
+              "severity": "negligible",
+              "error_types": [
+                "severity"
+              ],
+              "explanation": "Reference specifies moderate cardiomegaly; prediction states cardiomegaly without severity."
+            },
+            {
+              "ref_id": "R2",
+              "pred_id": "P2",
+              "severity": "significant",
+              "error_types": [
+                "severity"
+              ],
+              "explanation": "Reference describes a large left pleural effusion; prediction omits size/severity."
+            },
+            {
+              "ref_id": "R3",
+              "pred_id": "P3",
+              "severity": "negligible",
+              "error_types": [
+                "descriptor"
+              ],
+              "explanation": "Reference specifies compressive atelectasis; prediction notes atelectasis without the compressive descriptor."
+            }
+          ]
+        }
+      },
+      "crimson_total_errors": 3,
+      "crimson_weighted_errors": 0.5,
+      "crimson_false_findings": 0,
+      "crimson_missing_findings": 0,
+      "crimson_attribute_errors": 3
+    },
+    {
+      "id": 3,
+      "ground_truth": "There is a 2.3 cm spiculated nodule in the right upper lobe. No other pulmonary nodules are identified. No pleural effusion or pneumothorax. Heart size is normal. Mediastinal lymph nodes are not enlarged. No osseous lesions.",
+      "predicted": "A 2.3 cm spiculated mass is seen in the right upper lobe. No additional nodules. No pleural effusion. Heart size is normal. No mediastinal lymphadenopathy.",
+      "crimson_score": 0.5,
+      "raw_evaluation": {
+        "reference_findings": [
+          {
+            "id": "R1",
+            "finding": "There is a 2.3 cm spiculated nodule in the right upper lobe.",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        ],
+        "predicted_findings": [
+          {
+            "id": "P1",
+            "finding": "A 2.3 cm spiculated mass is seen in the right upper lobe.",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        ],
+        "matched_findings": [
+          {
+            "ref_id": "R1",
+            "pred_id": "P1"
+          }
+        ],
+        "errors": {
+          "false_findings": [],
+          "missing_findings": [],
+          "attribute_errors": [
+            {
+              "ref_id": "R1",
+              "pred_id": "P1",
+              "severity": "significant",
+              "error_types": [
+                "overinterpretation"
+              ],
+              "explanation": "Predicted describes a'mass' while the reference describes a 'nodule' in the same location; this is an unsupported increase in diagnostic specificity that could alter management."
+            }
+          ]
+        }
+      },
+      "crimson_total_errors": 1,
+      "crimson_weighted_errors": 0.5,
+      "crimson_false_findings": 0,
+      "crimson_missing_findings": 0,
+      "crimson_attribute_errors": 1
+    },
+    {
+      "id": 4,
+      "ground_truth": "Heart size is normal. There is a right lower lobe consolidation consistent with pneumonia. Small right pleural effusion is present. No pneumothorax. The left lung is clear. No pneumothorax.",
+      "predicted": "Normal heart size. Right lower lobe consolidation. Small right pleural effusion. Left lung is clear.",
+      "crimson_score": 1.0,
+      "raw_evaluation": {
+        "reference_findings": [
+          {
+            "id": "R1",
+            "finding": "right lower lobe consolidation consistent with pneumonia",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          {
+            "id": "R2",
+            "finding": "Small right pleural effusion",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        ],
+        "predicted_findings": [
+          {
+            "id": "P1",
+            "finding": "Right lower lobe consolidation",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          {
+            "id": "P2",
+            "finding": "Small right pleural effusion",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        ],
+        "matched_findings": [
+          {
+            "ref_id": "R1",
+            "pred_id": "P1"
+          },
+          {
+            "ref_id": "R2",
+            "pred_id": "P2"
+          }
+        ],
+        "errors": {
+          "false_findings": [],
+          "missing_findings": [],
+          "attribute_errors": [
+            {
+              "ref_id": "R1",
+              "pred_id": "P1",
+              "severity": "negligible",
+              "error_types": [
+                "unspecific"
+              ],
+              "explanation": "Reference specifies consolidation is consistent with pneumonia; prediction reports consolidation without the diagnostic qualifier."
+            }
+          ]
+        }
+      },
+      "crimson_total_errors": 1,
+      "crimson_weighted_errors": 0.0,
+      "crimson_false_findings": 0,
+      "crimson_missing_findings": 0,
+      "crimson_attribute_errors": 1
+    },
+    {
+      "id": 5,
+      "ground_truth": "The lungs are hyperinflated consistent with COPD. Flattening of the hemidiaphragms is present. Increased retrosternal airspace. No acute consolidation. No pleural effusion or pneumothorax. Heart size is normal. No pneumothorax.",
+      "predicted": "Hyperinflated lungs consistent with emphysema/COPD. Flattened diaphragms. No consolidation or pleural effusion.",
+      "crimson_score": 0.6667,
+      "raw_evaluation": {
+        "reference_findings": [
+          {
+            "id": "R1",
+            "finding": "The lungs are hyperinflated consistent with COPD.",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          {
+            "id": "R2",
+            "finding": "Flattening of the hemidiaphragms is present.",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          {
+            "id": "R3",
+            "finding": "Increased retrosternal airspace.",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        ],
+        "predicted_findings": [
+          {
+            "id": "P1",
+            "finding": "Hyperinflated lungs consistent with emphysema/COPD.",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          {
+            "id": "P2",
+            "finding": "Flattened diaphragms.",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        ],
+        "matched_findings": [
+          {
+            "ref_id": "R1",
+            "pred_id": "P1"
+          },
+          {
+            "ref_id": "R2",
+            "pred_id": "P2"
+          }
+        ],
+        "errors": {
+          "false_findings": [],
+          "missing_findings": [
+            "R3"
+          ],
+          "attribute_errors": []
+        }
+      },
+      "crimson_total_errors": 1,
+      "crimson_weighted_errors": 0.25,
+      "crimson_false_findings": 0,
+      "crimson_missing_findings": 1,
+      "crimson_attribute_errors": 0
+    },
+    {
+      "id": 6,
+      "ground_truth": "Mild cardiomegaly. Bilateral perihilar haziness and vascular engorgement consistent with pulmonary edema. Bilateral pleural effusions, right greater than left. Kerley B lines are present in the right lower zone. No pneumothorax.",
+      "predicted": "Mild cardiomegaly. Bilateral pulmonary edema with perihilar haziness. Bilateral pleural effusions, right larger than left. No pneumothorax.",
+      "crimson_score": 0.6667,
+      "raw_evaluation": {
+        "reference_findings": [
+          {
+            "id": "R1",
+            "finding": "Mild cardiomegaly.",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          {
+            "id": "R2",
+            "finding": "Bilateral perihilar haziness consistent with pulmonary edema.",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          {
+            "id": "R3",
+            "finding": "Bilateral perihilar vascular engorgement consistent with pulmonary edema.",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          {
+            "id": "R4",
+            "finding": "Bilateral pleural effusions, right greater than left.",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          {
+            "id": "R5",
+            "finding": "Kerley B lines are present in the right lower zone.",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        ],
+        "predicted_findings": [
+          {
+            "id": "P1",
+            "finding": "Mild cardiomegaly.",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          {
+            "id": "P2",
+            "finding": "Bilateral pulmonary edema with perihilar haziness.",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          {
+            "id": "P3",
+            "finding": "Bilateral pleural effusions, right larger than left.",
+            "clinical_significance": "actionable_not_urgent"
+          }
+        ],
+        "matched_findings": [
+          {
+            "ref_id": "R1",
+            "pred_id": "P1"
+          },
+          {
+            "ref_id": "R2",
+            "pred_id": "P2"
+          },
+          {
+            "ref_id": "R4",
+            "pred_id": "P3"
+          }
+        ],
+        "errors": {
+          "false_findings": [],
+          "missing_findings": [
+            "R3",
+            "R5"
+          ],
+          "attribute_errors": []
+        }
+      },
+      "crimson_total_errors": 2,
+      "crimson_weighted_errors": 0.75,
+      "crimson_false_findings": 0,
+      "crimson_missing_findings": 2,
+      "crimson_attribute_errors": 0
+    },
+    {
+      "id": 7,
+      "ground_truth": "Heart size is normal. The lungs are clear bilaterally. No pleural effusion or pneumothorax. Mild degenerative changes are noted in the thoracic spine. No acute osseous findings.",
+      "predicted": "Normal heart size. Clear lungs. No pleural effusion or pneumothorax. Thoracic spine degenerative changes.",
+      "crimson_score": 1.0,
+      "raw_evaluation": {
+        "reference_findings": [
+          {
+            "id": "R1",
+            "finding": "Mild degenerative changes are noted in the thoracic spine.",
+            "clinical_significance": "benign_expected"
+          }
+        ],
+        "predicted_findings": [
+          {
+            "id": "P1",
+            "finding": "Thoracic spine degenerative changes.",
+            "clinical_significance": "benign_expected"
+          }
+        ],
+        "matched_findings": [
+          {
+            "ref_id": "R1",
+            "pred_id": "P1"
+          }
+        ],
+        "errors": {
+          "false_findings": [],
+          "missing_findings": [],
+          "attribute_errors": [
+            {
+              "ref_id": "R1",
+              "pred_id": "P1",
+              "severity": "negligible",
+              "error_types": [
+                "severity"
+              ],
+              "explanation": "Reference specifies'mild' degenerative changes; predicted omits severity."
+            }
+          ]
+        }
+      },
+      "crimson_total_errors": 1,
+      "crimson_weighted_errors": 0.0,
+      "crimson_false_findings": 0,
+      "crimson_missing_findings": 0,
+      "crimson_attribute_errors": 1
+    },
+    {
+      "id": 8,
+      "ground_truth": "There is a 1.1 cm pulmonary nodule in the left lower lobe. No satellite nodules. No pleural effusion or pneumothorax. Heart size is mildly enlarged. No hilar lymphadenopathy. Prior granulomatous disease suggested by small calcified right hilar lymph nodes.",
+      "predicted": "1.1 cm nodule in the left lower lobe. No satellite lesions. No pleural effusion. Mild cardiomegaly. Small calcified right hilar nodes consistent with old granulomatous disease.",
+      "crimson_score": 1.0,
+      "raw_evaluation": {
+        "reference_findings": [
+          {
+            "id": "R1",
+            "finding": "There is a 1.1 cm pulmonary nodule in the left lower lobe.",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          {
+            "id": "R2",
+            "finding": "Heart size is mildly enlarged.",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          {
+            "id": "R3",
+            "finding": "small calcified right hilar lymph nodes.",
+            "clinical_significance": "not_actionable_not_urgent"
+          },
+          {
+            "id": "R4",
+            "finding": "Prior granulomatous disease suggested by",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        ],
+        "predicted_findings": [
+          {
+            "id": "P1",
+            "finding": "1.1 cm nodule in the left lower lobe.",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          {
+            "id": "P2",
+            "finding": "Mild cardiomegaly.",
+            "clinical_significance": "actionable_not_urgent"
+          },
+          {
+            "id": "P3",
+            "finding": "Small calcified right hilar nodes consistent with old granulomatous disease.",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        ],
+        "matched_findings": [
+          {
+            "ref_id": "R1",
+            "pred_id": "P1"
+          },
+          {
+            "ref_id": "R2",
+            "pred_id": "P2"
+          },
+          {
+            "ref_id": "R3",
+            "pred_id": "P3"
+          },
+          {
+            "ref_id": "R4",
+            "pred_id": "P3"
+          }
+        ],
+        "errors": {
+          "false_findings": [],
+          "missing_findings": [],
+          "attribute_errors": []
+        }
+      },
+      "crimson_total_errors": 0,
+      "crimson_weighted_errors": 0,
+      "crimson_false_findings": 0,
+      "crimson_missing_findings": 0,
+      "crimson_attribute_errors": 0
+    },
+    {
+      "id": 9,
+      "ground_truth": "No acute cardiopulmonary abnormality. Heart size is normal. Lungs are clear. No pleural effusion or pneumothorax. Surgical clips are noted in the left axilla consistent with prior lymph node dissection. No bony lesion identified.",
+      "predicted": "Normal cardiopulmonary examination. Surgical clips in left axilla. No pleural effusion or pneumothorax.",
+      "crimson_score": 1.0,
+      "raw_evaluation": {
+        "reference_findings": [
+          {
+            "id": "R1",
+            "finding": "Surgical clips are noted in the left axilla consistent with prior lymph node dissection.",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        ],
+        "predicted_findings": [
+          {
+            "id": "P1",
+            "finding": "Surgical clips in left axilla.",
+            "clinical_significance": "not_actionable_not_urgent"
+          }
+        ],
+        "matched_findings": [
+          {
+            "ref_id": "R1",
+            "pred_id": "P1"
+          }
+        ],
+        "errors": {
+          "false_findings": [],
+          "missing_findings": [],
+          "attribute_errors": [
+            {
+              "ref_id": "R1",
+              "pred_id": "P1",
+              "severity": "negligible",
+              "error_types": [
+                "unspecific"
+              ],
+              "explanation": "Reference specifies the clips are consistent with prior lymph node dissection; predicted report omits this benign/expected context, making it less specific."
+            }
+          ]
+        }
+      },
+      "crimson_total_errors": 1,
+      "crimson_weighted_errors": 0.0,
+      "crimson_false_findings": 0,
+      "crimson_missing_findings": 0,
+      "crimson_attribute_errors": 1
+    },
+    {
+      "id": 10,
+      "ground_truth": "Interval development of a right-sided pneumothorax, moderate in size, with approximately 25% collapse of the right lung. No mediastinal shift. Left lung is clear. Heart size is normal.",
+      "predicted": "New right pneumothorax, moderate size, approximately 25% right lung collapse. No mediastinal shift. Left lung clear.",
+      "crimson_score": 1.0,
+      "raw_evaluation": {
+        "reference_findings": [
+          {
+            "id": "R1",
+            "finding": "Interval development of a right-sided pneumothorax, moderate in size",
+            "clinical_significance": "urgent"
+          },
+          {
+            "id": "R2",
+            "finding": "approximately 25% collapse of the right lung",
+            "clinical_significance": "urgent"
+          }
+        ],
+        "predicted_findings": [
+          {
+            "id": "P1",
+            "finding": "New right pneumothorax, moderate size",
+            "clinical_significance": "urgent"
+          },
+          {
+            "id": "P2",
+            "finding": "approximately 25% right lung collapse",
+            "clinical_significance": "urgent"
+          }
+        ],
+        "matched_findings": [
+          {
+            "ref_id": "R1",
+            "pred_id": "P1"
+          },
+          {
+            "ref_id": "R2",
+            "pred_id": "P2"
+          }
+        ],
+        "errors": {
+          "false_findings": [],
+          "missing_findings": [],
+          "attribute_errors": []
+        }
+      },
+      "crimson_total_errors": 0,
+      "crimson_weighted_errors": 0,
+      "crimson_false_findings": 0,
+      "crimson_missing_findings": 0,
+      "crimson_attribute_errors": 0
+    }
+  ]
+}

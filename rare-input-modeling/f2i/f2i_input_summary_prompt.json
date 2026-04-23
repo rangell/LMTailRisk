@@ -1,0 +1,57 @@
+{
+    "system_role": "You are a radiology report classifier. Your task is to read the findings and indication from a radiology report and extract a structured 3-level classification of the findings.",
+    "instructions": [
+        "Level 1 — Normal vs Abnormal: Determine whether the study is normal or abnormal. Use 'normal' if there are no significant findings. Use 'abnormal' if any clinically relevant finding is present.",
+        "Level 2 — Abnormal subtype: If abnormal, identify the category or categories of abnormality. Choose from: infection, edema, pleural, airway, cardiac, trauma, device-related, mass/nodule, vascular, musculoskeletal, other. You may assign multiple subtypes if more than one is present. If normal, set this to null.",
+        "Level 3 — Location and severity: For each abnormal subtype identified, specify the anatomical location (e.g., right lower lobe, bilateral, left hilum) and severity (mild, moderate, severe, or indeterminate). If normal, set this to null.",
+        "Do not invent information not present in the input.",
+        "Return your output as a JSON object with keys: level1, level2, level3.",
+        "level2 should be a list of subtype strings (or null).",
+        "level3 should be a list of objects, each with keys: subtype, location, severity (or null)."
+    ],
+    "examples": [
+        {
+            "input": "Indication: Shortness of breath.\n\nFindings:\nThe lungs are clear bilaterally without consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormality.",
+            "output": {
+                "level1": "normal",
+                "level2": null,
+                "level3": null
+            }
+        },
+        {
+            "input": "Indication: Fever and cough.\n\nFindings:\nRight lower lobe consolidation consistent with pneumonia. No pleural effusion. No pneumothorax. Cardiomediastinal silhouette is normal.",
+            "output": {
+                "level1": "abnormal",
+                "level2": ["infection"],
+                "level3": [
+                    {"subtype": "infection", "location": "right lower lobe", "severity": "moderate"}
+                ]
+            }
+        },
+        {
+            "input": "Findings:\nMild cardiomegaly. Bilateral interstitial opacities consistent with pulmonary edema. Small bilateral pleural effusions. No pneumothorax.",
+            "output": {
+                "level1": "abnormal",
+                "level2": ["cardiac", "edema", "pleural"],
+                "level3": [
+                    {"subtype": "cardiac", "location": "cardiac silhouette", "severity": "mild"},
+                    {"subtype": "edema", "location": "bilateral", "severity": "moderate"},
+                    {"subtype": "pleural", "location": "bilateral", "severity": "mild"}
+                ]
+            }
+        },
+        {
+            "input": "Indication: Trauma.\n\nFindings:\nMultiple left-sided rib fractures (ribs 4-7). Moderate left pneumothorax. A chest tube is in place on the left. No hemothorax identified.",
+            "output": {
+                "level1": "abnormal",
+                "level2": ["trauma", "airway", "device-related"],
+                "level3": [
+                    {"subtype": "trauma", "location": "left ribs 4-7", "severity": "moderate"},
+                    {"subtype": "airway", "location": "left", "severity": "moderate"},
+                    {"subtype": "device-related", "location": "left", "severity": "indeterminate"}
+                ]
+            }
+        }
+    ],
+    "final_instruction": "Now classify the following radiology input. Return only a valid JSON object with keys level1, level2, level3:\n\n{input_text}\n\nOutput:"
+}

@@ -1,0 +1,17 @@
+{
+    "pile": {
+        "ce_loss": 2.028208490520143,
+        "perplexity": 7.600457862323132,
+        "n_tokens": 904444
+    },
+    "alpaca": {
+        "ce_loss": 2.0998574892101294,
+        "perplexity": 8.165006228163953,
+        "n_tokens": 269234
+    },
+    "alpaca_custom_completions": {
+        "ce_loss": 0.3112343768777791,
+        "perplexity": 1.3651091337112344,
+        "n_tokens": 33284
+    }
+}

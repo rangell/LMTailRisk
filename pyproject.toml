@@ -1,0 +1,27 @@
+[project]
+name = "rare-generations"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=4.4.1",
+    "fire>=0.7.1",
+    "huggingface-hub[cli]>=0.36.0",
+    "ipython>=9.8.0",
+    "jaxtyping>=0.3.3",
+    "joblib>=1.5.2",
+    "kernels>=0.12.3",
+    "liger-kernel>=0.7.0",
+    "litellm>=1.80.9",
+    "matplotlib>=3.10.7",
+    "nest-asyncio>=1.6.0",
+    "numpy>=2.2.6",
+    "peft>=0.18.0",
+    "setuptools-scm>=9.2.2",
+    "transformers<5.0.0",
+    "trl>=0.29.1",
+    "vllm",
+    "pandas<3.0.0",
+    "zstandard>=0.25.0",
+]
