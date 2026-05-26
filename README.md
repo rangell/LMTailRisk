@@ -18,8 +18,6 @@ Install [uv](https://docs.astral.sh/uv/getting-started/installation/). Then run:
 ```bash
 uv sync
 ```
-```
-```
 This installs all dependencies.
 
 ## Download Monte Carlo Estimates
